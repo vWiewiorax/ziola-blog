@@ -1,97 +1,69 @@
+import Image from "next/image";
 import Link from "next/link";
-import PostCard from "@/components/post-card";
-import { getAllPosts, getCategories } from "@/lib/posts";
+import PostListItem from "@/components/post-list-item";
+import Sidebar from "@/components/sidebar";
+import { formatDate } from "@/lib/post-utils";
+import { getAllPosts } from "@/lib/posts";
 
-export default function HomePage() {
-  const posts = getAllPosts();
-  const categories = getCategories();
+export const revalidate = 300;
+
+export default async function HomePage() {
+  const posts = await getAllPosts();
   const [featured, ...rest] = posts;
 
   return (
-    <div className="space-y-16">
-      <section className="rounded-3xl bg-emerald-900 px-8 py-14 text-emerald-50 sm:px-12">
-        <p className="text-sm uppercase tracking-[0.2em] text-emerald-300">
-          Zioła · Napary · Zdrowie naturalne
-        </p>
-        <h1 className="mt-4 max-w-2xl font-serif text-4xl leading-tight sm:text-5xl">
-          Natura ma swoją aptekę. Warto wiedzieć, jak z niej korzystać.
-        </h1>
-        <p className="mt-5 max-w-xl text-emerald-100/85">
-          Rzetelne, konkretne poradniki o ziołach: co na co działa, jak to zaparzyć i kiedy lepiej
-          odpuścić. Bez cudownych obietnic i bez sprzedawania suplementów.
-        </p>
-        <div className="mt-8 flex flex-wrap gap-3">
+    <div className="mx-auto max-w-6xl gap-10 px-4 py-10 lg:grid lg:grid-cols-[1fr_320px]">
+      <div>
+        {featured ? (
+          <section className="border-b border-neutral-200 pb-8">
+            <Link href={`/blog/${featured.slug}`}>
+              <Image
+                src={featured.image}
+                alt={featured.title}
+                width={860}
+                height={420}
+                priority
+                className="h-[320px] w-full rounded object-cover"
+              />
+            </Link>
+            <p className="mt-4 text-xs uppercase tracking-widest text-brand">{featured.category}</p>
+            <h2 className="mt-2 text-[28px] leading-tight">
+              <Link href={`/blog/${featured.slug}`} className="hover:text-brand">
+                {featured.title}
+              </Link>
+            </h2>
+            <p className="mt-1 text-xs text-black">{formatDate(featured.date)}</p>
+            <p className="mt-3 text-[15px] leading-relaxed text-neutral-600">{featured.excerpt}</p>
+            <Link
+              href={`/blog/${featured.slug}`}
+              className="mt-3 inline-block text-sm text-brand hover:underline"
+            >
+              Czytaj dalej »
+            </Link>
+          </section>
+        ) : (
+          <p className="text-neutral-600">Brak opublikowanych artykułów.</p>
+        )}
+
+        <section className="mt-10">
+          <h2 className="text-[22px]">Najnowsze artykuły</h2>
+          <div className="mt-6 space-y-7">
+            {rest.map((post) => (
+              <PostListItem key={post.slug} post={post} />
+            ))}
+          </div>
           <Link
             href="/blog"
-            className="rounded-full bg-emerald-50 px-5 py-2.5 text-sm font-medium text-emerald-900 transition hover:bg-white"
+            className="mt-8 inline-block bg-brand px-6 py-3 text-sm text-white hover:bg-brand-dark"
           >
-            Przeglądaj artykuły
+            Zobacz wszystkie artykuły
           </Link>
-          <Link
-            href="/o-nas"
-            className="rounded-full border border-emerald-200/40 px-5 py-2.5 text-sm font-medium text-emerald-50 transition hover:bg-emerald-800"
-          >
-            Poznaj nas
-          </Link>
-        </div>
-      </section>
-
-      <section>
-        <div className="flex flex-wrap gap-2">
-          {categories.map((category) => (
-            <span
-              key={category}
-              className="rounded-full border border-emerald-900/15 px-3 py-1 text-sm text-emerald-900/75"
-            >
-              {category}
-            </span>
-          ))}
-        </div>
-      </section>
-
-      {featured ? (
-        <section>
-          <h2 className="font-serif text-2xl text-emerald-950">Polecany artykuł</h2>
-          <div className="relative mt-5 grid gap-8 rounded-3xl border border-emerald-900/10 bg-white p-8 sm:grid-cols-[auto_1fr]">
-            <div className="text-6xl" aria-hidden>
-              {featured.emoji}
-            </div>
-            <div>
-              <p className="text-xs uppercase tracking-widest text-emerald-700">
-                {featured.category}
-              </p>
-              <h3 className="mt-2 font-serif text-2xl leading-snug text-emerald-950">
-                <Link href={`/blog/${featured.slug}`} className="hover:underline">
-                  {featured.title}
-                </Link>
-              </h3>
-              <p className="mt-3 text-emerald-900/75">{featured.excerpt}</p>
-              <Link
-                href={`/blog/${featured.slug}`}
-                className="mt-5 inline-block text-sm font-medium text-emerald-700 hover:underline"
-              >
-                Czytaj artykuł →
-              </Link>
-            </div>
-          </div>
         </section>
-      ) : null}
+      </div>
 
-      <section>
-        <div className="flex items-baseline justify-between">
-          <h2 className="font-serif text-2xl text-emerald-950">Najnowsze wpisy</h2>
-          <Link href="/blog" className="text-sm text-emerald-700 hover:underline">
-            Zobacz wszystkie
-          </Link>
-        </div>
-        <div className="mt-6 grid gap-6 sm:grid-cols-2">
-          {rest.slice(0, 4).map((post) => (
-            <div key={post.slug} className="relative">
-              <PostCard post={post} />
-            </div>
-          ))}
-        </div>
-      </section>
+      <div className="mt-12 lg:mt-0">
+        <Sidebar />
+      </div>
     </div>
   );
 }
