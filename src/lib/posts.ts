@@ -1,75 +1,61 @@
+import "server-only";
+
 import fs from "fs";
 import path from "path";
 import matter from "gray-matter";
 import { remark } from "remark";
 import html from "remark-html";
 import gfm from "remark-gfm";
+import { collection, getDocs, orderBy, query, where } from "firebase/firestore";
+import { getDb, isFirebaseConfigured } from "./firebase";
+import { POSTS_COLLECTION, toPost, type Post } from "./post-utils";
 
 const postsDirectory = path.join(process.cwd(), "content", "posts");
 
-export type PostMeta = {
-  slug: string;
-  title: string;
-  excerpt: string;
-  date: string;
-  category: string;
-  readingTime: number;
-  emoji: string;
-};
-
-export type Post = PostMeta & {
-  contentHtml: string;
-};
-
-function readPostFile(slug: string) {
-  const fullPath = path.join(postsDirectory, `${slug}.md`);
-  const fileContents = fs.readFileSync(fullPath, "utf8");
-  return matter(fileContents);
-}
-
-function toMeta(slug: string, data: Record<string, unknown>, content: string): PostMeta {
-  const words = content.split(/\s+/).filter(Boolean).length;
-  return {
-    slug,
-    title: String(data.title ?? slug),
-    excerpt: String(data.excerpt ?? ""),
-    date: String(data.date ?? ""),
-    category: String(data.category ?? "Zioła"),
-    emoji: String(data.emoji ?? "🌿"),
-    readingTime: Math.max(1, Math.round(words / 200)),
-  };
-}
-
-export function getPostSlugs(): string[] {
+function getLocalPosts(): Post[] {
+  if (!fs.existsSync(postsDirectory)) return [];
   return fs
     .readdirSync(postsDirectory)
     .filter((name) => name.endsWith(".md"))
-    .map((name) => name.replace(/\.md$/, ""));
+    .map((name) => {
+      const slug = name.replace(/\.md$/, "");
+      const { data, content } = matter(fs.readFileSync(path.join(postsDirectory, name), "utf8"));
+      return toPost(slug, data, content);
+    });
 }
 
-export function getAllPosts(): PostMeta[] {
-  return getPostSlugs()
-    .map((slug) => {
-      const { data, content } = readPostFile(slug);
-      return toMeta(slug, data, content);
-    })
-    .sort((a, b) => (a.date < b.date ? 1 : -1));
+async function getFirestorePosts(): Promise<Post[]> {
+  const snapshot = await getDocs(
+    query(
+      collection(getDb(), POSTS_COLLECTION),
+      where("published", "==", true),
+      orderBy("date", "desc"),
+    ),
+  );
+  return snapshot.docs.map((document) => {
+    const data = document.data();
+    return toPost(String(data.slug ?? document.id), data, String(data.content ?? ""));
+  });
 }
 
-export async function getPost(slug: string): Promise<Post> {
-  const { data, content } = readPostFile(slug);
-  const processed = await remark().use(gfm).use(html).process(content);
-  return { ...toMeta(slug, data, content), contentHtml: processed.toString() };
+/**
+ * Artykuły pochodzą z Firestore. Gdy Firebase nie jest skonfigurowany
+ * (np. lokalny podgląd bez .env.local), używane są pliki Markdown z content/posts.
+ */
+export async function getAllPosts(): Promise<Post[]> {
+  const posts = isFirebaseConfigured() ? await getFirestorePosts() : getLocalPosts();
+  return posts.sort((a, b) => (a.date < b.date ? 1 : -1));
 }
 
-export function getCategories(): string[] {
-  return Array.from(new Set(getAllPosts().map((post) => post.category))).sort();
+export async function getPost(slug: string): Promise<Post | null> {
+  const post = (await getAllPosts()).find((item) => item.slug === slug);
+  if (!post) return null;
+  // sanitize: treść przechodzi przez filtr, więc nawet wpis z panelu nie wstrzyknie skryptu
+  const processed = await remark().use(gfm).use(html, { sanitize: true }).process(post.content);
+  return { ...post, contentHtml: processed.toString() };
 }
 
-export function formatDate(date: string): string {
-  return new Intl.DateTimeFormat("pl-PL", {
-    day: "numeric",
-    month: "long",
-    year: "numeric",
-  }).format(new Date(date));
+export async function getCategories(): Promise<string[]> {
+  const posts = await getAllPosts();
+  return Array.from(new Set(posts.map((post) => post.category))).sort();
 }
