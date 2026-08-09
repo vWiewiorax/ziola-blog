@@ -16,6 +16,9 @@ Bez `.env.local` strona działa w trybie podglądu i czyta artykuły z `content/
 
 ## Konfiguracja Firebase
 
+Pełna instrukcja krok po kroku (z rozwiązywaniem typowych problemów):
+[KONFIGURACJA.md](KONFIGURACJA.md). W skrócie:
+
 1. Utwórz projekt w [konsoli Firebase](https://console.firebase.google.com/).
 2. **Build → Firestore Database** → utwórz bazę (tryb produkcyjny).
 3. **Build → Authentication** → włącz metodę *E-mail/hasło* i dodaj swoje konto (Users → Add user).
