@@ -1,12 +1,17 @@
 import type { NextConfig } from "next";
 
+// Emulatory Firebase działają na localhost, więc CSP musi je wtedy dopuścić.
+const emulatorOrigins = process.env.NEXT_PUBLIC_FIREBASE_EMULATOR_HOST
+  ? " http://127.0.0.1:* http://localhost:*"
+  : "";
+
 const contentSecurityPolicy = [
   "default-src 'self'",
   "script-src 'self' 'unsafe-inline' https://apis.google.com https://www.gstatic.com",
   "style-src 'self' 'unsafe-inline'",
   "img-src 'self' data: blob: https:",
   "font-src 'self' data:",
-  "connect-src 'self' https://*.googleapis.com https://*.firebaseio.com wss://*.firebaseio.com https://securetoken.googleapis.com https://identitytoolkit.googleapis.com",
+  `connect-src 'self' https://*.googleapis.com https://*.firebaseio.com wss://*.firebaseio.com https://securetoken.googleapis.com https://identitytoolkit.googleapis.com${emulatorOrigins}`,
   "frame-src https://*.firebaseapp.com",
   "frame-ancestors 'none'",
   "base-uri 'self'",

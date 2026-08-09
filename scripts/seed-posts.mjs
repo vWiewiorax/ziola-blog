@@ -6,8 +6,8 @@ import fs from "node:fs";
 import path from "node:path";
 import matter from "gray-matter";
 import { initializeApp } from "firebase/app";
-import { getAuth, signInWithEmailAndPassword } from "firebase/auth";
-import { doc, getFirestore, setDoc } from "firebase/firestore";
+import { connectAuthEmulator, getAuth, signInWithEmailAndPassword } from "firebase/auth";
+import { connectFirestoreEmulator, doc, getFirestore, setDoc } from "firebase/firestore";
 
 const app = initializeApp({
   apiKey: process.env.NEXT_PUBLIC_FIREBASE_API_KEY,
@@ -26,10 +26,18 @@ if (!email || !password) {
   process.exit(1);
 }
 
-const credential = await signInWithEmailAndPassword(getAuth(app), email, password);
-console.log("Zalogowano jako", credential.user.uid);
+const emulatorHost = process.env.NEXT_PUBLIC_FIREBASE_EMULATOR_HOST;
 
+const auth = getAuth(app);
 const db = getFirestore(app);
+
+if (emulatorHost) {
+  connectAuthEmulator(auth, `http://${emulatorHost}:9099`, { disableWarnings: true });
+  connectFirestoreEmulator(db, emulatorHost, 8080);
+}
+
+const credential = await signInWithEmailAndPassword(auth, email, password);
+console.log("Zalogowano jako", credential.user.uid);
 const directory = path.join(process.cwd(), "content", "posts");
 
 for (const file of fs.readdirSync(directory).filter((name) => name.endsWith(".md"))) {

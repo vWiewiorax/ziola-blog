@@ -38,6 +38,7 @@ export default function PostEditor() {
   const [form, setForm] = useState(emptyForm);
   const [status, setStatus] = useState<"idle" | "loading" | "saving">(id ? "loading" : "idle");
   const [error, setError] = useState("");
+  const [slugEdited, setSlugEdited] = useState(false);
 
   useEffect(() => {
     if (!id) return;
@@ -114,7 +115,7 @@ export default function PostEditor() {
           value={form.title}
           onChange={(event) => {
             update("title", event.target.value);
-            if (!id && !form.slug) update("slug", slugify(event.target.value));
+            if (!id && !slugEdited) update("slug", slugify(event.target.value));
           }}
           className={field}
         />
@@ -128,7 +129,10 @@ export default function PostEditor() {
           <input
             id="slug"
             value={form.slug}
-            onChange={(event) => update("slug", slugify(event.target.value))}
+            onChange={(event) => {
+              setSlugEdited(true);
+              update("slug", slugify(event.target.value));
+            }}
             disabled={Boolean(id)}
             className={`${field} disabled:bg-neutral-100`}
           />

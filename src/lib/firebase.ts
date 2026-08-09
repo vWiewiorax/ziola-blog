@@ -1,6 +1,6 @@
 import { getApp, getApps, initializeApp, type FirebaseApp } from "firebase/app";
-import { getAuth, type Auth } from "firebase/auth";
-import { getFirestore, type Firestore } from "firebase/firestore";
+import { connectAuthEmulator, getAuth, type Auth } from "firebase/auth";
+import { connectFirestoreEmulator, getFirestore, type Firestore } from "firebase/firestore";
 
 const firebaseConfig = {
   apiKey: process.env.NEXT_PUBLIC_FIREBASE_API_KEY,
@@ -15,6 +15,8 @@ export function isFirebaseConfigured(): boolean {
   return Boolean(firebaseConfig.apiKey && firebaseConfig.projectId && firebaseConfig.appId);
 }
 
+const emulatorHost = process.env.NEXT_PUBLIC_FIREBASE_EMULATOR_HOST;
+
 export function getFirebaseApp(): FirebaseApp {
   if (!isFirebaseConfigured()) {
     throw new Error(
@@ -24,12 +26,25 @@ export function getFirebaseApp(): FirebaseApp {
   return getApps().length ? getApp() : initializeApp(firebaseConfig);
 }
 
+let dbInstance: Firestore | undefined;
+let authInstance: Auth | undefined;
+
 export function getDb(): Firestore {
-  return getFirestore(getFirebaseApp());
+  if (!dbInstance) {
+    dbInstance = getFirestore(getFirebaseApp());
+    if (emulatorHost) connectFirestoreEmulator(dbInstance, emulatorHost, 8080);
+  }
+  return dbInstance;
 }
 
 export function getFirebaseAuth(): Auth {
-  return getAuth(getFirebaseApp());
+  if (!authInstance) {
+    authInstance = getAuth(getFirebaseApp());
+    if (emulatorHost) {
+      connectAuthEmulator(authInstance, `http://${emulatorHost}:9099`, { disableWarnings: true });
+    }
+  }
+  return authInstance;
 }
 
 export const adminUid = process.env.NEXT_PUBLIC_ADMIN_UID ?? "";
