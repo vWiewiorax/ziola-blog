@@ -43,8 +43,18 @@ async function getFirestorePosts(): Promise<Post[]> {
  * (np. lokalny podgląd bez .env.local), używane są pliki Markdown z content/posts.
  */
 export async function getAllPosts(): Promise<Post[]> {
-  const posts = isFirebaseConfigured() ? await getFirestorePosts() : getLocalPosts();
+  const posts = isFirebaseConfigured() ? await getFirestorePostsSafely() : getLocalPosts();
   return posts.sort((a, b) => (a.date < b.date ? 1 : -1));
+}
+
+async function getFirestorePostsSafely(): Promise<Post[]> {
+  try {
+    const posts = await getFirestorePosts();
+    return posts.length ? posts : getLocalPosts();
+  } catch (error) {
+    console.error("Nie udało się pobrać artykułów z Firestore:", error);
+    return getLocalPosts();
+  }
 }
 
 export async function getPost(slug: string): Promise<Post | null> {
