@@ -2,6 +2,7 @@ import type { Metadata } from "next";
 import PageBanner from "@/components/page-banner";
 import PostListItem from "@/components/post-list-item";
 import Sidebar from "@/components/sidebar";
+import { pluralizePosts } from "@/lib/post-utils";
 import { getAllPosts } from "@/lib/posts";
 
 export const revalidate = 300;
@@ -34,8 +35,7 @@ export default async function BlogPage({ searchParams }: { searchParams: SearchP
       <div className="mx-auto max-w-6xl gap-10 px-4 py-10 lg:grid lg:grid-cols-[1fr_320px]">
         <div>
           <p className="text-sm text-neutral-600">
-            Znaleziono {posts.length}{" "}
-            {posts.length === 1 ? "artykuł" : posts.length < 5 ? "artykuły" : "artykułów"}.
+            Znaleziono {posts.length} {pluralizePosts(posts.length)}.
           </p>
           <div className="mt-6 space-y-7">
             {posts.map((post) => (

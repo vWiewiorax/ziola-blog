@@ -4,38 +4,39 @@ runConfig:
   concurrency: 80
 
 env:
+  # Konfiguracja klienta Firebase jest publiczna z założenia — dostęp ogranicza firestore.rules.
   - variable: NEXT_PUBLIC_FIREBASE_API_KEY
-    value: ""
+    value: "AIzaSyC88b5Mn6PDPhg5fm_PLFVWu1enq9y2n9Y"
     availability:
       - BUILD
       - RUNTIME
   - variable: NEXT_PUBLIC_FIREBASE_AUTH_DOMAIN
-    value: ""
+    value: "ziolablog.firebaseapp.com"
     availability:
       - BUILD
       - RUNTIME
   - variable: NEXT_PUBLIC_FIREBASE_PROJECT_ID
-    value: ""
+    value: "ziolablog"
     availability:
       - BUILD
       - RUNTIME
   - variable: NEXT_PUBLIC_FIREBASE_STORAGE_BUCKET
-    value: ""
+    value: "ziolablog.firebasestorage.app"
     availability:
       - BUILD
       - RUNTIME
   - variable: NEXT_PUBLIC_FIREBASE_MESSAGING_SENDER_ID
-    value: ""
+    value: "545631318515"
     availability:
       - BUILD
       - RUNTIME
   - variable: NEXT_PUBLIC_FIREBASE_APP_ID
-    value: ""
+    value: "1:545631318515:web:26d87bc4e8a0044ce52286"
     availability:
       - BUILD
       - RUNTIME
   - variable: NEXT_PUBLIC_ADMIN_UID
-    value: ""
+    value: "W1VpatvhZKaG9ONkoTVNMF8F2DV2"
     availability:
       - BUILD
       - RUNTIME
