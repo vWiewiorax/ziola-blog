@@ -34,6 +34,14 @@ export function toPost(slug: string, data: Record<string, unknown>, content: str
   };
 }
 
+export function pluralizePosts(count: number): string {
+  const rest10 = count % 10;
+  const rest100 = count % 100;
+  if (count === 1) return "artykuł";
+  if (rest10 >= 2 && rest10 <= 4 && (rest100 < 12 || rest100 > 14)) return "artykuły";
+  return "artykułów";
+}
+
 export function formatDate(date: string): string {
   const parsed = new Date(date);
   if (Number.isNaN(parsed.getTime())) return date;

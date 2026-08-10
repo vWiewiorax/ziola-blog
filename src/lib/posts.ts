@@ -47,9 +47,18 @@ export async function getAllPosts(): Promise<Post[]> {
   return posts.sort((a, b) => (a.date < b.date ? 1 : -1));
 }
 
+const FIRESTORE_TIMEOUT_MS = 3000;
+
+function withTimeout<T>(promise: Promise<T>, ms: number): Promise<T> {
+  return new Promise((resolve, reject) => {
+    const timer = setTimeout(() => reject(new Error(`Firestore nie odpowiedział w ${ms} ms`)), ms);
+    promise.then(resolve, reject).finally(() => clearTimeout(timer));
+  });
+}
+
 async function getFirestorePostsSafely(): Promise<Post[]> {
   try {
-    const posts = await getFirestorePosts();
+    const posts = await withTimeout(getFirestorePosts(), FIRESTORE_TIMEOUT_MS);
     return posts.length ? posts : getLocalPosts();
   } catch (error) {
     console.error("Nie udało się pobrać artykułów z Firestore:", error);
