@@ -1,3 +1,7 @@
+export const SITE_NAME = "Herbalum";
+export const SITE_DESCRIPTION =
+  "Praktyczny portal o ziołach, naparach i naturalnych sposobach na zdrowie. Przepisy, dawkowanie i przeciwwskazania opisane prostym językiem.";
+
 /**
  * Adres kanoniczny strony. Na Vercelu w podglądach (preview) nie ma własnej domeny,
  * więc używany jest VERCEL_URL; produkcja korzysta z NEXT_PUBLIC_SITE_URL.

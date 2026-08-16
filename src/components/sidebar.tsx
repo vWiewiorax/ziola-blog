@@ -16,8 +16,8 @@ export default async function Sidebar() {
       </Suspense>
 
       <section>
-        <h2 className="text-[22px]">Kategorie wpisów</h2>
-        <ul className="mt-4 divide-y divide-neutral-200 border-y border-neutral-200 text-sm">
+        <h2 className="text-[24px]">Kategorie wpisów</h2>
+        <ul className="mt-4 divide-y divide-neutral-200 border-y border-neutral-200 text-[16px]">
           {categories.map((category) => (
             <li key={category}>
               <Link
@@ -25,7 +25,7 @@ export default async function Sidebar() {
                 className="flex items-center justify-between py-2.5 text-ink hover:text-brand"
               >
                 {category}
-                <span className="text-xs text-neutral-400">
+                <span className="text-sm text-neutral-400">
                   {posts.filter((post) => post.category === category).length}
                 </span>
               </Link>
@@ -36,10 +36,10 @@ export default async function Sidebar() {
 
       <section className="border border-neutral-200">
         <div className="bg-neutral-50 p-5">
-          <p className="font-[family-name:var(--font-montserrat)] text-lg font-semibold text-black">
+          <p className="font-[family-name:var(--font-montserrat)] text-xl font-semibold text-black">
             Zielnik na własnym parapecie
           </p>
-          <p className="mt-2 text-sm text-neutral-600">
+          <p className="mt-2 text-[15px] text-neutral-600">
             Mięta, melisa i tymianek rosną w doniczce przez cały rok. Sprawdź, jak je uprawiać
             i suszyć.
           </p>
@@ -53,7 +53,7 @@ export default async function Sidebar() {
       </section>
 
       <section>
-        <h2 className="text-[22px]">Aktualności</h2>
+        <h2 className="text-[24px]">Aktualności</h2>
         <ul className="mt-4 space-y-4">
           {latest.map((post) => (
             <li key={post.slug} className="flex gap-3">
@@ -66,11 +66,11 @@ export default async function Sidebar() {
                   className="h-[60px] w-[80px] rounded object-cover"
                 />
               </Link>
-              <div className="text-sm">
+              <div className="text-[15px]">
                 <Link href={`/blog/${post.slug}`} className="font-medium text-black hover:text-brand">
                   {post.title}
                 </Link>
-                <p className="mt-0.5 text-xs text-neutral-500">{formatDate(post.date)}</p>
+                <p className="mt-0.5 text-sm text-neutral-500">{formatDate(post.date)}</p>
               </div>
             </li>
           ))}

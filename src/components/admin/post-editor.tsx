@@ -6,6 +6,7 @@ import { useRouter, useSearchParams } from "next/navigation";
 import { useEffect, useState } from "react";
 import { getDb } from "@/lib/firebase";
 import { POSTS_COLLECTION } from "@/lib/post-utils";
+import { revalidatePublicPages } from "./revalidate";
 
 export function slugify(value: string): string {
   const map: Record<string, string> = {
@@ -29,6 +30,15 @@ const emptyForm = {
   content: "",
   published: true,
 };
+
+function saveErrorMessage(error: unknown): string {
+  const code = typeof error === "object" && error && "code" in error ? String(error.code) : "";
+  if (code === "permission-denied") {
+    return "Firestore odrzucił zapis. Sprawdź, czy w firestore.rules jest Twój UID i czy reguły są wgrane, oraz czy wszystkie pola są wypełnione.";
+  }
+  if (code === "unavailable") return "Brak połączenia z Firestore — spróbuj ponownie.";
+  return `Zapis nie powiódł się${code ? ` (${code})` : ""}.`;
+}
 
 export default function PostEditor() {
   const router = useRouter();
@@ -85,9 +95,11 @@ export default function PostEditor() {
         },
         { merge: true },
       );
+      await revalidatePublicPages(slug);
       router.push("/admin");
-    } catch {
-      setError("Zapis nie powiódł się — sprawdź uprawnienia i połączenie.");
+      router.refresh();
+    } catch (caught) {
+      setError(saveErrorMessage(caught));
       setStatus("idle");
     }
   }

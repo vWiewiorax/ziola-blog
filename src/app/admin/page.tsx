@@ -4,6 +4,7 @@ import { collection, deleteDoc, doc, getDocs, orderBy, query } from "firebase/fi
 import Link from "next/link";
 import { useCallback, useEffect, useState } from "react";
 import AdminGuard from "@/components/admin/admin-guard";
+import { revalidatePublicPages } from "@/components/admin/revalidate";
 import { useAdminSession } from "@/components/admin/use-admin-session";
 import { getDb } from "@/lib/firebase";
 import { formatDate, POSTS_COLLECTION } from "@/lib/post-utils";
@@ -54,8 +55,13 @@ function PostsTable() {
 
   async function handleDelete(id: string) {
     if (!window.confirm("Usunąć ten artykuł na stałe?")) return;
-    await deleteDoc(doc(getDb(), POSTS_COLLECTION, id));
-    await load();
+    try {
+      await deleteDoc(doc(getDb(), POSTS_COLLECTION, id));
+      await revalidatePublicPages(id);
+      await load();
+    } catch {
+      setError("Nie udało się usunąć artykułu — sprawdź uprawnienia.");
+    }
   }
 
   return (

@@ -1,4 +1,4 @@
-# Portal Zielarski 🌿
+# Herbalum 🌿
 
 Blog o ziołach i zdrowiu naturalnym: Next.js 15 (App Router), TypeScript, Tailwind CSS 4 i Firebase
 (Firestore + Authentication). Artykuły dodajesz z panelu `/admin` — dostęp ma wyłącznie konto
@@ -50,6 +50,16 @@ node --env-file=.env.local scripts/seed-posts.mjs
   ustawione w `next.config.ts`; `poweredByHeader` wyłączony.
 - Panel `/admin` jest oznaczony `noindex` i chroniony logowaniem Firebase Auth.
 - Klucze `NEXT_PUBLIC_FIREBASE_*` są publiczne z założenia — realną ochronę dają reguły Firestore.
+
+## SEO
+
+- `sitemap.xml` i `robots.txt` generowane automatycznie (`src/app/sitemap.ts`, `src/app/robots.ts`);
+  panel `/admin` jest wykluczony z indeksowania.
+- Metadane Open Graph i Twitter Card dla każdego artykułu, plus `canonical` na każdej stronie —
+  adres bazowy bierze się z `NEXT_PUBLIC_SITE_URL`.
+- Dane strukturalne schema.org: `WebSite` + `SearchAction` w layoucie, `Article` i `BreadcrumbList`
+  na stronie artykułu.
+- Listy filtrowane (`/blog?q=`, wyniki wyszukiwania) mają `noindex`, żeby nie duplikować treści.
 
 ## Publikacja (Vercel)
 

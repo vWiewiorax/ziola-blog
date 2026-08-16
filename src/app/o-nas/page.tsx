@@ -4,7 +4,8 @@ import Sidebar from "@/components/sidebar";
 
 export const metadata: Metadata = {
   title: "O nas",
-  description: "Kim jesteśmy i jak powstają treści na Portalu Zielarskim.",
+  description: "Kim jesteśmy i jak powstają treści w Herbalum.",
+  alternates: { canonical: "/o-nas" },
 };
 
 export default function AboutPage() {
@@ -12,9 +13,9 @@ export default function AboutPage() {
     <>
       <PageBanner title="O nas" breadcrumb={[{ label: "O nas" }]} />
       <div className="mx-auto max-w-6xl gap-10 px-4 py-10 lg:grid lg:grid-cols-[1fr_320px]">
-        <div className="prose max-w-none prose-headings:font-[family-name:var(--font-montserrat)] prose-headings:text-black prose-p:text-ink prose-li:text-ink prose-a:text-brand">
+        <div className="prose prose-lg max-w-none prose-headings:font-[family-name:var(--font-montserrat)] prose-headings:text-black prose-p:text-ink prose-li:text-ink prose-a:text-brand">
           <p>
-            <strong>Portal Zielarski</strong> powstał z prostej potrzeby: chcieliśmy mieć jedno
+            <strong>Herbalum</strong> powstał z prostej potrzeby: chcieliśmy mieć jedno
             miejsce, w którym wiedza o ziołach jest podana konkretnie — bez magicznego języka
             i bez sprzedawania kolejnych suplementów.
           </p>
