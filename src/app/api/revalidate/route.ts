@@ -18,14 +18,17 @@ export async function POST(request: Request) {
   const idToken = request.headers.get("authorization")?.replace(/^Bearer\s+/i, "");
   if (!idToken) return NextResponse.json({ error: "Brak tokenu" }, { status: 401 });
 
-  const lookup = await fetch(
-    `https://identitytoolkit.googleapis.com/v1/accounts:lookup?key=${apiKey}`,
-    {
-      method: "POST",
-      headers: { "Content-Type": "application/json" },
-      body: JSON.stringify({ idToken }),
-    },
-  );
+  // Przy włączonych emulatorach tokeny podpisuje emulator Auth, nie produkcyjne API.
+  const emulatorHost = process.env.NEXT_PUBLIC_FIREBASE_EMULATOR_HOST;
+  const identityToolkit = emulatorHost
+    ? `http://${emulatorHost}:9099/identitytoolkit.googleapis.com`
+    : "https://identitytoolkit.googleapis.com";
+
+  const lookup = await fetch(`${identityToolkit}/v1/accounts:lookup?key=${apiKey}`, {
+    method: "POST",
+    headers: { "Content-Type": "application/json" },
+    body: JSON.stringify({ idToken }),
+  });
   if (!lookup.ok) return NextResponse.json({ error: "Token odrzucony" }, { status: 401 });
 
   const data: { users?: { localId?: string }[] } = await lookup.json();
