@@ -1,10 +1,16 @@
 "use client";
 
-import Link from "next/link";
+import { useRouter } from "next/navigation";
+import { useEffect } from "react";
 import { useAdminSession } from "./use-admin-session";
 
 export default function AdminGuard({ children }: { children: React.ReactNode }) {
+  const router = useRouter();
   const { loading, user, isAdmin, configured, logout } = useAdminSession();
+
+  useEffect(() => {
+    if (configured && !loading && !user) router.replace("/admin/login");
+  }, [configured, loading, user, router]);
 
   if (!configured) {
     return (
@@ -16,16 +22,7 @@ export default function AdminGuard({ children }: { children: React.ReactNode }) 
 
   if (loading) return <p className="text-sm text-neutral-600">Ładowanie...</p>;
 
-  if (!user) {
-    return (
-      <p className="text-sm">
-        Musisz się zalogować.{" "}
-        <Link href="/admin/login" className="text-brand hover:underline">
-          Przejdź do logowania »
-        </Link>
-      </p>
-    );
-  }
+  if (!user) return <p className="text-sm text-neutral-600">Przekierowanie do logowania...</p>;
 
   if (!isAdmin) {
     return (

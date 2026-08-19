@@ -26,17 +26,17 @@ export default async function HomePage() {
                 className="h-[320px] w-full rounded object-cover"
               />
             </Link>
-            <p className="mt-4 text-xs uppercase tracking-widest text-brand">{featured.category}</p>
-            <h2 className="mt-2 text-[28px] leading-tight">
+            <p className="mt-4 text-sm uppercase tracking-widest text-brand">{featured.category}</p>
+            <h2 className="mt-2 text-[32px] leading-tight">
               <Link href={`/blog/${featured.slug}`} className="hover:text-brand">
                 {featured.title}
               </Link>
             </h2>
-            <p className="mt-1 text-xs text-black">{formatDate(featured.date)}</p>
-            <p className="mt-3 text-[15px] leading-relaxed text-neutral-600">{featured.excerpt}</p>
+            <p className="mt-1 text-sm text-black">{formatDate(featured.date)}</p>
+            <p className="mt-3 text-[17px] leading-relaxed text-neutral-600">{featured.excerpt}</p>
             <Link
               href={`/blog/${featured.slug}`}
-              className="mt-3 inline-block text-sm text-brand hover:underline"
+              className="mt-3 inline-block text-[16px] text-brand hover:underline"
             >
               Czytaj dalej »
             </Link>
@@ -46,7 +46,7 @@ export default async function HomePage() {
         )}
 
         <section className="mt-10">
-          <h2 className="text-[22px]">Najnowsze artykuły</h2>
+          <h2 className="text-[26px]">Najnowsze artykuły</h2>
           <div className="mt-6 space-y-7">
             {rest.map((post) => (
               <PostListItem key={post.slug} post={post} />
@@ -54,7 +54,7 @@ export default async function HomePage() {
           </div>
           <Link
             href="/blog"
-            className="mt-8 inline-block bg-brand px-6 py-3 text-sm text-white hover:bg-brand-dark"
+            className="mt-8 inline-block bg-brand px-6 py-3 text-[16px] text-white hover:bg-brand-dark"
           >
             Zobacz wszystkie artykuły
           </Link>

@@ -15,16 +15,16 @@ export default function PostListItem({ post }: { post: PostMeta }) {
         />
       </Link>
       <div>
-        <h2 className="text-[18px] leading-snug">
+        <h2 className="text-[21px] leading-snug">
           <Link href={`/blog/${post.slug}`} className="hover:text-brand">
             {post.title}
           </Link>
         </h2>
-        <p className="mt-1 text-xs text-black">{formatDate(post.date)}</p>
-        <p className="mt-3 text-sm leading-[1.5] text-neutral-500">{post.excerpt}</p>
+        <p className="mt-1 text-sm text-black">{formatDate(post.date)}</p>
+        <p className="mt-3 text-[16px] leading-[1.6] text-neutral-500">{post.excerpt}</p>
         <Link
           href={`/blog/${post.slug}`}
-          className="mt-3 inline-block text-sm text-brand hover:underline"
+          className="mt-3 inline-block text-[16px] text-brand hover:underline"
         >
           Czytaj dalej »
         </Link>

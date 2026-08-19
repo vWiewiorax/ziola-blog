@@ -5,7 +5,8 @@ import Sidebar from "@/components/sidebar";
 
 export const metadata: Metadata = {
   title: "Kontakt",
-  description: "Napisz do redakcji Portalu Zielarskiego.",
+  description: "Napisz do redakcji Herbalum.",
+  alternates: { canonical: "/kontakt" },
 };
 
 export default function ContactPage() {
