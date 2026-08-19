@@ -32,6 +32,9 @@ const securityHeaders = [
 const nextConfig: NextConfig = {
   poweredByHeader: false,
   reactStrictMode: true,
+  // Bez tego karta, ktora juz odwiedzila artykul, po edycji w panelu pokazuje
+  // stara tresc az 5 minut (klientowy Router Cache Next.js).
+  experimental: { staleTimes: { static: 0, dynamic: 0 } },
   async headers() {
     return [{ source: "/:path*", headers: securityHeaders }];
   },
