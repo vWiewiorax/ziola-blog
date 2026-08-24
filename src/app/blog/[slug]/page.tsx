@@ -112,7 +112,7 @@ export default async function PostPage({ params }: Params) {
 
           <aside className="mt-10 border-l-4 border-brand bg-neutral-50 p-5 text-[15px] leading-relaxed text-neutral-700">
             <strong className="text-black">Pamiętaj:</strong> artykuł ma charakter informacyjny.
-            Zioła bywają aktywne farmakologicznie i mogą wchodzić w interakcje z lekami — w razie
+            Zioła bywają aktywne farmakologicznie i mogą wchodzić w interakcje z lekami, w razie
             wątpliwości skonsultuj się z lekarzem lub farmaceutą.
           </aside>
 

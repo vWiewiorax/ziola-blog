@@ -28,6 +28,19 @@ if (!email || !password) {
 
 const emulatorHost = process.env.NEXT_PUBLIC_FIREBASE_EMULATOR_HOST;
 
+const CATEGORY_IMAGES = {
+  "Trawienie": "/posts/kategorie/trawienie.jpg",
+  "Odporność": "/posts/kategorie/odpornosc.jpg",
+  "Adaptogeny": "/posts/kategorie/adaptogeny.jpg",
+  "Oczyszczające": "/posts/kategorie/oczyszczajace.jpg",
+  "Przeciwzapalne": "/posts/kategorie/przeciwzapalne.jpg",
+  "Serce i krążenie": "/posts/kategorie/serce.jpg",
+  "Skóra i włosy": "/posts/kategorie/skora.jpg",
+  "Uspokajające": "/posts/kategorie/uspokajajace.jpg",
+  "Kobieta": "/posts/kategorie/kobieta.jpg",
+  "Poradniki": "/posts/kategorie/poradniki.jpg",
+};
+
 const auth = getAuth(app);
 const db = getFirestore(app);
 
@@ -50,7 +63,7 @@ for (const file of fs.readdirSync(directory).filter((name) => name.endsWith(".md
     excerpt: data.excerpt ?? "",
     category: data.category ?? "Poradniki",
     date: String(data.date ?? new Date().toISOString().slice(0, 10)),
-    image: data.image ?? `/posts/${slug}.jpg`,
+    image: String(data.image ?? "").trim() || CATEGORY_IMAGES[data.category] || "/posts/kategorie/poradniki.jpg",
     content,
     published: true,
   });

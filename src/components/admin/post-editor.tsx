@@ -5,7 +5,7 @@ import Link from "next/link";
 import { useRouter, useSearchParams } from "next/navigation";
 import { useEffect, useState } from "react";
 import { getDb } from "@/lib/firebase";
-import { POSTS_COLLECTION } from "@/lib/post-utils";
+import { POSTS_COLLECTION, imageForCategory } from "@/lib/post-utils";
 import { revalidatePublicPages } from "./revalidate";
 
 export function slugify(value: string): string {
@@ -36,7 +36,7 @@ function saveErrorMessage(error: unknown): string {
   if (code === "permission-denied") {
     return "Firestore odrzucił zapis. Sprawdź, czy w firestore.rules jest Twój UID i czy reguły są wgrane, oraz czy wszystkie pola są wypełnione.";
   }
-  if (code === "unavailable") return "Brak połączenia z Firestore — spróbuj ponownie.";
+  if (code === "unavailable") return "Brak połączenia z Firestore, spróbuj ponownie.";
   return `Zapis nie powiódł się${code ? ` (${code})` : ""}.`;
 }
 
@@ -90,7 +90,7 @@ export default function PostEditor() {
         {
           ...form,
           slug,
-          image: form.image.trim() || `/posts/${slug}.jpg`,
+          image: form.image.trim() || imageForCategory(form.category),
           updatedAt: serverTimestamp(),
         },
         { merge: true },

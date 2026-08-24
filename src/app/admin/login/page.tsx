@@ -35,7 +35,7 @@ export default function AdminLoginPage() {
   if (!configured) {
     return (
       <p className="border-l-4 border-red-500 bg-red-50 p-4 text-sm">
-        Firebase nie jest skonfigurowany — uzupełnij zmienne NEXT_PUBLIC_FIREBASE_* w .env.local.
+        Firebase nie jest skonfigurowany, uzupełnij zmienne NEXT_PUBLIC_FIREBASE_* w .env.local.
       </p>
     );
   }

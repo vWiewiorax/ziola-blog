@@ -60,7 +60,7 @@ function PostsTable() {
       await revalidatePublicPages(id);
       await load();
     } catch {
-      setError("Nie udało się usunąć artykułu — sprawdź uprawnienia.");
+      setError("Nie udało się usunąć artykułu, sprawdź uprawnienia.");
     }
   }
 
@@ -108,7 +108,7 @@ function PostsTable() {
       </ul>
 
       {!loading && posts.length === 0 ? (
-        <p className="mt-6 text-sm text-neutral-600">Brak artykułów — dodaj pierwszy.</p>
+        <p className="mt-6 text-sm text-neutral-600">Brak artykułów, dodaj pierwszy.</p>
       ) : null}
     </div>
   );

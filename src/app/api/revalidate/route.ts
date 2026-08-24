@@ -2,7 +2,7 @@ import { revalidatePath } from "next/cache";
 import { NextResponse } from "next/server";
 
 /**
- * Odświeża cache stron publicznych po zapisie w panelu — bez tego nowy artykuł
+ * Odświeża cache stron publicznych po zapisie w panelu, bez tego nowy artykuł
  * pojawiłby się dopiero po wygaśnięciu `revalidate`.
  *
  * Token właściciela jest weryfikowany w Firebase (accounts:lookup), więc nie da się

@@ -20,7 +20,7 @@ const emulatorHost = process.env.NEXT_PUBLIC_FIREBASE_EMULATOR_HOST;
 export function getFirebaseApp(): FirebaseApp {
   if (!isFirebaseConfigured()) {
     throw new Error(
-      "Brak konfiguracji Firebase — uzupełnij zmienne NEXT_PUBLIC_FIREBASE_* w pliku .env.local",
+      "Brak konfiguracji Firebase, uzupełnij zmienne NEXT_PUBLIC_FIREBASE_* w pliku .env.local",
     );
   }
   return getApps().length ? getApp() : initializeApp(firebaseConfig);

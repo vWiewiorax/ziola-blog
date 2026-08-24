@@ -9,7 +9,7 @@ export const revalidate = 300;
 
 type SearchParams = Promise<{ q?: string; kategoria?: string }>;
 
-// Wyniki wyszukiwania i filtry kategorii to duplikaty listy — nie trafiają do indeksu.
+// Wyniki wyszukiwania i filtry kategorii to duplikaty listy, nie trafiają do indeksu.
 export async function generateMetadata({
   searchParams,
 }: {
@@ -22,7 +22,7 @@ export async function generateMetadata({
   if (kategoria) {
     return {
       title: kategoria,
-      description: `Artykuły z kategorii ${kategoria} — zioła i zdrowie naturalne.`,
+      description: `Artykuły z kategorii ${kategoria}, zioła i zdrowie naturalne.`,
       alternates: { canonical: `/blog?kategoria=${encodeURIComponent(kategoria)}` },
     };
   }

@@ -15,7 +15,7 @@ const montserrat = Montserrat({
 export const metadata: Metadata = {
   metadataBase: new URL(getSiteUrl()),
   title: {
-    default: `${SITE_NAME} — zioła i zdrowie naturalne`,
+    default: `${SITE_NAME}: zioła i zdrowie naturalne`,
     template: `%s | ${SITE_NAME}`,
   },
   description: SITE_DESCRIPTION,
@@ -34,12 +34,12 @@ export const metadata: Metadata = {
     locale: "pl_PL",
     siteName: SITE_NAME,
     url: getSiteUrl(),
-    title: `${SITE_NAME} — zioła i zdrowie naturalne`,
+    title: `${SITE_NAME}: zioła i zdrowie naturalne`,
     description: SITE_DESCRIPTION,
   },
   twitter: {
     card: "summary_large_image",
-    title: `${SITE_NAME} — zioła i zdrowie naturalne`,
+    title: `${SITE_NAME}: zioła i zdrowie naturalne`,
     description: SITE_DESCRIPTION,
   },
   robots: {

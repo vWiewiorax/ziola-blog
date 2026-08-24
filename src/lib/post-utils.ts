@@ -15,19 +15,40 @@ export type Post = PostMeta & {
   contentHtml: string;
 };
 
+const CATEGORY_IMAGES: Record<string, string> = {
+  "Trawienie": "/posts/kategorie/trawienie.jpg",
+  "Odporność": "/posts/kategorie/odpornosc.jpg",
+  "Adaptogeny": "/posts/kategorie/adaptogeny.jpg",
+  "Oczyszczające": "/posts/kategorie/oczyszczajace.jpg",
+  "Przeciwzapalne": "/posts/kategorie/przeciwzapalne.jpg",
+  "Serce i krążenie": "/posts/kategorie/serce.jpg",
+  "Skóra i włosy": "/posts/kategorie/skora.jpg",
+  "Uspokajające": "/posts/kategorie/uspokajajace.jpg",
+  "Kobieta": "/posts/kategorie/kobieta.jpg",
+  "Poradniki": "/posts/kategorie/poradniki.jpg",
+};
+
+export const FALLBACK_IMAGE = "/posts/kategorie/poradniki.jpg";
+
+/** Artykuły bez własnego zdjęcia dostają zdjęcie swojej kategorii. */
+export function imageForCategory(category: string): string {
+  return CATEGORY_IMAGES[category] ?? FALLBACK_IMAGE;
+}
+
 export function readingTimeOf(content: string): number {
   const words = content.split(/\s+/).filter(Boolean).length;
   return Math.max(1, Math.round(words / 200));
 }
 
 export function toPost(slug: string, data: Record<string, unknown>, content: string): Post {
+  const category = String(data.category ?? "Poradniki");
   return {
     slug,
     title: String(data.title ?? slug),
     excerpt: String(data.excerpt ?? ""),
     date: String(data.date ?? ""),
-    category: String(data.category ?? "Zioła"),
-    image: String(data.image ?? `/posts/${slug}.jpg`),
+    category,
+    image: String(data.image ?? "").trim() || imageForCategory(category),
     readingTime: readingTimeOf(content),
     content,
     contentHtml: "",
