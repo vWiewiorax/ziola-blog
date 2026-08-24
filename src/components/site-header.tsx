@@ -21,8 +21,8 @@ export default function SiteHeader() {
   return (
     <header>
       <div className="bg-black text-white">
-        <div className="mx-auto flex max-w-6xl flex-wrap items-center gap-4 px-4 py-2.5 text-[14px]">
-          <nav className="flex gap-5">
+        <div className="mx-auto flex max-w-6xl flex-wrap items-center gap-5 px-4 py-4 text-[17px]">
+          <nav className="flex gap-6 font-medium">
             {topLinks.map((link) => (
               <Link key={link.label} href={link.href} className="hover:text-brand">
                 {link.label}
@@ -54,7 +54,7 @@ export default function SiteHeader() {
       </div>
 
       <nav className="border-y border-neutral-200">
-        <div className="mx-auto flex max-w-6xl flex-wrap justify-center gap-x-7 gap-y-2 px-4 py-3.5 text-[17px]">
+        <div className="mx-auto flex max-w-6xl flex-wrap justify-center gap-x-7 gap-y-2 px-4 py-4 text-[19px]">
           {mainLinks.map((link) => (
             <Link
               key={link.label}

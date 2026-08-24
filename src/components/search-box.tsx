@@ -32,16 +32,10 @@ export default function SearchBox({ variant = "light" }: { variant?: "light" | "
         maxLength={80}
         className={
           dark
-            ? "w-full border-b border-neutral-600 bg-transparent px-7 py-1 text-sm text-white placeholder:text-neutral-400 focus:border-brand focus:outline-none"
-            : "w-full rounded border border-neutral-300 bg-white px-9 py-2.5 text-sm text-ink placeholder:text-neutral-500 focus:border-brand focus:outline-none"
+            ? "w-full border-b border-neutral-600 bg-transparent px-1 py-1 text-base text-white placeholder:text-neutral-400 focus:border-brand focus:outline-none"
+            : "w-full rounded border border-neutral-300 bg-white px-3 py-2.5 text-sm text-ink placeholder:text-neutral-500 focus:border-brand focus:outline-none"
         }
       />
-      <span
-        aria-hidden
-        className={`absolute top-1/2 -translate-y-1/2 ${dark ? "left-0 text-neutral-300" : "left-3 text-neutral-500"}`}
-      >
-        🔍
-      </span>
     </form>
   );
 }
