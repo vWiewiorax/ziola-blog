@@ -36,7 +36,7 @@ export default function ContactForm() {
   if (status === "sent") {
     return (
       <p className="mt-8 border-l-4 border-brand bg-neutral-50 p-5 text-ink">
-        Dziękujemy! Wiadomość dotarła — odpowiemy najszybciej, jak to możliwe.
+        Dziękujemy! Wiadomość dotarła, odpowiemy najszybciej, jak to możliwe.
       </p>
     );
   }

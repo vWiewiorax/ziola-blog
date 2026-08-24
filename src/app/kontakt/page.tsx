@@ -17,7 +17,7 @@ export default function ContactPage() {
         <div>
           <p className="text-neutral-600">
             Masz pytanie o zioło, którego jeszcze nie opisaliśmy? Albo znalazłeś błąd w artykule?
-            Napisz — czytamy każdą wiadomość.
+            Napisz, czytamy każdą wiadomość.
           </p>
           <ContactForm />
         </div>
