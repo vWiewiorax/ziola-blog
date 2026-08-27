@@ -52,6 +52,8 @@ Umyj sprzęt od razu po przygotowaniu, bo pigment łatwo zasycha. Nie przechowuj
 
 Ból w klatce, duszność, omdlenie, sinienie, nowe kołatanie serca lub znaczne osłabienie podczas treningu wymagają przerwania wysiłku i pilnej oceny. Powtarzające się zawroty głowy po soku mogą oznaczać zbyt niskie ciśnienie albo inną przyczynę.
 
+## Testowanie przed zawodami
+
 Sok najlepiej testować w podobnej porze dnia i przy podobnym posiłku. Nie przechowuj przekrojonego buraka na blacie, ponieważ powierzchnia szybko traci świeżość. Jeśli masz wrażliwe zęby, pij przez zwykłą słomkę i nie przetrzymuj kwaśnego napoju w ustach. Po treningu przepłucz butelkę, aby resztki soku nie fermentowały w ustniku.
 
 Wysiłek interwałowy, siłowy i krótki sprint nie musi przynieść takiej samej odpowiedzi jak długi wysiłek tlenowy. Nie używaj soku do przykrywania duszności, bólu w klatce ani nieprawidłowego tętna. Przed rozpoczęciem regularnego stosowania zmierz ciśnienie w zwykły dzień, a przy leczeniu hipotensyjnym omów plan z lekarzem.

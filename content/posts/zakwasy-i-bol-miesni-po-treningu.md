@@ -56,9 +56,7 @@ Pilnej konsultacji wymaga bardzo silny ból, narastający obrzęk, znaczne osła
 
 Umów wizytę, jeśli ból nie słabnie po tygodniu, wraca przy każdym treningu, budzi w nocy albo towarzyszy mu drętwienie. Nie stosuj ziół jako opóźnienia diagnostyki.
 
-Warto również ocenić technikę i obciążenie, zamiast szukać coraz silniejszego środka. Przygotuj plan na kolejny tydzień: zmniejsz liczbę serii, zostaw dzień przerwy między ciężkimi sesjami i wykonuj rozgrzewkę przez co najmniej 8 minut. Po treningu zanotuj ilość wypitych płynów, godzinę snu i nasilenie bólu w skali od zera do dziesięciu. Taka notatka pozwala zauważyć, czy problem powtarza się po konkretnym ćwiczeniu.
-
-Nie rób intensywnego treningu tylko dlatego, że napar albo żel zmniejszył tkliwość. Jeśli musisz zmieniać sposób chodzenia, nie możesz wejść po schodach albo bolesność narasta przy każdym ruchu, potraktuj to jak sygnał do odpoczynku. Powrót rozpocznij od krótkiej sesji o połowie zwykłej objętości i przerwij, gdy ból wyraźnie się zwiększa.
+## Monitorowanie powrotu do treningu
 
 Warto również ocenić technikę i obciążenie, zamiast szukać coraz silniejszego środka. Przygotuj plan na kolejny tydzień: zmniejsz liczbę serii, zostaw dzień przerwy między ciężkimi sesjami i wykonuj rozgrzewkę przez co najmniej 8 minut. Po treningu zanotuj ilość wypitych płynów, godzinę snu i nasilenie bólu w skali od zera do dziesięciu. Taka notatka pozwala zauważyć, czy problem powtarza się po konkretnym ćwiczeniu.
 

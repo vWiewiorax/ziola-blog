@@ -62,6 +62,14 @@ Przy planowaniu regeneracji nie oceniaj tylko bólu mięśni. Zwróć uwagę na 
 
 Nie przechowuj otwartego koncentratu w ciepłej kuchni ani nie nabieraj go mokrą łyżką. Mała porcja po kolacji jest rozsądniejsza niż duży kubek tuż przed snem, szczególnie przy skłonności do nocnego oddawania moczu.
 
+## Praktyczne przechowywanie porcji
+
+Podziel koncentrat na małe porcje zgodnie z instrukcją producenta, jeśli często zabierasz go na trening. Nie trzymaj otwartej butelki w torbie sportowej, nawet gdy na zewnątrz jest chłodno. Po powrocie włóż ją do lodówki i użyj czystej miarki. Kwaśny napój nie powinien zastępować posiłku po ciężkiej sesji.
+
+Przygotowany napój wypij w ciągu kilku godzin. Jeżeli stał w cieple, ma bąbelki, zmętnienie albo nietypowy zapach, nie próbuj go ratować przez gotowanie. Domowy przecier z wiśni przełóż do małego, wyparzonego pojemnika i oznacz datą. Nie zostawiaj resztek po treningu do następnego dnia bez chłodzenia.
+
+W tygodniu testowym porównaj 30 ml koncentratu rozcieńczonego w 200 ml wody z samą wodą po podobnym wysiłku. Zapisz porę podania, sen, ból mięśni i objawy z przewodu pokarmowego. Taki prosty zapis ogranicza ryzyko zwiększania porcji tylko dlatego, że regeneracja naturalnie się zmieniła.
+
 ## FAQ
 
 ### Czy sok z wiśni działa nasennie?

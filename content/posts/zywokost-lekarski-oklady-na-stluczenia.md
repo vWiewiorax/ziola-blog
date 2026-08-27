@@ -54,13 +54,13 @@ Zgłoś się szybko, jeśli po urazie występuje deformacja, niemożność wykon
 
 Jeżeli po 7-10 dniach nie ma poprawy, nie przedłużaj samodzielnie stosowania preparatu. Ból ścięgna, więzadła lub stawu może wymagać badania i rehabilitacji.
 
-Przy stłuczeniu możesz zaznaczyć długopisem granicę obrzęku i porównać ją po kilku godzinach, ale nie rysuj po uszkodzonej skórze. Zdejmij pierścionki i ciasne opaski z obrzękniętej kończyny. Podczas odpoczynku unieś ją powyżej poziomu serca, jeśli nie powoduje to bólu. Nie wracaj do sportu, dopóki zwykłe chodzenie, zgięcie i wyprost nie są możliwe bez wyraźnego dyskomfortu.
-
-Przygotowany okład przykładaj przez czystą gazę, a po zakończeniu umyj skórę letnią wodą i osusz. Nie mieszaj żywokostu z olejkami eterycznymi, spirytusem ani maściami zawierającymi kilka substancji rozgrzewających. Każdy nowy produkt testuj osobno. Jeżeli siniak pojawia się często po małych uderzeniach, powiedz o tym lekarzowi i przygotuj listę wszystkich leków oraz suplementów.
+## Kontrola obrzęku po urazie
 
 Przy stłuczeniu możesz zaznaczyć długopisem granicę obrzęku i porównać ją po kilku godzinach, ale nie rysuj po uszkodzonej skórze. Zdejmij pierścionki i ciasne opaski z obrzękniętej kończyny. Podczas odpoczynku unieś ją powyżej poziomu serca, jeśli nie powoduje to bólu. Nie wracaj do sportu, dopóki zwykłe chodzenie, zgięcie i wyprost nie są możliwe bez wyraźnego dyskomfortu.
 
 Przygotowany okład przykładaj przez czystą gazę, a po zakończeniu umyj skórę letnią wodą i osusz. Nie mieszaj żywokostu z olejkami eterycznymi, spirytusem ani maściami zawierającymi kilka substancji rozgrzewających. Każdy nowy produkt testuj osobno. Jeżeli siniak pojawia się często po małych uderzeniach, powiedz o tym lekarzowi i przygotuj listę wszystkich leków oraz suplementów.
+
+Gdy obrzęk zaczyna się zmniejszać, delikatnie porównuj zakres ruchu z drugą stroną, ale nie wymuszaj zgięcia. Zaznacz datę powrotu do ćwiczeń i pierwszą aktywność wykonaj bez kontaktu, skoków oraz gwałtownych zmian kierunku. Krem nakładaj po wysiłku na suchą skórę, a nie tuż przed założeniem ciasnego ochraniacza. Jeśli pod opatrunkiem pojawia się wilgoć, zdejmij go i pozwól skórze wyschnąć.
 
 ## FAQ
 

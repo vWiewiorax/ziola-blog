@@ -54,13 +54,13 @@ Pilnej oceny wymagają deformacja, trzask, utrata siły, drętwienie, zimna koń
 
 Umów konsultację, jeśli ból trwa ponad tydzień, ogranicza chód, wraca przy każdym treningu albo pojawia się bez wyraźnego powodu. Nie przykrywaj objawu kolejnymi warstwami maści.
 
-Pamiętaj, że odczuwanie chłodu nie jest pomiarem temperatury tkanek. Nie przykładaj lodu na skórę posmarowaną mentolem, bo możesz nie zauważyć nadmiernego wychłodzenia. Przed założeniem odzieży sportowej pozwól preparatowi wyschnąć, a przy pierwszym użyciu wybierz mały obszar łydki. Po aplikacji nie korzystaj z lamp rozgrzewających, termoforu ani ciasnego bandaża.
-
-Warto porównać działanie produktu z prostym odpoczynkiem. Jeśli po dwóch dniach nie możesz normalnie chodzić, wejść po schodach albo napiąć mięśnia, zaplanuj ocenę urazu zamiast kolejnej aplikacji. Preparaty mentolowe trzymaj poza zasięgiem dzieci, ponieważ atrakcyjny zapach nie oznacza bezpieczeństwa po połknięciu.
+## Bezpieczne użycie po wysiłku
 
 Pamiętaj, że odczuwanie chłodu nie jest pomiarem temperatury tkanek. Nie przykładaj lodu na skórę posmarowaną mentolem, bo możesz nie zauważyć nadmiernego wychłodzenia. Przed założeniem odzieży sportowej pozwól preparatowi wyschnąć, a przy pierwszym użyciu wybierz mały obszar łydki. Po aplikacji nie korzystaj z lamp rozgrzewających, termoforu ani ciasnego bandaża.
 
 Warto porównać działanie produktu z prostym odpoczynkiem. Jeśli po dwóch dniach nie możesz normalnie chodzić, wejść po schodach albo napiąć mięśnia, zaplanuj ocenę urazu zamiast kolejnej aplikacji. Preparaty mentolowe trzymaj poza zasięgiem dzieci, ponieważ atrakcyjny zapach nie oznacza bezpieczeństwa po połknięciu.
+
+Na jedną łydkę wystarczy ilość żelu wielkości małego ziarnka fasoli, chyba że etykieta wskazuje inaczej. Nie zakładaj kompresyjnej opaski od razu po smarowaniu, ponieważ ciepło i ucisk mogą nasilić wchłanianie. Po użyciu odczekaj co najmniej 30 minut przed prysznicem, a przy pieczeniu zmyj preparat letnią wodą.
 
 ## FAQ
 

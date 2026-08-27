@@ -42,6 +42,12 @@ Nie trenuj intensywnie przy gorączce, duszności, bólu w klatce, nasilonym kas
 
 Przechowuj własny ręcznik i bidon osobno, wietrz salę i myj ręce po transporcie publicznym. Te proste czynności ograniczają ekspozycję skuteczniej niż obietnice o „wzmacnianiu odporności”.
 
+W okresie zwiększonego kilometrażu zaplanuj przynajmniej jeden pełny dzień bez intensywności w tygodniu. Zwróć uwagę na kolor moczu, pragnienie, apetyt i nastrój, ale nie traktuj pojedynczego wskaźnika jako diagnozy. Po zawodach przygotuj ciepłe, suche ubranie i nie siedź długo w mokrej odzieży. Wspólne bidony i ręczniki zastąp własnym wyposażeniem.
+
+Jeśli pojawia się ból gardła bez gorączki, zrób dzień lżejszy i obserwuj organizm. Nie stosuj antybiotyku „na wszelki wypadek” ani kilku syropów jednocześnie. Syrop z czarnego bzu odmierzaj czystą łyżką, a pojemnik podpisz datą przygotowania. Domowe przetwory, które zmieniły zapach albo zaczęły gazować, wyrzuć bez próbowania.
+
+W dzienniku regeneracji zapisz także liczbę dni z objawami infekcji i czas powrotu do pełnej energii. Nie wracaj do intensywności tylko dlatego, że gorączka spadła tego samego dnia. Przy kaszlu, bólu mięśni i osłabieniu wybierz odpoczynek, a potem krótką aktywność kontrolną. Jeśli objawy wracają po wysiłku, skonsultuj się przed kolejną sesją.
+
 ## Przeciwwskazania i interakcje
 
 Czarny bez może powodować objawy jelitowe, a dzika róża zawiera kwasy i może być problematyczna przy kamicy nerkowej u części osób. Przy lekach moczopędnych, przeciwkrzepliwych, na cukrzycę i ciśnienie skonsultuj regularne stosowanie. Nie używaj preparatów o nieznanej dawce.
@@ -55,12 +61,6 @@ Owoce kupuj z pewnego źródła, bez pleśni i fermentacji. Susz dzikiej róży 
 ## Kiedy do lekarza
 
 Pilnej pomocy wymagają duszność, ból w klatce, sinienie, omdlenie, splątanie, odwodnienie oraz gorączka z szybko pogarszającym się stanem. Skonsultuj infekcje powtarzające się, trwające długo lub połączone z chudnięciem.
-
-W okresie zwiększonego kilometrażu zaplanuj przynajmniej jeden pełny dzień bez intensywności w tygodniu. Zwróć uwagę na kolor moczu, pragnienie, apetyt i nastrój, ale nie traktuj pojedynczego wskaźnika jako diagnozy. Po zawodach przygotuj ciepłe, suche ubranie i nie siedź długo w mokrej odzieży. Wspólne bidony i ręczniki zastąp własnym wyposażeniem.
-
-Jeśli pojawia się ból gardła bez gorączki, zrób dzień lżejszy i obserwuj organizm. Nie stosuj antybiotyku „na wszelki wypadek” ani kilku syropów jednocześnie. Syrop z czarnego bzu odmierzaj czystą łyżką, a pojemnik podpisz datą przygotowania. Domowe przetwory, które zmieniły zapach albo zaczęły gazować, wyrzuć bez próbowania.
-
-W dzienniku regeneracji zapisz także liczbę dni z objawami infekcji i czas powrotu do pełnej energii. Nie wracaj do intensywności tylko dlatego, że gorączka spadła tego samego dnia. Przy kaszlu, bólu mięśni i osłabieniu wybierz odpoczynek, a potem krótką aktywność kontrolną. Jeśli objawy wracają po wysiłku, skonsultuj się przed kolejną sesją.
 
 ## FAQ
 

@@ -62,6 +62,14 @@ Płytki, bolesny pęcherz może ograniczać technikę biegu i zwiększać ryzyko
 
 W upalne dni zaplanuj przerwę na zmianę skarpet, a po treningu nie zakładaj ponownie wilgotnego obuwia. Mały zestaw opatrunkowy trzymaj w osobnym woreczku, aby materiały pozostały suche i czyste.
 
+## Kontrola podczas długiej trasy
+
+Na trasę zabierz dwa opatrunki o różnych rozmiarach, małe nożyczki i zapasową skarpetę w zamykanym woreczku. Przed startem sprawdź, czy klej nie podrażnia skóry, przyklejając pasek na przedramieniu na kilka godzin. Przy marszu w terenie kamienistym kontroluj palce częściej, bo obrzęk może zmienić ułożenie stopy w bucie.
+
+Jeśli pęcherz już powstał, przerwij bieg przy pierwszym pieczeniu i osusz skórę. Nie wycinaj jego pokrywy bez potrzeby. Zakryj miejsce jałowym opatrunkiem, a po powrocie obserwuj kolor, temperaturę i ból. Przy dużej zmianie, ropie lub chorobie naczyń nie wykonuj samodzielnego nakłuwania.
+
+Po zmianie obuwia zrób trzy krótkie treningi po 20-30 minut, zanim zabierzesz je na długi dystans. Zapisuj, czy problem pojawia się przy konkretnym palcu, na podbiciu czy przy pięcie. Taka lokalizacja pomaga skorygować wiązanie, wkładkę albo rozmiar, zamiast smarować całą stopę przypadkowym preparatem.
+
 ## FAQ
 
 ### Czy przebijać duży pęcherz?

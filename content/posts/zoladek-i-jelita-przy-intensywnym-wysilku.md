@@ -42,6 +42,14 @@ Pij małymi łykami. Dla wielu osób 100-200 ml co 15-20 minut jest wygodniejsze
 
 Po treningu uzupełnij płyny i zjedz normalny posiłek. Jeśli wystąpiła biegunka, nie pij alkoholu i nie nadrabiaj ogromną ilością czystej wody. Przy utrzymujących się objawach skonsultuj dietę oraz stan zdrowia.
 
+Przy długiej trasie przećwicz również sposób otwierania opakowań, aby nie jeść w pośpiechu. Gęsty żel rozcieńcz kilkoma łykami wody, a napój trzymaj w łatwo dostępnym miejscu. W chłodzie apetyt może być mniejszy, lecz nadal potrzebujesz energii. W upale ogranicz tłuszcz i bardzo skoncentrowane porcje, bo wolniej opuszczają żołądek.
+
+Po wystąpieniu objawów odpocznij w cieniu i nie kładź się płasko, jeśli masz refluks. Pij małymi łykami, a przy biegunce wybierz płyn z umiarkowaną ilością sodu. Nie używaj olejku miętowego ani imbirowego doustnie. Zanim wrócisz do treningu, sprawdź, czy zwykły posiłek i spacer nie wywołują dolegliwości.
+
+Testowanie żywienia rozpocznij w czasie, gdy masz dostęp do toalety i możesz przerwać sesję. Przygotuj prosty wariant z jednym źródłem węglowodanów, a dopiero później dodawaj smaki. Nie popijaj każdego kęsa dużą ilością płynu. Po treningu odczekaj kilka minut przed dużym posiłkiem, szczególnie jeśli nadal masz wysokie tętno.
+
+Nie testuj nowych produktów podczas zawodów ani na treningu bez możliwości wcześniejszego powrotu. Po każdej zmianie poczekaj na kilka podobnych sesji, zanim dodasz następny składnik. To ułatwia rozpoznanie zarówno tolerancji, jak i przyczyny objawów.
+
 ## Przeciwwskazania i interakcje
 
 Mięta może pogorszyć refluks, a imbir może drażnić śluzówkę. Oba surowce wymagają ostrożności przy lekach przeciwkrzepliwych i chorobach pęcherzyka żółciowego. Nie stosuj olejków eterycznych doustnie. W ciąży i podczas karmienia regularne napary omów ze specjalistą, a dzieci nie powinny dostawać sportowych mieszanek bez porady pediatry.
@@ -55,14 +63,6 @@ Kupuj susz z nazwą gatunku i czystym składem. Przechowuj go sucho, ciemno i sz
 ## Kiedy do lekarza
 
 Krew w stolcu, czarne stolce, uporczywe wymioty, silny ból brzucha, gorączka, omdlenie i odwodnienie wymagają pilnej oceny. Umów konsultację przy nawracających objawach, chudnięciu, nocnej biegunce lub bólu budzącym ze snu.
-
-Przy długiej trasie przećwicz również sposób otwierania opakowań, aby nie jeść w pośpiechu. Gęsty żel rozcieńcz kilkoma łykami wody, a napój trzymaj w łatwo dostępnym miejscu. W chłodzie apetyt może być mniejszy, lecz nadal potrzebujesz energii. W upale ogranicz tłuszcz i bardzo skoncentrowane porcje, bo wolniej opuszczają żołądek.
-
-Po wystąpieniu objawów odpocznij w cieniu i nie kładź się płasko, jeśli masz refluks. Pij małymi łykami, a przy biegunce wybierz płyn z umiarkowaną ilością sodu. Nie używaj olejku miętowego ani imbirowego doustnie. Zanim wrócisz do treningu, sprawdź, czy zwykły posiłek i spacer nie wywołują dolegliwości.
-
-Testowanie żywienia rozpocznij w czasie, gdy masz dostęp do toalety i możesz przerwać sesję. Przygotuj prosty wariant z jednym źródłem węglowodanów, a dopiero później dodawaj smaki. Nie popijaj każdego kęsa dużą ilością płynu. Po treningu odczekaj kilka minut przed dużym posiłkiem, szczególnie jeśli nadal masz wysokie tętno.
-
-Nie testuj nowych produktów podczas zawodów ani na treningu bez możliwości wcześniejszego powrotu. Po każdej zmianie poczekaj na kilka podobnych sesji, zanim dodasz następny składnik. To ułatwia rozpoznanie zarówno tolerancji, jak i przyczyny objawów.
 
 ## FAQ
 

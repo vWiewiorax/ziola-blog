@@ -48,6 +48,8 @@ Butelkę umyj detergentem po każdym użyciu, a ustnik przepłucz osobno. Wodę 
 
 Najlepiej przygotować napój rano i przechowywać go w lodówce w temperaturze około 4 stopni. Wyrzuć go po 24 godzinach, a po treningu wylej resztę, która miała kontakt z ustnikiem.
 
+Przed pierwszym użyciem przetestuj pół butelki na treningu trwającym 30-45 minut. Zwróć uwagę na uczucie pełności, odbijanie, częstotliwość oddawania moczu i pragnienie. Nie dodawaj do jednej porcji kilku soków, nasion, błonnika i ekstraktów, ponieważ trudniej ustalić, co podrażniło przewód pokarmowy. Na zawody przygotuj także zwykłą wodę, aby móc zmienić napój, gdy warunki okażą się inne niż w domu.
+
 ## Przeciwwskazania i interakcje
 
 Osoby z chorobami nerek, niewydolnością serca, nadciśnieniem albo zaleceniem ograniczenia sodu powinny zapytać lekarza o napoje solone. Przy lekach moczopędnych i lekach na ciśnienie nie zmieniaj nagle ilości płynów ani elektrolitów.
@@ -57,10 +59,6 @@ Hibiskus może wchodzić w praktyczne interakcje z leczeniem obniżającym ciśn
 ## Kiedy do lekarza
 
 Przerwij wysiłek i szukaj pomocy przy splątaniu, omdleniu, duszności, bólu w klatce, uporczywych wymiotach albo niemożności picia. Powtarzające się nudności i biegunki podczas treningu wymagają oceny diety, tempa oraz stanu zdrowia, nie tylko zmiany przepisu.
-
-Przed pierwszym użyciem przetestuj pół butelki na treningu trwającym 30-45 minut. Zwróć uwagę na uczucie pełności, odbijanie, częstotliwość oddawania moczu i pragnienie. Nie dodawaj do jednej porcji kilku soków, nasion, błonnika i ekstraktów, ponieważ trudniej ustalić, co podrażniło przewód pokarmowy. Na zawody przygotuj także zwykłą wodę, aby móc zmienić napój, gdy warunki okażą się inne niż w domu.
-
-Przed pierwszym użyciem przetestuj pół butelki na treningu trwającym 30-45 minut. Zwróć uwagę na uczucie pełności, odbijanie, częstotliwość oddawania moczu i pragnienie. Nie dodawaj do jednej porcji kilku soków, nasion, błonnika i ekstraktów, ponieważ trudniej ustalić, co podrażniło przewód pokarmowy. Na zawody przygotuj także zwykłą wodę, aby móc zmienić napój, gdy warunki okażą się inne niż w domu.
 
 ## FAQ
 

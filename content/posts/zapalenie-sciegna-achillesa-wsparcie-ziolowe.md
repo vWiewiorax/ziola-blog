@@ -64,6 +64,12 @@ Przy powrocie do biegania zacznij od marszobiegu po płaskiej trasie. Jeśli nas
 
 Nie wracaj do sprintów zbyt wcześnie. Wybieraj wygodne, stabilne obuwie na trening.
 
+## Stopniowy powrót do biegania
+
+Pierwszy marszobieg zaplanuj na płaskiej trasie, w której możesz łatwo skrócić pętlę. Zacznij od 5 minut marszu i 10 minut bardzo spokojnego truchtu, a potem oceń chód oraz poranną sztywność następnego dnia. Jeżeli reakcja jest stabilna przez 24 godziny, dodaj w kolejnym treningu najwyżej 5 minut biegu, nie zwiększając jednocześnie tempa.
+
+Podczas rehabilitacji wybieraj ćwiczenia łydki w zakresie ustalonym z fizjoterapeutą. Nie sprawdzaj gotowości do startu skokami, sprintem ani biegiem pod górę. Wygodne obuwie z dobrze trzymającą piętą może zmniejszyć drażnienie, ale każdą zmianę butów wprowadzaj na krótkich spacerach. Zapisz także leki i preparaty stosowane miejscowo, aby omówić je podczas konsultacji.
+
 ## FAQ
 
 ### Czy można biegać z bólem Achillesa?

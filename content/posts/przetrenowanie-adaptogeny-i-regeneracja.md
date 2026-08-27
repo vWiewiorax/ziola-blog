@@ -54,17 +54,17 @@ Skonsultuj się, jeśli spadek wydolności trwa ponad 2-3 tygodnie, pojawia się
 
 Badania mogą być potrzebne także przy utracie masy ciała, częstych infekcjach, uporczywej bezsenności albo zmianach cyklu menstruacyjnego. Zioła nie powinny opóźniać diagnostyki.
 
-Przez 7 dni możesz prowadzić prosty dziennik obciążenia. Zapisuj czas treningu, subiektywną trudność w skali od 1 do 10, tętno spoczynkowe, liczbę godzin snu i chęć do ćwiczeń. Jeśli kilka wskaźników pogarsza się jednocześnie, zrób 3-5 dni bez intensywności. Spacer i spokojna mobilizacja są dopuszczalne tylko wtedy, gdy następnego dnia nie czujesz narastającego zmęczenia.
-
-Jedz regularnie co 3-5 godzin i nie pomijaj pierwszego posiłku po porannym treningu. W dni ciężkiej pracy zwiększ energię z normalnych produktów, zamiast nadrabiać ją proszkiem. Ogranicz alkohol, bo utrudnia sen i ocenę regeneracji. Dopiero gdy podstawy są stabilne, można rozważyć krótki test jednego adaptogenu.
-
-Jeżeli zmęczenie pojawia się mimo odpoczynku, poszukaj innych wyjaśnień. Niedokrwistość, infekcja, zaburzenia hormonalne, depresja i działania leków mogą wyglądać jak brak formy. Przygotuj dla lekarza listę suplementów z dawkami i datą rozpoczęcia.
+## Dziennik regeneracji i decyzja o przerwie
 
 Przez 7 dni możesz prowadzić prosty dziennik obciążenia. Zapisuj czas treningu, subiektywną trudność w skali od 1 do 10, tętno spoczynkowe, liczbę godzin snu i chęć do ćwiczeń. Jeśli kilka wskaźników pogarsza się jednocześnie, zrób 3-5 dni bez intensywności. Spacer i spokojna mobilizacja są dopuszczalne tylko wtedy, gdy następnego dnia nie czujesz narastającego zmęczenia.
 
 Jedz regularnie co 3-5 godzin i nie pomijaj pierwszego posiłku po porannym treningu. W dni ciężkiej pracy zwiększ energię z normalnych produktów, zamiast nadrabiać ją proszkiem. Ogranicz alkohol, bo utrudnia sen i ocenę regeneracji. Dopiero gdy podstawy są stabilne, można rozważyć krótki test jednego adaptogenu.
 
 Jeżeli zmęczenie pojawia się mimo odpoczynku, poszukaj innych wyjaśnień. Niedokrwistość, infekcja, zaburzenia hormonalne, depresja i działania leków mogą wyglądać jak brak formy. Przygotuj dla lekarza listę suplementów z dawkami i datą rozpoczęcia.
+
+Zanim wrócisz do mocnego planu, wykonaj dwa łatwe treningi kontrolne w odstępie co najmniej 24 godzin. Jeśli po drugim pojawi się bezsenność, nietypowa bolesność albo wyraźny spadek nastroju, przedłuż przerwę. Adaptogen testuj dopiero w stabilnym tygodniu, zaczynając rano od najmniejszej porcji podanej na etykiecie i nie łącząc go z nowym przedtreningowym napojem.
+
+W tygodniu odciążenia utrzymaj zwykłą porę posiłków i nie próbuj nadrabiać formy testem maksymalnym. Jeśli masa ciała spada bez planu, zwiększ energię z pełnowartościowych produktów i skonsultuj jadłospis.
 
 ## FAQ
 

@@ -54,10 +54,6 @@ Susz powinien mieć nazwę gatunku, czysty skład i datę pakowania. Przechowuj 
 
 Prowadź przez tydzień notatkę: godzina treningu, kofeina, pora naparu, czas zaśnięcia i liczba pobudek. Dzięki temu zobaczysz, czy problem wiąże się z treningiem, dawką czy innym elementem rutyny.
 
-## Kiedy do lekarza
-
-Skonsultuj bezsenność trwającą ponad 3 tygodnie, głośne chrapanie z przerwami w oddechu, poranne bóle głowy, depresyjny nastrój i skrajne zmęczenie. Pilnej pomocy wymaga ból w klatce, duszność, omdlenie lub myśli samobójcze.
-
 Jeżeli nie zasypiasz po 20-30 minutach, wstań, przygaś światło i wykonaj spokojną czynność, aż pojawi się senność. Nie sprawdzaj wtedy wyników treningu ani wiadomości. Rano wstań o ustalonej porze i wyjdź na naturalne światło. Drzemka po źle przespanej nocy powinna być krótka, najlepiej 15-20 minut i nie później niż wczesnym popołudniem.
 
 Przez kilka wieczorów przetestuj samą rutynę bez zioła, a dopiero potem dodaj melisę lub lawendę. Dzięki temu nie przypiszesz naparowi poprawy, która wynikała z wcześniejszego zakończenia treningu. Jeśli budzisz się z bólem mięśni, sprawdź również, czy nie zwiększyłeś obciążenia zbyt szybko.
@@ -67,6 +63,10 @@ Na jakość snu wpływa też temperatura pościeli i wilgotność pomieszczenia.
 Nie oceniaj jednej złej nocy jako porażki. Powtarzalna pora pobudki, światło dzienne i spokojny dzień zwykle pomagają bardziej niż zmiana kilku preparatów naraz.
 
 Zachowaj tę samą porę również w weekend.
+
+## Kiedy do lekarza
+
+Skonsultuj bezsenność trwającą ponad 3 tygodnie, głośne chrapanie z przerwami w oddechu, poranne bóle głowy, depresyjny nastrój i skrajne zmęczenie. Pilnej pomocy wymaga ból w klatce, duszność, omdlenie lub myśli samobójcze.
 
 ## FAQ
 

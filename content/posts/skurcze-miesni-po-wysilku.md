@@ -42,6 +42,10 @@ Zwiększaj dystans, ciężar i czas stopniowo. Przed wysiłkiem zrób 8-12 minut
 
 Zapisuj, kiedy pojawia się skurcz, jak długo trwa i co jadłeś oraz piłeś. Sprawdź obuwie, technikę i regenerację. Rozciąganie po treningu może poprawiać komfort, lecz nie jest gwarantowaną ochroną przed każdym skurczem.
 
+Przed długą trasą nie eksperymentuj z tabletkami elektrolitowymi kupionymi w ostatniej chwili. Przygotuj butelkę dzień wcześniej, podpisz ją i sprawdź, ile płynu faktycznie wypijasz. Jeśli ważysz się przed i po treningu, rób to w podobnych warunkach i nie próbuj uzupełniać całej różnicy jednorazowo. Zbyt szybkie picie może wywołać przelewanie i nudności.
+
+W domu rozluźniaj łydkę przez powolne zgięcie i wyprost stopy, bez dociskania do granicy bólu. Rolowanie wykonuj na miękkiej części mięśnia, omijając ścięgno i staw. Włącz ćwiczenia siłowe dopiero wtedy, gdy zwykłe chodzenie nie wywołuje skurczu. W przypadku powtarzających się objawów sprawdź także obuwie i ustawienie stopy u fizjoterapeuty.
+
 ## Przeciwwskazania i interakcje
 
 Melisa może nasilać senność przy lekach uspokajających i alkoholu. Mięta nie jest dobrym wyborem przy nasilonym refluksie, przepuklinie rozworu przełykowego i niektórych chorobach dróg żółciowych. W ciąży i podczas karmienia stosuj jedynie ilości kulinarne albo skonsultuj regularne napary.
@@ -57,14 +61,6 @@ Zioła kupuj w małych opakowaniach, z nazwą gatunku i datą zbioru lub pakowan
 Pilnej pomocy wymaga skurcz z bólem w klatce, dusznością, omdleniem, splątaniem, znacznym osłabieniem lub bardzo małą ilością moczu. Konsultacji wymaga jednostronny obrzęk i ból łydki, szczególnie po podróży lub unieruchomieniu.
 
 Umów wizytę przy skurczach nocnych kilka razy w tygodniu, skurczach po każdym treningu, osłabieniu siły, drętwieniu albo utrzymującej się bolesności.
-
-Przed długą trasą nie eksperymentuj z tabletkami elektrolitowymi kupionymi w ostatniej chwili. Przygotuj butelkę dzień wcześniej, podpisz ją i sprawdź, ile płynu faktycznie wypijasz. Jeśli ważysz się przed i po treningu, rób to w podobnych warunkach i nie próbuj uzupełniać całej różnicy jednorazowo. Zbyt szybkie picie może wywołać przelewanie i nudności.
-
-W domu rozluźniaj łydkę przez powolne zgięcie i wyprost stopy, bez dociskania do granicy bólu. Rolowanie wykonuj na miękkiej części mięśnia, omijając ścięgno i staw. Włącz ćwiczenia siłowe dopiero wtedy, gdy zwykłe chodzenie nie wywołuje skurczu. W przypadku powtarzających się objawów sprawdź także obuwie i ustawienie stopy u fizjoterapeuty.
-
-Przed długą trasą nie eksperymentuj z tabletkami elektrolitowymi kupionymi w ostatniej chwili. Przygotuj butelkę dzień wcześniej, podpisz ją i sprawdź, ile płynu faktycznie wypijasz. Jeśli ważysz się przed i po treningu, rób to w podobnych warunkach i nie próbuj uzupełniać całej różnicy jednorazowo. Zbyt szybkie picie może wywołać przelewanie i nudności.
-
-W domu rozluźniaj łydkę przez powolne zgięcie i wyprost stopy, bez dociskania do granicy bólu. Rolowanie wykonuj na miękkiej części mięśnia, omijając ścięgno i staw. Włącz ćwiczenia siłowe dopiero wtedy, gdy zwykłe chodzenie nie wywołuje skurczu. W przypadku powtarzających się objawów sprawdź także obuwie i ustawienie stopy u fizjoterapeuty.
 
 ## FAQ
 

@@ -48,23 +48,25 @@ Wybierz produkt z nazwą *Schisandra chinensis*, informacją o owocu lub nasiona
 
 Susz trzymaj w ciemnym, suchym miejscu, najlepiej w zamkniętym słoiku. Po otwarciu zużyj w ciągu roku. Napar przechowuj w lodówce najwyżej 24 godziny i nie podgrzewaj wielokrotnie.
 
+Na wyjazd zabierz odmierzoną porcję w czystym, opisanym pojemniku, zamiast przesypywać proszek do przypadkowej torebki.
+
 ## Objawy alarmowe
 
 Nagła duszność, ból w klatce, omdlenie, silne kołatanie serca lub obrzęk twarzy po preparacie wymagają pilnej pomocy. Skonsultuj także przewlekłe zmęczenie, spadek masy ciała, nietypowe poty nocne i utrzymujący się spadek wydolności.
 
 Jeśli sportowiec ma chorobę przewlekłą albo przyjmuje leki, zapytaj lekarza lub farmaceutę przed pierwszą porcją. Nie zmieniaj leczenia na podstawie reklamy suplementu.
 
-Nie oceniaj cytryńca podczas upału, po nieprzespanej nocy ani w tygodniu z wyjątkowo dużym kilometrażem. W takich warunkach naturalne wahania wydolności są większe niż możliwy efekt dodatku. Wybierz dwa podobne treningi, zachowaj podobne śniadanie i zapisz tempo, tętno oraz odczuwany wysiłek. Jeżeli nie widzisz różnicy, nie ma powodu kontynuować.
-
-Owoce są cierpkie, dlatego po naparze przepłucz usta wodą. Nie mieszaj ich z alkoholem ani z napojem energetycznym. Przy pracy zmianowej pilnuj pory przyjmowania, ponieważ dawka wieczorna może zaburzyć sen. Po zakończeniu cyklu wróć do normalnej diety bez stopniowego odstawiania.
-
-Wybierając suplement, sprawdź także, czy producent podaje część rośliny i rozpuszczalnik ekstrakcyjny. Sam napis „adaptogen” nic nie mówi o stężeniu. Zachowaj opakowanie do czasu zakończenia kuracji, aby w razie wysypki lub bólu brzucha można było odtworzyć skład i numer partii.
+## Jak ocenić próbę przed startem
 
 Nie oceniaj cytryńca podczas upału, po nieprzespanej nocy ani w tygodniu z wyjątkowo dużym kilometrażem. W takich warunkach naturalne wahania wydolności są większe niż możliwy efekt dodatku. Wybierz dwa podobne treningi, zachowaj podobne śniadanie i zapisz tempo, tętno oraz odczuwany wysiłek. Jeżeli nie widzisz różnicy, nie ma powodu kontynuować.
 
 Owoce są cierpkie, dlatego po naparze przepłucz usta wodą. Nie mieszaj ich z alkoholem ani z napojem energetycznym. Przy pracy zmianowej pilnuj pory przyjmowania, ponieważ dawka wieczorna może zaburzyć sen. Po zakończeniu cyklu wróć do normalnej diety bez stopniowego odstawiania.
 
 Wybierając suplement, sprawdź także, czy producent podaje część rośliny i rozpuszczalnik ekstrakcyjny. Sam napis „adaptogen” nic nie mówi o stężeniu. Zachowaj opakowanie do czasu zakończenia kuracji, aby w razie wysypki lub bólu brzucha można było odtworzyć skład i numer partii.
+
+Przed zawodami nie zwiększaj dawki, nie łącz cytryńca z kawą i nie przyjmuj go pierwszy raz na pusty żołądek. Zabierz na trening wodę oraz zwykłą przekąskę, bo kwaśny napar nie pokrywa zapotrzebowania na energię. Przy bólu brzucha odczekaj do ustąpienia objawu i nie wracaj do preparatu bez ustalenia przyczyny.
+
+Jeśli wybierasz kapsułkę, przyjmuj ją rano wraz z posiłkiem i popij 200 ml wody. Nie rozgryzaj produktu o przedłużonym uwalnianiu. Po 3-4 tygodniach zrób przerwę, przejrzyj notatki z treningów i oceń, czy dalsze stosowanie ma uzasadnienie.
 
 ## FAQ
 
