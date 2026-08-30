@@ -2,7 +2,7 @@
 title: "Migrena a intensywny wysiłek"
 excerpt: "Jak planować aktywność przy migrenie, rozpoznać sygnały ostrzegawcze i nie traktować naparu jako zamiennika diagnostyki ani leczenia."
 date: "2025-08-08"
-category: "Serce i krążenie"
+category: "Poradniki"
 ---
 
 Intensywny wysiłek może u części osób poprzedzać migrenę, nasilać już trwający napad albo ujawnić inny problem. Ból pulsujący nie powinien być automatycznie przypisywany odwodnieniu. Liczy się czas początku, objawy towarzyszące, intensywność oraz podobieństwo do wcześniejszych epizodów.
