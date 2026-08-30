@@ -33,11 +33,19 @@ Całkowite unieruchomienie nie jest potrzebne przy łagodnym przeciążeniu, ale
 
 Do ćwiczeń siłowych wracaj dopiero po ocenie chodzenia, schodów i prostego siadania. Fizjoterapeuta może sprawdzić pracę pośladka, łydki i stopy, ponieważ kolano często reaguje na problem wyżej lub niżej. Nie oceniaj stawu wyłącznie po jednym dniu.
 
-Podczas obserwacji nie porównuj kolana tylko na podstawie obwodu. Zwróć uwagę, czy możesz swobodnie przejść przez mieszkanie, wsiąść na krzesło i wyprostować nogę bez uczucia blokady. Zapisz, po jakim czasie od jazdy obrzęk się pojawił oraz czy zmniejsza się po nocnym odpoczynku. Przydatne będą informacje o temperaturze, długości zjazdu, liczbie hamowań i czasie spędzonym w jednej pozycji. Nie masuj intensywnie dołu podkolanowego ani nie próbuj samodzielnie przesuwać opuchlizny. Gdy skóra jest napięta, wybierz luźną odzież i unikaj klękania. Wizyta u lekarza jest ważniejsza niż dalsze testowanie ustawienia siodełka, jeśli doszło do skręcenia albo kolano nie przyjmuje ciężaru. Dopiero po ustąpieniu obrzęku można spokojnie ocenić, czy korekta pozycji na rowerze ogranicza nawroty. Pojedyncza bezobjawowa jazda nie gwarantuje gotowości do długiej trasy.
+## Co obserwować po zjeździe
 
-Podczas oceny kolana zapisz także wysokość siodełka, rodzaj hamowania i czas pozostawania w pozycji zgiętej. Porównaj możliwość spokojnego chodzenia, siadania oraz pełnego wyprostu, ale nie naciskaj na obrzęk w poszukiwaniu odpowiedzi. Jeżeli po nocy opuchlizna nie maleje, odłóż sprawdzanie kolejnej trasy. Luźna odzież może zmniejszyć ucisk, natomiast ciasny bandaż bez instruktażu utrudni obserwację krążenia. Po urazie ważniejsze jest wykluczenie uszkodzenia niż znalezienie idealnej regulacji roweru. Gdy objawy ustąpią, wprowadzaj jedną zmianę ustawienia naraz i testuj ją na krótkim odcinku. Bezbolesna jazda po odpoczynku nie oznacza jeszcze gotowości do długiego zjazdu.
+Oceniaj kolano przez funkcję, nie wyłącznie przez jego obwód. Sprawdź spokojne chodzenie po mieszkaniu, siadanie na krześle i pełny wyprost bez blokady. Zapisz, po jakim czasie od jazdy pojawiła się opuchlizna oraz czy zmniejszyła się po nocnym odpoczynku.
+
+W dzienniku uwzględnij wysokość siodełka, długość zjazdu, liczbę hamowań, temperaturę i czas spędzony ze zgiętym kolanem. Nie masuj intensywnie dołu podkolanowego ani nie uciskaj obrzęku w poszukiwaniu wyjaśnienia.
+
+Przy napiętej skórze wybierz luźne spodnie i zrezygnuj z klękania. Ciasny bandaż bez instruktażu może utrudnić obserwację krążenia. Jeśli kolano nie przyjmuje ciężaru albo doszło do skręcenia, konsultacja ma pierwszeństwo przed regulowaniem roweru.
+
+Po ustąpieniu objawów wprowadzaj pojedynczą zmianę ustawienia i sprawdzaj ją na krótkim, spokojnym odcinku. Bezbolesna jazda po odpoczynku nie potwierdza jeszcze gotowości do długiego zjazdu, dlatego zwiększaj dystans etapami.
 
 ## Stopniowy powrót na trasę
+
+Przed dłuższą jazdą wykonaj kilka spokojnych przysiadów bez obciążenia i sprawdź zejście po schodach. Jeśli pojawia się kłucie, uczucie niestabilności albo wyraźna różnica między nogami, wybierz krótszy spacer i odłóż trasę.
 
 Pierwsza jazda powinna być krótka, płaska i pozbawiona długich zjazdów. Utrzymuj lekkie przełożenie oraz przerwy na zmianę pozycji. Jeżeli kolano puchnie wieczorem albo następnego ranka, wróć do odpoczynku i nie zwiększaj dystansu.
 
@@ -60,6 +68,8 @@ Napar przygotuj w umytym naczyniu i nie przechowuj go w temperaturze pokojowej p
 ## Kiedy do lekarza
 
 Pilnej pomocy wymagają niemożność obciążenia, deformacja, silny ból po skręceniu lub upadku, zaczerwienienie z gorączką oraz szybko narastający obrzęk. Konsultację zaplanuj także przy blokowaniu kolana i nawracaniu opuchlizny.
+
+Umów planową ocenę, jeśli obrzęk pojawia się po każdej dłuższej trasie, ogranicza wyprost albo utrzymuje się mimo kilku dni bez zjazdów. Przygotuj informacje o ustawieniu roweru i reakcji następnego ranka.
 
 ## FAQ
 

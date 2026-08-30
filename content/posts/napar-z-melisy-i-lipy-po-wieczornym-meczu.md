@@ -39,21 +39,32 @@ Rano oceń sen, zawroty, apetyt i zdolność do zwykłej pracy. Jeśli jesteś s
 
 Nie łącz mieszanki z alkoholem, tabletką nasenną ani innym produktem uspokajającym bez zgody lekarza. Ziołowe pochodzenie nie usuwa ryzyka interakcji. Przy kołataniu, omdleniu lub nasilonej senności zrezygnuj z kolejnej porcji.
 
-Jeżeli wracasz późno, przygotuj składniki wcześniej, lecz nie zostawiaj zalanych ziół na blacie do momentu powrotu. Odmierzanie suchego surowca przed wyjściem jest bezpieczniejsze niż przechowywanie gotowego napoju przez wiele godzin. Po meczu sprawdź, czy masz pragnienie, suchą odzież i możliwość spokojnego zjedzenia; dopiero potem zdecyduj o filiżance. Osoba, która łatwo budzi się w nocy, może zacząć od mniejszej objętości płynu albo wybrać napój bez ziół. Nie dodawaj cukru tylko po to, aby zamaskować zbyt intensywny smak, jeśli wieczorny posiłek był już obfity. Zapisuj reakcję następnego ranka, zwłaszcza przy dwóch meczach w kolejnych dniach. Powtarzające się trudności z zasypianiem mogą wynikać z terminu zawodów, świateł hali, bólu, stresu lub zaburzeń rytmu, a nie z braku odpowiedniej rośliny. W takim przypadku zmień organizację wieczoru i porozmawiaj ze specjalistą. Jeżeli wracasz późno, odłóż zalewanie do chwili po zjedzeniu i przebraniu się. Suche składniki można odmierzyć wcześniej, ale gotowego napoju nie trzymaj na blacie przez wiele godzin. Przy łatwym wybudzaniu wybierz mniejszą objętość płynu i sprawdź reakcję po porannym wstaniu. Powtarzające się trudności ze snem mogą wynikać z emocji, bólu lub organizacji zawodów, dlatego zmień także wieczorny plan.
+## Przygotowanie powrotu do snu
 
-Po późnym meczu przygotuj miejsce do snu przed wyjściem na boisko, aby po powrocie ograniczyć liczbę czynności. Ciepły napój wypij przy przygaszonym świetle, lecz nie siedź długo z telefonem w ręce. Jeżeli musisz rano wstać, nie zwiększaj porcji w nadziei na głębszy sen. Zapisuj reakcję po kolejnych spotkaniach oraz godzinę zakończenia gry. Gdy problemy utrzymują się, sprawdź także ból mięśni, refluks, hałas i stres rywalizacji. Po meczu nie wkładaj mokrego kubka ani termosu do torby z odzieżą. Umyj naczynie ciepłą wodą z detergentem i pozwól mu całkowicie wyschnąć. Jeżeli napój przygotowujesz w klubie, sprawdź czystość czajnika oraz powierzchni roboczej. Nie podawaj własnej mieszanki całej drużynie, bo nie znasz chorób, leków i alergii innych osób. Własną reakcję oceniaj rano, kiedy minie emocjonalne pobudzenie spotkania, a nie tylko w pierwszych minutach po wypiciu.
+Jeżeli wracasz późno, odłóż zalewanie do chwili po zjedzeniu i przebraniu się. Suche składniki można odmierzyć wcześniej, ale gotowego napoju nie trzymaj na blacie przez wiele godzin. Po meczu sprawdź pragnienie i możliwość spokojnego posiłku, zanim zdecydujesz o filiżance.
+
+Przy łatwym wybudzaniu wybierz mniejszą objętość płynu albo napój bez ziół. Nie dodawaj cukru tylko po to, aby zamaskować intensywny smak po obfitej kolacji. Zapisuj reakcję następnego ranka, zwłaszcza gdy mecze odbywają się w kolejnych dniach.
+
+Powtarzające się trudności z zasypianiem mogą wynikać z terminu zawodów, świateł hali, bólu, stresu lub zaburzeń rytmu. Zmień organizację wieczoru i porozmawiaj ze specjalistą, zamiast zwiększać porcję. Jedna dobra noc nie dowodzi, że mieszanka pasuje zawsze.
+
+Przygotuj miejsce do snu przed wyjściem na boisko i po powrocie ogranicz liczbę czynności. Ciepły napój wypij przy przygaszonym świetle, odłóż telefon, a kubek umyj i wysusz. Nie podawaj własnej mieszanki całej drużynie, bo nie znasz chorób, leków ani alergii innych osób.
 
 ## Higiena i przechowywanie
 
-Kup produkt z pełną nazwą melisy i lipy, wskazanymi częściami roślin, masą, numerem partii, terminem ważności oraz producentem. Susz trzymaj oddzielnie od pary, w zamkniętym opakowaniu. Nie używaj mieszanki o obcym zapachu albo z wilgotnymi grudkami.
+Przed użyciem sprawdź pełną nazwę melisy i lipy, wskazane części roślin, masę, numer partii, termin ważności oraz producenta. Przechowuj surowce osobno, szczelnie i z dala od pary. Nie kupuj mieszaniny o niejasnym składzie, obcym zapachu albo wilgotnych grudkach. Napar przygotuj świeżo w umytym naczyniu i wypij po meczu. Jeśli musi poczekać, schłodź go oraz przechowuj w lodówce najwyżej 12 godzin. Termos umyj i wysusz po użyciu, a ciepłego płynu nie zostawiaj na noc.
 
-Napar przygotuj w umytym kubku i wypij świeży. Jeśli musi poczekać, schłodź go i przechowuj maksymalnie 12 godzin; dłuższe trzymanie zwiększa ryzyko namnażania bakterii. Nie zostawiaj ciepłego płynu na noc obok łóżka.
+Jedną filiżankę stosuj przez najwyżej 5 kolejnych wieczorów, jeśli nie ma przeciwwskazań. Przy lekach uspokajających, ciąży, karmieniu piersią, chorobach przewlekłych oraz u dzieci potrzebna jest indywidualna porada. Zrezygnuj z naparu, jeśli powoduje senność utrudniającą bezpieczny powrót.
+
+Po spotkaniu zapisz godzinę ostatniego wysiłku, temperaturę hali, ilość wypitych płynów i moment zasypiania. Jeśli rano czujesz ciężkość głowy, nie zwiększaj mieszanki, tylko sprawdź nawodnienie, posiłek oraz długość snu. Przy następnym meczu przygotuj zwykłą wodę jako alternatywę. Taki dziennik pomaga ocenić całą rutynę, zamiast przypisywać każdą zmianę samemu naparowi. Nie testuj go pierwszy raz przed ważnym spotkaniem. Zachowaj zwykłą porę pobudki następnego dnia.
+
 
 > Ciepły kubek może oznaczać koniec meczu, ale nie zastąpi nocnego odpoczynku.
 
 ## Kiedy do lekarza
 
 Pilnej pomocy wymagają ból w klatce, omdlenie, duszność, splątanie i utrzymujące się kołatanie. Skonsultuj bezsenność, która powtarza się po kolejnych meczach mimo ograniczenia pobudzenia.
+
+Planową konsultację rozważ, jeśli poranne rozbicie, chrapanie lub nocne wybudzenia utrzymują się także po tygodniu spokojniejszego terminarza. Opisz godziny meczu, posiłku, naparu i snu.
 
 ## FAQ
 

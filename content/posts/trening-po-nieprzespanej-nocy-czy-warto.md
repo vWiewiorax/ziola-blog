@@ -33,7 +33,13 @@ Krótka drzemka może pomóc przejść przez dzień, lecz nie powinna przesuwać
 
 Wieczorem ogranicz jasne światło, ciężkie zadania i późne nadrabianie treningu. Przygotuj ubrania oraz posiłek na następny dzień, aby zmniejszyć liczbę decyzji. Jedna spokojna noc jest ważniejsza niż odrobienie opuszczonej serii.
 
-Po nieprzespanej nocy zaplanuj mniej decyzji, a nie tylko krótszy trening. Przygotuj wcześniej wodę, ubranie i łatwy posiłek, żeby nie wychodzić z domu w pośpiechu. Jeżeli pracujesz przy maszynach, prowadzisz samochód albo opiekujesz się dzieckiem, weź pod uwagę, że senność może trwać dłużej niż poranny spadek energii. Nie nadrabiaj zmęczenia drzemką późnym wieczorem, jeśli regularnie przesuwa ona porę zasypiania. Zapisz przyczynę pobudki, godzinę wstania i reakcję na lekką aktywność. Powtarzające się noce z bardzo krótkim snem mogą wynikać z bólu, zaburzeń oddychania, stresu, leków lub innych problemów zdrowotnych. Nie rozwiązuj tego samodzielnie naparem. Po dniu odpoczynku wracaj do planu stopniowo, a brak poprawy potraktuj jako informację do konsultacji.
+## Organizacja dnia po niewyspaniu
+
+Po nieprzespanej nocy przygotuj wcześniej wodę, ubranie i łatwy posiłek, aby ograniczyć liczbę decyzji. Jeżeli prowadzisz samochód, pracujesz przy maszynach albo opiekujesz się dzieckiem, pamiętaj, że senność może trwać dłużej niż poranny spadek energii.
+
+Nie nadrabiaj zmęczenia późną drzemką, jeśli regularnie przesuwa ona porę zasypiania. Zapisz przyczynę pobudki, godzinę wstania i reakcję na lekki ruch. Taki zapis pomaga odróżnić jednorazowe niewyspanie od problemu powtarzającego się.
+
+Kilka nocy z bardzo krótkim snem może mieć związek z bólem, zaburzeniami oddychania, stresem, lekami lub innym stanem zdrowia. Nie próbuj rozwiązywać takiej sytuacji samodzielnie naparem. Po dniu odpoczynku wracaj do planu etapami i obserwuj codzienne funkcjonowanie.
 
 ## Powrót po odpoczynku
 
@@ -62,6 +68,8 @@ Napar przygotuj w czystym kubku i wypij świeży; schłodzony zużyj maksymalnie
 ## Kiedy do lekarza
 
 Pilnej pomocy wymagają omdlenie, ból w klatce, duszność, splątanie, powtarzające się wymioty i objawy neurologiczne. Umów konsultację, gdy bezsenność lub dzienna senność utrzymują się i utrudniają pracę.
+
+Planowa rozmowa ze specjalistą jest rozsądna, jeśli krótki sen powtarza się przez kilka tygodni, pojawia się głośne chrapanie lub budzisz się z uczuciem braku powietrza. Nie maskuj tego kofeiną.
 
 ## FAQ
 

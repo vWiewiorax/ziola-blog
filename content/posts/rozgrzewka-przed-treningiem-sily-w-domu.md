@@ -33,15 +33,27 @@ Pierwszą serię zrób bez ciężaru, drugą z bardzo małym oporem, a dopiero p
 
 W domu łatwo pominąć przerwy, bo sprzęt jest pod ręką. Ustaw miejsce odkładania ciężaru i nie ćwicz do załamania techniki. Dłuższy odpoczynek jest rozsądniejszy niż łapanie plecaka w ostatniej chwili.
 
-Każdą serię przygotowującą wykonuj z takim samym spokojem jak właściwe ćwiczenie. Sprawdź, czy pięty pozostają na podłodze, kolana prowadzą się zgodnie z kierunkiem stóp, a dłonie nie tracą chwytu. Jeżeli używasz plecaka, rozłóż zawartość tak, aby nic nie przesuwało się przy skłonie. Przy gumie ustaw ją z dala od ostrych krawędzi i nie kieruj końców w stronę twarzy. Warto nagrać krótki fragment z boku, ale nie oglądaj telefonu podczas serii. Rozgrzewkę zakończ, gdy czujesz przygotowanie, zanim pojawi się zadyszka lub drżenie mięśni. Osoba początkująca może potrzebować większej liczby łatwych powtórzeń, natomiast po kontuzji zakres powinien ustalić specjalista. Nie porównuj gotowości z kimś, kto ćwiczy w innych warunkach. Dobrze przygotowana przestrzeń, spokojny oddech i umiarkowany opór są ważniejsze od efektownego rytuału.
+Każdą serię przygotowującą wykonuj spokojnie i sprawdź, czy pięty pozostają na podłodze, kolana prowadzą się zgodnie z kierunkiem stóp, a dłonie nie tracą chwytu. Przy plecaku rozłóż zawartość tak, aby nie przesuwała się przy skłonie. Gumę ustaw z dala od ostrych krawędzi i twarzy.
+
+Krótki fragment nagrany z boku może pomóc ocenić ustawienie, ale telefonu nie używaj podczas serii. Zakończ rozgrzewkę, gdy czujesz gotowość, zanim pojawi się zadyszka lub drżenie. Osoba po kontuzji powinna ustalić zakres z fizjoterapeutą.
 
 ## Oddech i koncentracja
+
+Przygotuj matę na równej podłodze i usuń przedmioty, o które można zahaczyć stopą. Kilka wolnych wydechów przed pierwszą serią pomaga zauważyć, czy napięcie wynika z pośpiechu, czy z ograniczenia ruchu.
 
 Przed trudniejszym ruchem zdecyduj, gdzie patrzysz, jak ustawiasz stopy i kiedy odkładasz ciężar. Nie wstrzymuj oddechu dłużej, niż zalecił ci trener. Przy napięciu szyi, mrowieniu dłoni lub nagłej słabości przerwij.
 
 Wyłącz powiadomienia i nie prowadź rozmowy podczas wymagającej serii. Drobne rozproszenie w ciasnym mieszkaniu zwiększa ryzyko potknięcia. Jeśli opiekujesz się dzieckiem, zaplanuj przerwę, zamiast ćwiczyć w pośpiechu.
 
-Przed główną serią wykonaj próbę ruchu w tempie, które pozwala zatrzymać się w dowolnym momencie. Sprawdź stabilność stopy, swobodne ustawienie miednicy i brak bólu przy końcowym zakresie. Jeśli jedna strona pracuje inaczej, zmniejsz opór zamiast wyrównywać ruch siłą. U początkujących przydatne jest kilka powtórzeń z pauzą, ponieważ ujawniają utratę kontroli. Po rozgrzewce powinieneś czuć gotowość, nie ciężkość mięśni ani zadyszkę. Jeśli w mieszkaniu jest chłodno, wydłuż spokojny etap marszu, zamiast od razu przyspieszać. Przy wysokiej temperaturze skróć warstwę odzieży i zapewnij przewiew. Rozgrzewkę dopasuj do wzorca dnia: przed przysiadem przygotuj staw skokowy oraz biodro, a przed podparciem sprawdź nadgarstki i łopatki. Nie powtarzaj bezmyślnie tej samej sekwencji po urazie, ponieważ zakres tolerancji może się zmienić. Każde ćwiczenie powinno mieć łatwy wariant awaryjny, który pozwoli zakończyć przygotowanie bez nagłego upadku. Przed rozpoczęciem ustaw telefon poza zasięgiem ręki i poinformuj domowników, że potrzebujesz kilku minut bez przechodzenia przez miejsce ćwiczeń. Sprawdź oddech po każdej serii wprowadzającej, a przy zawrotach usiądź i nie próbuj ich „rozchodzić”. Po skończeniu odłóż ciężary na stałe miejsce oraz zanotuj, czy któryś ruch powodował dyskomfort. Powtarzające się kłucie wymaga oceny, nie dłuższej rozgrzewki.
+## Próba ruchu przed obciążeniem
+
+Przed główną serią wykonaj próbę w tempie, które pozwala zatrzymać się w dowolnym momencie. Sprawdź stabilność stopy, ustawienie miednicy i brak bólu przy końcowym zakresie. Jeśli jedna strona pracuje inaczej, zmniejsz opór zamiast wyrównywać ruch siłą.
+
+U początkujących kilka powtórzeń z pauzą pomaga ujawnić utratę kontroli. Po rozgrzewce powinieneś czuć gotowość, nie ciężkość mięśni ani zadyszkę. W chłodnym mieszkaniu wydłuż spokojny marsz, a przy cieple zapewnij przewiew i ogranicz warstwę odzieży.
+
+Dopasuj sekwencję do wzorca dnia: przed przysiadem przygotuj staw skokowy i biodro, a przed podparciem sprawdź nadgarstki oraz łopatki. Po urazie nie powtarzaj automatycznie dawnej rutyny, ponieważ zakres tolerancji mógł się zmienić.
+
+Każde ćwiczenie powinno mieć łatwy wariant awaryjny. Ustaw telefon poza zasięgiem ręki, poinformuj domowników o kilku minutach bez przechodzenia przez miejsce ćwiczeń i usiądź przy zawrotach. Powtarzające się kłucie wymaga oceny, nie dłuższej rozgrzewki.
 
 ## Napój z dzikiej róży
 
@@ -60,6 +72,8 @@ Napar zrób w czystym kubku i wypij świeży; schłodzony zużyj w ciągu 12 god
 ## Kiedy do lekarza
 
 Pilnej pomocy wymagają ból w klatce, duszność, omdlenie, deformacja, nagły silny ból lub utrata siły. Skonsultuj objaw, gdy ból powtarza się przy każdym treningu albo nie ustępuje po odpoczynku.
+
+Planowa konsultacja jest potrzebna, gdy ograniczenie zakresu lub kłucie wraca mimo spokojnej rozgrzewki i mniejszego oporu. Specjalista może ocenić technikę oraz przygotować bezpieczną progresję.
 
 ## FAQ
 

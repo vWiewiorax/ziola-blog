@@ -39,9 +39,13 @@ Pokrzywa zwyczajna (*Urtica dioica*) może być okazjonalnym napojem po posiłku
 
 Wypij jedną filiżankę przez najwyżej 3 dni, jeśli lekarz lub farmaceuta nie widzi przeciwwskazań. Nie łącz jej bez konsultacji z lekami moczopędnymi, przeciwkrzepliwymi ani innymi preparatami. Ciąża, karmienie piersią i wiek dziecięcy wymagają indywidualnej porady.
 
-Jeżeli czekasz na wyniki, nie musisz całkowicie rezygnować z codziennego ruchu, lecz intensywność powinna odpowiadać objawom. Spokojny marsz jest czymś innym niż interwały wykonywane przy duszności. Ustal z trenerem plan awaryjny, w którym można zakończyć sesję bez poczucia winy i bez nadrabiania następnego dnia. Zwróć uwagę na obfitość miesiączek, krwawienia z przewodu pokarmowego, zmianę masy ciała, dietę eliminacyjną oraz przyjmowane leki, ponieważ te informacje mogą mieć znaczenie podczas wywiadu. Nie przyjmuj kilku produktów „na krew” naraz, nawet jeśli każdy ma prostą etykietę. Część roślin wpływa na ciśnienie, krzepnięcie, nerki albo działanie innych preparatów. Po potwierdzeniu przyczyny lekarz ustali, czy potrzebne są dalsze badania, zmiana jadłospisu lub leczenie. Poprawę oceniaj według samopoczucia i wyników kontrolnych, nie według reklamy naparu. Do czasu wyjaśnienia wyników wybierz intensywność, przy której możesz mówić pełnymi zdaniami. Zapisuj miesiączki, dietę, leki oraz reakcję na schody, ponieważ takie szczegóły przydadzą się podczas wizyty. Nie łącz kilku produktów reklamowanych jako wsparcie krwi, gdyż utrudnia to ocenę bezpieczeństwa i przyczyny objawów.
+## Ruch przed wyjaśnieniem wyników
 
-Do czasu wyjaśnienia przyczyny wybieraj ruch o przewidywalnym tempie i unikaj samotnych interwałów. Przy menstruacji zapisuj obfitość krwawienia oraz czas trwania, bo może to być ważna informacja dla lekarza. Nie oceniaj stanu krwi po kolorze skóry ani po chwilowym przypływie energii po kawie. Jeśli lekarz zaleci kontrolne badanie, wykonaj je w ustalonym terminie. Zioła, produkty fortyfikowane i suplementy mogą wchodzić w interakcje, dlatego pokaż specjaliście całą listę używanych preparatów. Przed każdym treningiem zastanów się, czy możesz przejść po schodach bez zatrzymywania i czy oddech wraca do zwykłego rytmu po krótkim marszu. Jeśli nie, zamień intensywną sesję na odpoczynek oraz skontaktuj się z osobą prowadzącą. Przy potwierdzonym niedoborze nie skracaj zaleconego leczenia dla wygody startowej. Notuj tolerancję posiłków, ilość kawy i herbaty oraz godziny przyjmowania preparatów, aby podczas kontroli przekazać pełny obraz. Napar nie podnosi wiarygodności wyniku i nie zastępuje laboratoryjnego oznaczenia.
+Jeżeli czekasz na wyniki, wybierz intensywność, przy której możesz mówić pełnymi zdaniami. Spokojny marsz różni się od interwałów wykonywanych przy duszności. Ustal z trenerem plan awaryjny, pozwalający zakończyć sesję bez nadrabiania następnego dnia. Zwróć uwagę na obfitość miesiączek, krwawienia z przewodu pokarmowego, zmianę masy ciała, dietę eliminacyjną oraz leki. Nie oceniaj stanu krwi po kolorze skóry ani chwilowym przypływie energii po kawie. Te informacje mogą być ważne podczas wywiadu.
+
+Nie przyjmuj kilku produktów reklamowanych jako wsparcie krwi, nawet gdy każdy ma prostą etykietę. Część roślin wpływa na ciśnienie, krzepnięcie, nerki albo działanie innych preparatów. Pokaż specjaliście pełną listę ziół, suplementów i produktów fortyfikowanych.
+
+Jeśli lekarz zaleci kontrolne badanie, wykonaj je w ustalonym terminie. Przy potwierdzonym niedoborze nie skracaj leczenia dla wygody startowej. Notuj tolerancję posiłków, ilość kawy i herbaty oraz godziny preparatów, ponieważ napar nie zastępuje oznaczenia laboratoryjnego. Nie rozpoczynaj intensywnych przygotowań startowych przed wyjaśnieniem przyczyny i oceną tolerancji wysiłku.
 
 Na wizytę zabierz także listę zwykłych treningów i zmianę wydolności zauważoną w ostatnich tygodniach. Duszność w spoczynku, ból w klatce piersiowej albo omdlenie nie czekają na działanie domowego napoju. W takiej sytuacji przerwij wysiłek i skorzystaj z pilnej pomocy medycznej. Rozsądne wsparcie jadłospisu zaczyna się od regularnych posiłków, a nie od szukania jednej rośliny o rzekomo krwiotwórczym działaniu.
 
@@ -49,13 +53,19 @@ Na wizytę zabierz także listę zwykłych treningów i zmianę wydolności zauw
 
 Produkt powinien mieć pełną nazwę pokrzywy, część liści, masę, numer partii, termin ważności i dane producenta. Nie używaj suszu z wilgotnymi grudkami, obcym zapachem albo niepełną etykietą. Przechowuj go szczelnie, sucho i poza zasięgiem dzieci.
 
-Napar wypij świeży; schłodzony przechowuj maksymalnie 12 godzin. Zioła są wyłącznie wsparciem diety i rutyny, nie zamiennikiem morfologii, oceny lekarskiej, leczenia, snu ani odpowiedniego żywienia.
+Napar wypij świeży; schłodzony przechowuj maksymalnie 12 godzin. Zioła są wyłącznie wsparciem diety i rutyny, nie zamiennikiem morfologii, oceny lekarskiej, leczenia, snu ani odpowiedniego żywienia. Nie traktuj ich jako sposobu na szybkie zwiększenie wydolności.
+
+Przygotowując napar, odmierz 1 łyżeczkę suszonych liści na 250 ml wody o temperaturze około 90 stopni Celsjusza i pozostaw pod przykryciem przez 8 minut. Nie zwiększaj ilości, aby szybko zmienić wyniki.
+
+Jeśli po napoju pojawią się nudności, wysypka lub nietypowe kołatanie, przerwij stosowanie i zapisz godzinę oraz inne użyte preparaty. Takie szczegóły mogą pomóc lekarzowi ocenić bezpieczeństwo dalszego postępowania.
 
 > Wynik morfologii jest ważniejszy niż obietnica z etykiety mieszanki.
 
 ## Kiedy do lekarza
 
 Pilnej oceny wymagają duszność w spoczynku lub przy małym wysiłku, omdlenie, ból w klatce, nasilone kołatanie i szybko narastająca słabość. Umów wizytę przy przewlekłym zmęczeniu, bladości lub obfitych miesiączkach.
+
+Planową diagnostykę zaplanuj przy spadku tolerancji wysiłku, nawracających bólach głowy albo zmęczeniu trwającym mimo odpoczynku. Lekarz zdecyduje, jakie badania i leczenie są potrzebne.
 
 ## FAQ
 

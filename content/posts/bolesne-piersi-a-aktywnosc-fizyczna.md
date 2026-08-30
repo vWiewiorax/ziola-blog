@@ -47,21 +47,31 @@ Wypij małą porcję po jedzeniu przez najwyżej 2 dni. Przy chorobach przewlek�
 
 ## Produkt i obserwacja
 
-Sprawdź pełną nazwę werbeny, część liści, masę, numer partii, termin ważności i producenta. Susz przechowuj w suchym, zacienionym miejscu, szczelnie zamknięty i poza zasięgiem dzieci. Nie używaj produktu zawilgoconego.
+Sprawdź pełną nazwę werbeny, część liści, masę, numer partii, termin ważności i producenta. Susz przechowuj w suchym, zacienionym miejscu, szczelnie zamknięty i poza zasięgiem dzieci. Nie używaj produktu zawilgoconego ani pachnącego stęchlizną.
 
 Napar przygotuj w czystym naczyniu i wypij świeży; schłodzony zużyj w ciągu 12 godzin. Zioła są wyłącznie wsparciem rutyny i nie zastępują badania, leczenia ani pilnej oceny zmiany w piersi.
 
+Werbenę przygotuj z 1 łyżeczki suszu na 250 ml wody o temperaturze 85 stopni Celsjusza, parząc ją pod przykryciem przez 7 minut. Zacznij od jednej filiżanki dziennie i nie stosuj jej dłużej niż przez 5 dni bez konsultacji. Przy pierwszym użyciu obserwuj skórę i samopoczucie przez kilka godzin. Nie testuj nowej rośliny w dniu ważnych zawodów.
+
+Przy lekach uspokajających, chorobach przewlekłych, ciąży i karmieniu piersią zapytaj lekarza lub farmaceutę o bezpieczeństwo. Dziecku nie podawaj tego naparu bez indywidualnej porady, a przy reakcji alergicznej natychmiast go odstaw. Nie zwiększaj porcji z powodu utrzymującej się tkliwości.
+
 > Tkliwość można obserwować, lecz zmianę o nietypowym charakterze trzeba pokazać lekarzowi.
 
-Przed treningiem możesz sprawdzić, czy miękka warstwa pod stanikiem nie ma zgrubień, szwów ani wilgotnych fragmentów. Po wysiłku wypierz bieliznę zgodnie z instrukcją i nie susz jej na bardzo gorącym grzejniku, bo materiał szybciej traci sprężystość. Przy tkliwości ogranicz ruchy, które wielokrotnie rozciągają klatkę piersiową, lecz nie stosuj ciasnego bandażowania. Warto również ocenić barki i kręgosłup piersiowy, ponieważ napięcie w tych miejscach może udzielać się przedniej ścianie klatki. Nie próbuj lokalizować źródła przez wielokrotne uciskanie. Jeżeli objaw pojawia się zawsze przed miesiączką, zapisz tę zależność i omów ją podczas planowej wizyty, zamiast samodzielnie rozpoczynać preparat hormonalny lub ziołowy. Wszelkie zmiany poza znanym wzorcem wymagają świeżej oceny. Komfort podczas ćwiczeń jest ważny, lecz nie może przesłonić obserwacji skóry i tkanki. Przed aktywnością obejrzyj bieliznę sportową i usuń z niej elementy, które uciskają albo zatrzymują wilgoć. Po sesji wypierz ją zgodnie z metką i pozwól wyschnąć. Tkliwość związana z cyklem możesz zapisywać, lecz nowy charakter bólu wymaga świeżej oceny, a nie samodzielnego preparatu hormonalnego.
+## Dobór aktywności i bielizny
 
-Przy wyborze aktywności zacznij od ruchu, który nie powoduje podskakiwania tkanek i pozwala łatwo przerwać. Sprawdź, czy wilgotna odzież nie obciera skóry oraz czy ból ustępuje po zmianie stanika. Nie stosuj ciasnego bandaża ani wielokrotnego ucisku. Jeżeli tkliwość ma związek z cyklem, zapisuj daty, lecz nie ignoruj zmiany pojawiającej się poza znanym schematem. Każdy nowy guzek, wyciek lub niegojące się miejsce wymaga osobnej oceny, niezależnie od wyniku treningu. Przy ćwiczeniach siłowych zmniejsz ciężar, jeśli ruch ramion zwiększa tkliwość lub powoduje napięcie przedniej ściany klatki. Możesz wybrać marsz, rower stacjonarny albo spokojną mobilizację, o ile nie wywołują bólu. Po wysiłku obejrzyj skórę pod stanikiem i zmień wilgotną odzież. Nie używaj kompresji, która utrudnia oddech. W razie wątpliwości poproś lekarza o ocenę, zamiast interpretować każdy objaw jako skutek treningu lub cyklu.
+Przed treningiem sprawdź, czy miękka warstwa pod stanikiem nie ma zgrubień, szwów ani wilgotnych fragmentów. Przy tkliwości wybierz ruch bez podskoków i taki, który można łatwo przerwać. Marsz, rower stacjonarny lub spokojna mobilizacja są rozsądniejszym początkiem niż dynamiczne ćwiczenia.
 
-Przy ćwiczeniach siłowych zmniejsz ciężar, jeśli ruch ramion zwiększa tkliwość lub powoduje napięcie przedniej ściany klatki. Możesz wybrać marsz, rower stacjonarny albo spokojną mobilizację, o ile nie wywołują bólu. Po wysiłku obejrzyj skórę pod stanikiem i zmień wilgotną odzież. Nie używaj kompresji, która utrudnia oddech. W razie wątpliwości poproś lekarza o ocenę, zamiast interpretować każdy objaw jako skutek treningu lub cyklu.
+Zmniejsz ciężar, jeśli ruch ramion zwiększa tkliwość albo napina przednią ścianę klatki. Nie stosuj ciasnego bandażowania ani kompresji utrudniającej oddech. Sprawdź, czy wilgotna odzież nie obciera skóry i czy ból zmienia się po poprawieniu podparcia.
+
+Po wysiłku zmień wilgotną bieliznę i wypierz ją zgodnie z metką, a materiał susz z dala od bardzo gorącego grzejnika. Nie próbuj lokalizować źródła dolegliwości przez wielokrotne uciskanie. Komfort jest ważny, lecz nie przesłania obserwacji tkanki.
+
+Jeżeli tkliwość powtarza się przed miesiączką, zapisuj daty i reakcję na aktywność. Nowy charakter bólu lub objaw poza znanym schematem wymaga świeżej oceny, zamiast samodzielnego rozpoczynania preparatu hormonalnego albo ziołowego.
 
 ## Kiedy do lekarza
 
 Nowy, jednostronny guzek, wyciek z brodawki i niegojąca się zmiana wymagają pilnej oceny lekarskiej. Nie stosuj w tych sytuacjach ziół zamiast diagnostyki.
+
+Planową konsultację umów, gdy tkliwość utrzymuje się poza cyklem, narasta mimo zmiany podparcia albo ogranicza codzienną aktywność. Zapisz stronę, czas trwania i czynniki nasilające objaw.
 
 ## FAQ
 
@@ -73,6 +83,6 @@ Przy łagodnym, znanym objawie wybierz aktywność bez podskoków i dobre podpar
 
 Nie. Ma ograniczać ruch, ale nie powodować drętwienia, otarć ani utrudnienia oddechu.
 
-### Czy rumianek wyleczy bolesność?
+### Czy werbena cytrynowa wyleczy bolesność?
 
-Nie. Napar może uzupełnić spokojną rutynę, ale nie zastępuje oceny piersi ani leczenia przyczyny.
+Nie. Napar z werbeny może uzupełnić spokojną rutynę, ale nie zastępuje oceny piersi ani leczenia przyczyny.

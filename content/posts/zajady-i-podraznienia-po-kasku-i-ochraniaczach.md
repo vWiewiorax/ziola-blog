@@ -45,23 +45,31 @@ Szałwia lekarska (*Salvia officinalis*) może być łagodnym napojem po posiłk
 
 Wypij jedną małą porcję przez najwyżej 2 dni. Przy lekach przeciwpadaczkowych, uspokajających, chorobach przewlekłych i alergii poradź się farmaceuty. W ciąży, podczas karmienia piersią i u dzieci nie stosuj szałwii bez konsultacji.
 
-Po treningu zdejmij pasek pod brodą i obejrzyj miejsce, w którym materiał dotyka skóry. Wilgotną wyściółkę rozłóż do wyschnięcia, a elementy nadające się do prania czyść według instrukcji producenta. Nie spryskuj kasku perfumami ani środkiem dezynfekcyjnym, który może pozostać na skórze. Przy zmianie modelu sprawdź sprzęt podczas krótkiej, spokojnej sesji, nie przed najważniejszym startem. Wargi i kąciki ust mogą także reagować na nową pastę, balsam, napój izotoniczny lub gumę do żucia. Zapisz kolejność zdarzeń, aby nie przypisać winy samemu kaskowi. Jeżeli szczelina powraca w tym samym miejscu, lekarz może ocenić, czy potrzebne są badania lub leczenie miejscowe. Nie nakładaj na zmianę kilku maści jednocześnie, bo mieszanie preparatów zwiększa ryzyko podrażnienia i utrudnia późniejszą ocenę. Po treningu rozłóż wyściółkę kasku do wyschnięcia i umyj elementy zgodnie z instrukcją. Nowy balsam, pasta, napój albo guma do żucia także mogą podrażniać kąciki ust, więc zapisuj kolejność zmian. Nie nakładaj kilku maści jednocześnie, bo utrudnisz ocenę i możesz nasilić reakcję.
+## Higiena sprzętu po treningu
 
-Podczas długiej jazdy nie trzymaj ustnika w kieszeni razem z kluczami ani nie wkładaj go do wilgotnej torby. Po użyciu wypłucz go, osusz i sprawdź, czy nie ma pęknięć. Kąciki ust wycieraj czystym materiałem bez pocierania. Jeśli zmiana pojawia się po nowym napoju, paście lub balsamie, odstaw tylko podejrzany produkt i zapisz datę. Nie stosuj samodzielnie preparatów przeciwgrzybiczych, ponieważ podobny wygląd mogą mieć różne przyczyny.
+Po treningu zdejmij pasek pod brodą i obejrzyj miejsce, w którym materiał dotyka skóry. Wilgotną wyściółkę rozłóż do wyschnięcia, a elementy nadające się do prania czyść zgodnie z instrukcją. Nie spryskuj kasku perfumami ani silnym środkiem, który pozostaje na skórze. Przy zmianie modelu sprawdź sprzęt podczas krótkiej, spokojnej sesji.
 
-Przy dłuższym treningu zaplanuj przerwę na wypicie wody i delikatne osuszenie twarzy. Nie wycieraj ust rękawem, który miał kontakt z potem, smarem lub kurzem z boiska. Po meczu umyj ręce przed dotknięciem ustnika, a jego powierzchnię obejrzyj pod kątem zadrapań. Jeżeli pasek kasku stale ociera kącik, zmień regulację i sprawdź ją podczas krótkiego przejazdu. Nawracające pęknięcie może wymagać oceny jamy ustnej, skóry oraz ogólnego stanu zdrowia.
+Ustnik płucz i osuszaj osobno, a pęknięty albo odkształcony element wymień. Nie trzymaj go w wilgotnej torbie razem z kluczami lub odzieżą. Wargi i kąciki ust mogą reagować na nową pastę, balsam, napój izotoniczny albo gumę do żucia, dlatego zapisuj kolejność zmian.
+
+Nie nakładaj kilku maści jednocześnie, ponieważ utrudnia to ocenę i może nasilić podrażnienie. Jeżeli szczelina powraca w tym samym miejscu, zmień regulację paska i sprawdź ją podczas krótkiego przejazdu. Przy utrzymującej się zmianie lekarz może ocenić, czy potrzebne są badania lub leczenie miejscowe.
+
+Przy dłuższym treningu zaplanuj przerwę na wodę i delikatne osuszenie twarzy. Nie wycieraj ust rękawem, który miał kontakt z potem, smarem lub kurzem. Po meczu umyj ręce przed dotknięciem ustnika, a nawracające pęknięcie skonsultuj zamiast samodzielnie stosować preparat przeciwgrzybiczy.
 
 ## Czysty produkt i przechowanie
 
 Etykieta powinna podawać pełną nazwę szałwii, część liści, masę, numer partii, termin ważności oraz producenta. Susz przechowuj szczelnie, w suchym i zacienionym miejscu. Nie używaj go, jeśli zmienił zapach albo został zawilgocony.
 
-Napar przygotuj w czystym naczyniu, wypij świeży albo schłodź i zużyj w ciągu najwyżej 12 godzin. Zioła pozostają wsparciem rutyny i nie zastępują higieny, leczenia dermatologicznego ani odpoczynku.
+Napar przygotuj w czystym naczyniu, wypij świeży albo schłodź i zużyj w ciągu najwyżej 12 godzin. Zioła pozostają wsparciem rutyny i nie zastępują higieny, leczenia dermatologicznego ani odpoczynku. Nie zwiększaj częstotliwości z powodu utrzymującej się szczeliny. Po kuracji umyj naczynie i pozostaw je do całkowitego wyschnięcia. Przy nasileniu pieczenia przerwij stosowanie i skonsultuj zmianę.
+
+Po zakończeniu kuracji umyj naczynie i wysusz je przed odłożeniem. Jeśli skóra nie poprawia się po usunięciu tarcia, nie zwiększaj częstotliwości naparu, tylko skonsultuj przyczynę.
 
 > Suchy, czysty sprzęt jest częścią pielęgnacji skóry sportowca.
 
 ## Kiedy do lekarza
 
 Pilnej oceny wymagają szybko narastający obrzęk, ropa, gorączka, silny ból, trudności w oddychaniu oraz zmiana, która nie goi się mimo przerwy od drażniącego sprzętu.
+
+Planową konsultację zaplanuj przy nawrotach, zajęciu kilku miejsc, bladości, zmęczeniu albo zmianach w jamie ustnej. Lekarz może zdecydować o badaniu skóry, zębów lub ogólnego stanu zdrowia.
 
 ## FAQ
 

@@ -33,7 +33,9 @@ Trudniejsze zasypianie po ciężkiej sesji, nocne wybudzenia i poranne zmęczeni
 
 Utrata apetytu, niezamierzona redukcja masy, niechęć do aktywności i rozdrażnienie wymagają szerszego spojrzenia. Nie próbuj ich korygować mieszanką ziołową. Porozmawiaj z lekarzem lub dietetykiem, gdy utrzymują się mimo odpoczynku.
 
-Dobrym sposobem oceny jest porównanie kilku sygnałów z dni, w których trening był podobny. Zapisz liczbę godzin snu, chęć do rozpoczęcia sesji, odczuwaną trudność, ból, apetyt i czas powrotu oddechu do normy. Nie wyciągaj wniosków z jednego gorszego wyniku po podróży lub pracy zmianowej. Jeżeli jednak coraz częściej odkładasz trening, budzisz się zmęczony albo potrzebujesz coraz więcej czasu na regenerację, zmniejsz obciążenie i zapytaj o przyczynę. Szczególnej uwagi wymagają chudnięcie bez planu, przewlekła senność, duszność, omdlenia oraz ból nocny. Nie maskuj tych sygnałów naparem, kofeiną ani tabletką z niepewnego źródła. Trener może pomóc uporządkować objętość i intensywność, lecz diagnostykę prowadzi lekarz. Powrót powinien zaczynać się od regularności i kontroli ruchu, a nie od sprawdzania maksymalnego ciężaru.
+Dobrym sposobem oceny jest porównanie kilku sygnałów z dni, w których trening był podobny. Zapisz liczbę godzin snu, chęć do rozpoczęcia sesji, odczuwaną trudność, ból, apetyt i czas powrotu oddechu do normy. Nie wyciągaj wniosków z jednego gorszego wyniku po podróży lub pracy zmianowej.
+
+Jeżeli coraz częściej odkładasz trening, budzisz się zmęczony albo potrzebujesz więcej czasu na regenerację, zmniejsz obciążenie i zapytaj o przyczynę. Chudnięcie bez planu, przewlekła senność, duszność, omdlenia oraz ból nocny wymagają szczególnej uwagi. Nie maskuj tych sygnałów naparem, kofeiną ani tabletką z niepewnego źródła. Trener może pomóc uporządkować plan, lecz diagnostykę prowadzi lekarz.
 
 ## Jak wrócić rozsądnie
 
@@ -41,7 +43,15 @@ Po poprawie zacznij od krótszej wersji znanej jednostki i zachowaj zapas. Zanim
 
 Trener może pomóc rozdzielić dni wymagające od sesji technicznych. Fizjoterapeuta jest właściwą osobą przy powtarzającym się bólu i zmianie wzorca ruchu. Wspólna ocena jest skuteczniejsza niż ciągłe przesuwanie granicy zmęczenia.
 
-Przydatne jest także sprawdzenie, czy obciążenie pasuje do aktualnego etapu życia. Podróż, remont, praca nocna i opieka nad bliską osobą zmniejszają zapas regeneracyjny, nawet gdy plan pozostał taki sam. Zostaw rezerwę na dni o gorszej jakości snu. Jeżeli musisz kilka razy przesuwać trening z powodu wyczerpania, nie zwiększaj dyscypliny, lecz przeanalizuj objętość, jedzenie i zdrowie. Powtarzalny wzorzec jest ważniejszy niż pojedynczy rekord. Przeanalizuj również dzień poza siłownią. Praca fizyczna, podróż, opieka nad dzieckiem i stres zmniejszają rezerwę, choć zegarek pokazuje tę samą liczbę treningów. Gdy zmęczenie narasta przez kilka dni, zaplanuj lżejszą aktywność i sprawdź jedzenie oraz sen. Nie wracaj do ciężaru tylko dlatego, że jedna rozgrzewka przebiegła dobrze. Przy ocenie kolejnej sesji sprawdź, czy rozgrzewka poprawia ruch, czy tylko chwilowo maskuje zmęczenie. Zwróć uwagę na chwyt, równowagę i zdolność do utrzymania zaplanowanego tempa bez walki o oddech. Gorsza technika jest powodem do zmniejszenia ciężaru, nie do mocniejszego naparu. Po treningu zapisz czas powrotu do zwykłego samopoczucia oraz apetyt wieczorem. Jeśli potrzebujesz kilku dni, aby wrócić do codziennych czynności, plan wymaga korekty. Nie porównuj się z osobą o innym stażu, śnie i sposobie odżywiania.
+## Codzienne obciążenia poza planem
+
+Podróż, remont, praca nocna i opieka nad bliską osobą zmniejszają zapas regeneracyjny, nawet gdy liczba treningów się nie zmienia. Zostaw rezerwę na dni ze słabszym snem i nie próbuj nadrabiać sesji kosztem jedzenia lub odpoczynku.
+
+Praca fizyczna, długie dojazdy oraz stres mogą sprawić, że zwykły trening staje się nieproporcjonalnie trudny. Gdy zmęczenie narasta przez kilka dni, zaplanuj lżejszą aktywność i sprawdź posiłki. Nie wracaj do ciężaru tylko dlatego, że jedna rozgrzewka przebiegła dobrze.
+
+Przed kolejną sesją oceń chwyt, równowagę i zdolność utrzymania tempa bez walki o oddech. Gorsza technika jest powodem do zmniejszenia ciężaru, nie do mocniejszego naparu. Po treningu zapisz czas powrotu do zwykłego samopoczucia oraz apetyt wieczorem.
+
+Jeśli potrzebujesz kilku dni, aby wrócić do codziennych czynności, plan wymaga korekty. Nie porównuj się z osobą o innym stażu, śnie i sposobie odżywiania, ponieważ jej tolerancja obciążenia może być zupełnie inna.
 
 ## Napar z lawendy
 
@@ -60,6 +70,8 @@ Napar zrób w czystym naczyniu i nie zostawiaj go na biurku do rana. W lodówce 
 ## Kiedy do lekarza
 
 Pilnej oceny wymagają omdlenie, ból w klatce, duszność, nagłe osłabienie, deformacja i objawy neurologiczne. Konsultacji wymaga zmęczenie, ból lub spadek formy utrzymujący się pomimo lżejszych dni.
+
+Planową diagnostykę rozważ, gdy regeneracja pozostaje słaba mimo zmniejszenia objętości, regularnych posiłków i poprawy snu. Przygotuj dziennik treningów, odpoczynku oraz objawów.
 
 ## FAQ
 

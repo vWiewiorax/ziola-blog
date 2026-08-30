@@ -39,9 +39,15 @@ Wróć dopiero wtedy, gdy chodzenie, schody i lekki przysiad nie nasilają objaw
 
 Między próbami zostaw co najmniej jeden dzień na ocenę reakcji. Najpierw zwiększ łączny czas, potem częstotliwość, a dopiero na końcu tempo i podbiegi. Nie wprowadzaj jednocześnie nowych butów, ćwiczeń siłowych i zmiany nawierzchni.
 
-Warto ustalić prosty próg przerwania przed wyjściem z domu. Może nim być ból przekraczający łagodny poziom, skrócenie kroku, uczucie ciągnięcia przy każdym odbiciu albo pogorszenie podczas rozgrzewki. Taki próg chroni przed negocjowaniem ze sobą w połowie trasy. Po powrocie zanotuj nie tylko dystans, lecz także tempo narastania objawu, długość przerw, rodzaj nawierzchni i reakcję podczas wchodzenia po schodach. Jeżeli następnego dnia pachwina jest wyraźnie bardziej wrażliwa, nie traktuj tego jako koniecznego etapu adaptacji. Wróć do marszu lub odpoczynku i zaplanuj ocenę techniki. Fizjoterapeuta może sprawdzić siłę przywodzicieli, kontrolę miednicy oraz ruch biodra, ale potrzebuje dokładnego opisu obciążenia. Nie próbuj przyspieszać poprawy przez mocny automasaż, intensywne rozciąganie ani długie biegi testowe. Każdy kolejny krok powinien zwiększać funkcję, a nie tylko tolerancję bólu.
+## Kryteria kolejnej próby
 
-Przed następną próbą wybierz płaską trasę z możliwością szybkiego powrotu. Ustal próg przerwania: może nim być wyraźne ciągnięcie przy odbiciu, skrócenie kroku albo wzrost dolegliwości podczas marszu. Po biegu zanotuj dystans, tempo, rodzaj podłoża i reakcję po schodach, ponieważ sama chwila zakończenia wysiłku nie pokazuje całego kosztu sesji. Jeżeli następnego ranka pachwina jest bardziej wrażliwa, cofnij obciążenie zamiast traktować to jako zwykłą adaptację. Fizjoterapeuta może ocenić przywodziciele, kontrolę miednicy i ruch biodra, gdy opiszesz dokładnie ostatnie treningi. Nie przyspieszaj poprawy mocnym automasażem ani długim biegiem testowym. Bezpieczny powrót polega na odzyskiwaniu funkcji, nie na sprawdzaniu, ile bólu da się wytrzymać.
+Przed wyjściem ustal jasny warunek przerwania, na przykład skrócenie kroku, ciągnięcie przy odbiciu albo pogorszenie podczas rozgrzewki. Taka decyzja podjęta wcześniej ogranicza pokusę negocjowania z bólem w połowie trasy i ułatwia spokojne zakończenie sesji.
+
+Po powrocie zapisz dystans, tempo, rodzaj nawierzchni, długość przerw oraz reakcję podczas chodzenia po schodach. Jeżeli następnego ranka pachwina jest bardziej wrażliwa, cofnij obciążenie do marszu lub odpoczynku. Nie uznawaj nasilenia za obowiązkowy etap adaptacji.
+
+Fizjoterapeuta może ocenić siłę przywodzicieli, kontrolę miednicy i ruch biodra, ale potrzebuje dokładnego opisu ostatnich treningów. Przygotuj także informację o czasie pojawienia się bólu oraz czynnościach, które go wywołują.
+
+Nie przyspieszaj powrotu mocnym automasażem, intensywnym rozciąganiem ani długim biegiem testowym. Kolejna próba powinna zwiększać funkcję i pewność ruchu, a nie sprawdzać, ile dolegliwości można wytrzymać.
 
 ## Napar z nagietka
 
@@ -60,6 +66,8 @@ Gotowy napar przygotuj w czystym naczyniu i najlepiej wypij od razu. Jeśli musi
 ## Kiedy do lekarza
 
 Pilnej oceny wymagają niemożność obciążenia nogi, deformacja, nagły silny ból, rozległy siniak, drętwienie, gorączka lub szybko rosnący obrzęk. Umów wizytę, gdy objaw wraca przy każdym biegu albo nie poprawia się mimo odpoczynku.
+
+Planową konsultację rozważ przy bólu podczas zakładania skarpet, wchodzenia po schodach lub siedzenia, nawet jeśli krótki marsz wydaje się możliwy. Powtarzające się epizody wymagają oceny techniki i siły.
 
 ## FAQ
 

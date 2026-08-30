@@ -27,9 +27,13 @@ Mokre spodenki oraz wysokie skarpety mogą drażnić ogolone miejsca. Po zakońc
 
 Podczas marszu obserwuj, czy jedna nogawka nie przesuwa się stale w to samo miejsce. Drobna korekta kroju bywa ważniejsza niż kolejny kosmetyk. Przy pęcherzach nie przebijaj ich samodzielnie i ogranicz dalsze ocieranie.
 
-Po goleniu odczekaj, aż skóra przestanie być rozgrzana, zanim założysz obcisłe legginsy. Jeśli musisz trenować tego samego dnia, wybierz luźniejszy krój i sprawdź, czy materiał nie przesuwa się przy przysiadzie. Kosmetyk wprowadzaj najpierw na małym, niepodrażnionym fragmencie, ponieważ nawet łagodny składnik może uczulać. Nie używaj jednocześnie peelingu, kwasów, dezodorantu i nowego balsamu, bo później nie poznasz winowajcy. Przy suchej skórze pomaga także krótszy kontakt z gorącą wodą oraz dokładne spłukanie detergentu z ręcznika. Nie drap łuszczących miejsc, gdyż paznokcie mogą roznieść bakterie i pogłębić mikrourazy. Jeżeli występuje silne swędzenie bez widocznego podrażnienia, obejrzyj także inne części ciała i przypomnij sobie nowe leki lub produkty. Nawracająca suchość mimo prostej pielęgnacji jest wskazaniem do oceny dermatologicznej. Po goleniu odczekaj, aż skóra ostygnie, zanim założysz obcisłe legginsy. Nowy kosmetyk sprawdź na małym fragmencie i nie łącz go z peelingiem albo kwasami. Krótszy prysznic, łagodny detergent i brak drapania ograniczają ryzyko dalszych mikrourazów, lecz nawracające zmiany wymagają oceny dermatologicznej.
+## Planowanie dnia golenia
 
-Po zabiegu golenia unikaj basenu, sauny i intensywnego tarcia, dopóki pieczenie nie ustąpi. Jeśli skóra jest sucha, wybierz kosmetyk o krótkim składzie i nakładaj go po każdym łagodnym myciu, ale nie na obszar z ropnymi zmianami. Ręcznik i odzież powinny być czyste, a maszynka wysuszona. Przy nawrocie zapisz, czy zmiana pojawiła się po kosmetyku, wysiłku, detergentach lub zmianie temperatury. Taki dziennik ułatwia dermatologowi odróżnienie podrażnienia od alergii albo zapalenia mieszków. W dniu golenia wybierz luźne spodnie i zrezygnuj z ćwiczeń, w których materiał wielokrotnie przesuwa się po skórze. Emolient nakładaj na suchą, oczyszczoną powierzchnię zgodnie z tolerancją, lecz nie przykrywaj nim ropnych krostek. Gdy potrzebujesz usunąć włosy przed startem, zaplanuj zabieg wcześniej, aby mieć czas na reakcję skóry. Nie pożyczaj maszynki i nie przechowuj jej w zamkniętej, mokrej łazience. Prosta rutyna ułatwia ustalenie, co wywołuje pieczenie, łuszczenie albo swędzenie.
+Po goleniu odczekaj, aż skóra ostygnie, zanim założysz obcisłe legginsy. Jeśli musisz trenować tego samego dnia, wybierz luźniejszy krój i sprawdź, czy materiał nie przesuwa się przy przysiadzie. Nowy kosmetyk testuj na małym, niepodrażnionym fragmencie.
+
+Nie łącz jednocześnie peelingu, kwasów, dezodorantu i balsamu, bo później trudno ustalić źródło reakcji. Krótszy prysznic, letnia woda, łagodny detergent i dokładne spłukanie ręcznika ograniczają dalsze mikrourazy. Nie drap łuszczących miejsc.
+
+Po zabiegu unikaj basenu, sauny i intensywnego tarcia, dopóki pieczenie nie ustąpi. Ręcznik i odzież powinny być czyste, a maszynka wysuszona. Przy nawrocie zapisz, czy zmiana pojawiła się po kosmetyku, wysiłku, detergencie lub zmianie temperatury. W dniu golenia wybierz luźne spodnie, a emolient nakładaj na suchą skórę, nie na ropne krostki. Nie pożyczaj maszynki i nie przechowuj jej w mokrej łazience. Nawracająca suchość mimo prostej pielęgnacji uzasadnia ocenę dermatologiczną.
 
 Przed użyciem maszynki umyj skórę letnią wodą i nie przesuwaj ostrza po tym samym miejscu wiele razy. Po goleniu osusz nogi przez przykładanie ręcznika, a nie energiczne pocieranie. Odzież treningowa powinna być świeża i pozbawiona szorstkich szwów. Jeśli pojawią się pęcherzyki, strupy lub ból przy dotyku, odłóż trening z tarciem i obserwuj zmianę. Brak poprawy po kilku dniach uzasadnia poradę dermatologiczną.
 
@@ -47,15 +51,21 @@ Przecedź płyn i przyłóż czysty kompres na 10 minut, najwyżej przez 3 dni, 
 
 ## Higiena surowca
 
-Produkt powinien mieć pełną nazwę siemienia, wskazaną część nasienną, masę, numer partii, termin ważności i producenta. Nasiona trzymaj szczelnie, sucho i ciemno, z dala od pary. Nie przykładaj maceratu do ran ani pękniętej skóry bez zaleceń specjalisty.
+Siemię lniane kupuj z pełną nazwą surowca, masą, numerem partii, terminem ważności i danymi producenta. Nasiona przechowuj w suchym, chłodnym miejscu, a po otwarciu chroń przed wilgocią i obcymi zapachami. Do krótkiego maceratu użyj 1 łyżki całych nasion na 200 ml przegotowanej wody o temperaturze 80 stopni Celsjusza. Odstaw naczynie na 20 minut, przecedź i zastosuj ilość na nieuszkodzoną skórę.
 
-Macerat przygotuj w czystym naczyniu i wykorzystaj od razu; nie przechowuj resztek do następnego dnia. Zioła są tylko dodatkiem do pielęgnacji i nie zastępują diagnostyki, higieny ani odpoczynku.
+Najpierw wykonaj próbę na małym fragmencie i nie nakładaj preparatu na ropne zmiany, świeże skaleczenia ani skórę tuż przed treningiem. Stosowanie miejscowe ogranicz do 3 dni, jeśli nie pojawia się podrażnienie.
+
+Produkt powinien mieć pełną nazwę siemienia, wskazaną część nasienną, masę, numer partii, termin ważności i producenta. Nasiona trzymaj szczelnie, sucho i ciemno, z dala od pary. Nie przykładaj maceratu do ran ani pękniętej skóry bez zaleceń specjalisty. Macerat przygotuj w czystym naczyniu i wykorzystaj od razu.
+
+Nie przechowuj resztek do następnego dnia. Zioła są tylko dodatkiem do pielęgnacji i nie zastępują diagnostyki, higieny ani odpoczynku. Jeśli skóra reaguje pieczeniem, zmyj preparat letnią wodą i wróć do podstawowej pielęgnacji.
 
 > Gładka skóra nie jest ważniejsza od jej bariery ochronnej.
 
 ## Kiedy do lekarza
 
 Skonsultuj ropne krostki, szybko szerzące się zaczerwienienie, gorączkę, silny ból i rany, które nie goją się. Pilnej pomocy wymaga obrzęk twarzy lub duszność po produkcie.
+
+Planową ocenę dermatologiczną rozważ, gdy suchość, łuszczenie lub swędzenie wraca mimo łagodnej pielęgnacji i prania odzieży. Zabierz listę kosmetyków oraz daty golenia.
 
 ## FAQ
 

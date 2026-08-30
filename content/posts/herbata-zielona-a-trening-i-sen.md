@@ -39,11 +39,23 @@ Herbata chińska (*Camellia sinensis*) może być napojem rano lub wczesnym popo
 
 Zacznij od jednej filiżanki po posiłku i obserwuj przez najwyżej 5 dni. Przy lekach przeciwzakrzepowych, zaburzeniach snu, ciąży, karmieniu oraz u dziecka skonsultuj ilość. Nie łącz naparu z kolejną porcją kofeiny bez sprawdzenia tolerancji.
 
-Przy wyborze pory kieruj się godziną planowanego snu, a nie samym zakończeniem treningu. Jeżeli kładziesz się wcześnie, nawet popołudniowa filiżanka może być zbyt późna. Na kilka dni ogranicz zmienne: nie zmieniaj jednocześnie kawy, suplementów, długości sesji i pory zasypiania. Zapisuj moment wypicia naparu, intensywność wysiłku, liczbę nocnych przebudzeń i samopoczucie po wstaniu. Taki zapis pozwala zauważyć, czy problem powtarza się po herbacie, czy raczej po późnym meczu, obfitym posiłku albo stresie. Nie oceniaj kofeiny na podstawie jednego wieczoru. Jeśli wystąpią drżenie rąk, niepokój, szybkie bicie serca lub ból brzucha, przerwij próbę i nie dokładaj kolejnych źródeł pobudzenia. Osoba wrażliwa może wybrać słabszy napar, mniejszą porcję albo wodę. Przy długotrwałych kłopotach ze snem warto omówić rytm dnia ze specjalistą, zamiast szukać coraz mocniejszych mieszanek.
+Przy wyborze pory kieruj się godziną planowanego snu, a nie samym zakończeniem treningu. Jeżeli kładziesz się wcześnie, nawet popołudniowa filiżanka może być zbyt późna. Na kilka dni nie zmieniaj równocześnie kawy, suplementów, długości sesji i pory zasypiania. Zapisuj moment wypicia naparu, intensywność wysiłku, liczbę nocnych przebudzeń i samopoczucie po wstaniu. Taki dziennik pomaga ocenić, czy problem wiąże się z herbatą, późnym meczem, obfitym posiłkiem albo stresem. Jednego wieczoru nie traktuj jako rozstrzygającego testu.
 
-Jeżeli po późnym treningu trudno zasnąć, przez kilka dni przenieś herbatę na poranek i porównaj nocną reakcję. Zapisuj godzinę napoju, inne źródła kofeiny oraz liczbę przebudzeń. Nie testuj mocniejszej porcji przed zawodami, a przy kołataniu lub drżeniu wybierz wodę i skonsultuj objawy. Nie oceniaj napoju po samym smaku ani po tym, że łatwiej rozpocząłeś trening. Istotne jest, czy zasypiasz o zwykłej porze i czy rano możesz wykonać codzienne obowiązki. Przy późnych zajęciach sportowych przygotuj wcześniej wodę i posiłek, aby nie sięgać po herbatę jako zamiennik odpoczynku. Jeżeli sen pogarsza się po kilku próbach, przerwij test i omów bezsenność z lekarzem. Osoby stosujące leki przeciwzakrzepowe powinny przekazać specjaliście także informację o regularnych naparach, nawet jeśli są słabe. Nie zakładaj, że krótsze parzenie całkowicie usuwa kofeinę. Delikatniejszy smak nie musi oznaczać braku wpływu na sen lub żołądek. Przy treningach odbywających się późnym wieczorem wybierz wodę, a zieloną herbatę zostaw na pierwszą część dnia. Jeżeli masz niedobór żelaza, ustal porę napoju względem posiłków i zaleceń prowadzącego. Nie zmieniaj samodzielnie leczenia przeciwzakrzepowego, nawet gdy chcesz odstawić herbatę. Każdą nową reakcję, taką jak kołatanie albo wysypka, potraktuj jako powód do przerwania próby.
+Jeśli wystąpią drżenie rąk, niepokój, szybkie bicie serca lub ból brzucha, przerwij próbę i nie dodawaj kolejnych źródeł pobudzenia. Osoba wrażliwa może wybrać słabszy napar, mniejszą porcję albo wodę. Długotrwałą bezsenność omów ze specjalistą, zamiast szukać coraz mocniejszych mieszanek.
+
+## Co zrobić po późnym treningu
+
+Jeżeli po późnym treningu trudno zasnąć, przez kilka dni przenieś herbatę na poranek i porównaj nocną reakcję. Zapisuj godzinę napoju, inne źródła kofeiny oraz liczbę przebudzeń. Nie testuj mocniejszej porcji przed zawodami, a przy kołataniu lub drżeniu wybierz wodę.
+
+Nie oceniaj napoju po samym smaku ani po tym, że łatwiej rozpocząłeś trening. Istotne jest, czy zasypiasz o zwykłej porze i czy rano możesz wykonywać codzienne obowiązki. Przy późnych zajęciach przygotuj wcześniej wodę i posiłek, aby napar nie zastępował odpoczynku.
+
+Jeżeli sen pogarsza się po kilku próbach, przerwij test i omów bezsenność z lekarzem. Osoby stosujące leki przeciwzakrzepowe powinny przekazać specjaliście informację o regularnych naparach, nawet jeśli są słabe. Nie zmieniaj samodzielnie leczenia.
+
+Krótsze parzenie nie usuwa całkowicie kofeiny, a delikatny smak nie oznacza braku wpływu na sen lub żołądek. Przy treningu późnym wieczorem wybierz wodę. Jeśli masz niedobór żelaza, ustal porę napoju względem posiłków i zaleceń prowadzącego.
 
 ## Jakość liści
+
+Zwróć uwagę na datę pakowania, szczelność opakowania i zapach liści po otwarciu. Wilgotny surowiec albo intensywnie aromatyzowana mieszanka utrudniają ocenę tolerancji oraz rzeczywistej zawartości napoju.
 
 Pełna etykieta powinna podawać nazwę herbaty, część rośliny, masę, numer partii, termin ważności i producenta. Wybierz szczelne opakowanie, bez obcego zapachu i śladów wilgoci. Przechowuj liście z dala od pary oraz intensywnych aromatów.
 
@@ -54,6 +66,8 @@ Gotowy napar wypij świeży, a jeśli musi poczekać, schłodź go i zużyj w ci
 ## Kiedy do lekarza
 
 Pilnej pomocy wymagają ból w klatce, omdlenie, nasilona duszność, utrzymujące się kołatanie i reakcja alergiczna. Skonsultuj bezsenność lub objawy niedoboru żelaza utrzymujące się mimo odpoczynku.
+
+Planową poradę rozważ, gdy bezsenność powtarza się po odstawieniu kofeiny, występują częste drżenia lub napój regularnie powoduje dolegliwości żołądkowe. Wspomnij o wszystkich źródłach pobudzenia.
 
 ## FAQ
 

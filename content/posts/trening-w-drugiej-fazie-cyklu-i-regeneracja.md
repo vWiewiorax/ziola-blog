@@ -45,21 +45,31 @@ Niepokalanek pospolity (*Vitex agnus-castus*) nie jest uniwersalnym regulatorem 
 
 Wypij jedną porcję po śniadaniu przez najwyżej 3 dni obserwacji. Nie łącz preparatu z lekami hormonalnymi, psychiatrycznymi ani innymi produktami wpływającymi na cykl bez porady. W ciąży, podczas karmienia piersią i u dzieci nie stosuj go samodzielnie.
 
-Jeżeli w tej części cyklu trudniej znosisz upał, zaplanuj trening w chłodniejszej porze i skróć przerwy spędzane w pełnym słońcu. Wysiłek wykonuj w odzieży, która odprowadza wilgoć, a płyny uzupełniaj regularnie zgodnie z pragnieniem i warunkami. Nie ograniczaj jedzenia po to, aby zrekompensować zatrzymanie wody. Masa ciała może zmieniać się przejściowo, dlatego pojedynczy pomiar nie mówi o jakości treningu. Przy bólu miednicy, wyjątkowo obfitym krwawieniu albo cyklach bez miesiączki nie zwiększaj obciążenia bez rozmowy ze specjalistą. Gdy stosujesz antykoncepcję hormonalną, opisuj objawy według własnego rytmu, a nie według schematu z aplikacji. Aplikacja jest narzędziem zapisu, nie narzędziem diagnostycznym. Dobra regeneracja obejmuje także przerwy w pracy, wystarczające jedzenie i zgodę na zmianę planu, kiedy organizm wyraźnie tego potrzebuje. Przy większej wrażliwości na ciepło wybierz chłodniejszą porę, przewiewną odzież i częstsze przerwy. Nie ograniczaj jedzenia z powodu przejściowej masy ciała. Ból miednicy, bardzo obfite krwawienie i brak miesiączki omów ze specjalistą, zamiast zwiększać trening lub dobierać preparat na własną rękę.
+## Ciepło, płyny i wariant sesji
 
-Praktycznym rozwiązaniem jest przygotowanie dwóch wariantów jednostki: pełnego oraz skróconego. Wybierz jeden po ocenie snu, apetytu i poziomu bólu, a nie na podstawie samej daty w kalendarzu. Pamiętaj, że dzień wolny może poprawić jakość kolejnych treningów. Jeśli objawy pojawiają się także poza drugą fazą, nie przypisuj ich cyklowi bez konsultacji. W dzienniku zaznacz również temperaturę otoczenia, ilość wypitych płynów i jakość rozgrzewki. Takie dane pokazują, czy gorszy dzień wynika z cyklu, odwodnienia, niewyspania albo zbyt małego posiłku. Unikaj porównań z internetowymi tabelami, gdyż każdy organizm reaguje inaczej. Jeżeli ból wyraźnie narasta, wybierz konsultację zamiast kolejnej próby treningowej.
+Jeżeli w tej części cyklu trudniej znosisz upał, zaplanuj trening w chłodniejszej porze i skróć przerwy w pełnym słońcu. Wysiłek wykonuj w odzieży odprowadzającej wilgoć, a płyny uzupełniaj zgodnie z pragnieniem i warunkami. Nie ograniczaj jedzenia, aby zrekompensować przejściową zmianę masy ciała.
+
+Przy bólu miednicy, wyjątkowo obfitym krwawieniu albo cyklach bez miesiączki nie zwiększaj obciążenia bez rozmowy ze specjalistą. Antykoncepcję hormonalną opisuj według własnego rytmu, a nie schematu aplikacji. Aplikacja służy do zapisu, nie do rozpoznawania przyczyny.
+
+Przygotuj dwa warianty jednostki: pełny oraz skrócony. Wybierz jeden po ocenie snu, apetytu i poziomu bólu, nie na podstawie samej daty. Dzień wolny może poprawić jakość kolejnych treningów, a objaw występujący poza drugą fazą wymaga szerszego spojrzenia.
+
+W dzienniku zaznacz temperaturę otoczenia, ilość płynów i jakość rozgrzewki. Takie dane pomagają odróżnić wpływ cyklu od odwodnienia, niewyspania albo zbyt małego posiłku. Jeśli ból narasta, wybierz konsultację zamiast kolejnej próby treningowej.
 
 ## Jakość i granice
 
+Nie porównuj samopoczucia z opisem pojedynczej fazy w aplikacji. Własne zapisy snu, krwawienia, bólu i obciążenia są bardziej użyteczne przy planowaniu rozmowy z lekarzem lub trenerem. Zaznacz także nietypowe zmiany apetytu oraz tolerancji ciepła. Odnotuj, czy objawy zmieniają się po dniu wolnym.
+
 Etykieta powinna zawierać pełną nazwę niepokalanka, część owocu, masę, numer partii, termin ważności i producenta. Susz przechowuj szczelnie, sucho, ciemno i z dala od pary. Produkt o obcym zapachu albo bez oznaczeń wyrzuć.
 
-Napar przygotuj w czystym kubku i zużyj świeży; schłodzony trzymaj maksymalnie 12 godzin. Zioła są tylko wsparciem codziennej rutyny, nie leczeniem cyklu, bezsenności, bólu ani problemów z płodnością.
+Napar przygotuj w czystym kubku i zużyj świeży; schłodzony trzymaj maksymalnie 12 godzin. Zioła są tylko wsparciem codziennej rutyny, nie leczeniem cyklu, bezsenności, bólu ani problemów z płodnością. Liczy się tolerancja organizmu, nie popularny schemat z aplikacji.
 
 > Cykl może podpowiadać obserwację, ale nie zastępuje słuchania własnego organizmu.
 
 ## Kiedy do lekarza
 
 Pilnej oceny wymagają omdlenie, silny ból, bardzo obfite krwawienie, duszność i nagłe osłabienie. Umów konsultację przy utrzymujących się zaburzeniach cyklu, bólu lub zmęczeniu.
+
+Planową wizytę rozważ, gdy objawy powtarzają się w kilku cyklach, miesiączki stają się nieregularne albo trening wyraźnie traci jakość mimo odpoczynku. Przygotuj kalendarz objawów i obciążenia.
 
 ## FAQ
 

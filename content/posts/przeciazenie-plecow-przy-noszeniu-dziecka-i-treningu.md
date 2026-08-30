@@ -27,11 +27,19 @@ Podczas karmienia oprzyj plecy i unieś dziecko do siebie, zamiast długo pochyl
 
 Krótki spacer po domu, spokojne wyprostowanie bioder i oddech bez napinania brzucha mogą przerwać serię statycznych pozycji. Nie wykonuj gwałtownych skłonów „na rozruszanie”. Jeśli każdy krok zwiększa ból, odpocznij i skonsultuj objaw.
 
-Przy częstym podnoszeniu przygotuj sobie stałe miejsce, z którego możesz bezpiecznie sięgnąć po dziecko. Usuń przedmioty z podłogi, ustaw przewijak na wygodnej wysokości i nie wykonuj skrętu w chwili, gdy ciężar jest już w rękach. Jeżeli musisz zejść nisko, podejdź bliżej i oprzyj jedno kolano, zamiast utrzymywać długi skłon. Warto też podzielić obowiązki z drugą osobą, nawet jeśli oznacza to krótszy trening lub zmianę godziny spaceru. Plecy potrzebują przerw od powtarzanego obciążenia, a nie tylko jednego wieczoru z termoforem. Zwróć uwagę na kaszel, kichanie i wstawanie z łóżka, ponieważ ból nasilany przez te czynności należy dokładniej omówić. Nie noś dziecka po schodach, gdy czujesz utratę siły albo nie możesz swobodnie postawić stopy. Plan powrotu powinien uwzględniać nocne pobudki, karmienie i realną pomoc w domu.
+## Organizacja opieki i dźwigania
 
-Przy częstym podnoszeniu przygotuj miejsce, z którego dziecko można chwycić bez skręcania tułowia. Usuń zabawki z podłogi, ustaw przewijak na wygodnej wysokości i podejdź blisko, zanim ugniesz kolana. Gdy schodzisz nisko, oprzyj jedno kolano zamiast długo trwać w półskłonie. Podział obowiązków może oznaczać krótszy trening, ale zmniejsza liczbę powtarzanych dźwignięć w ciągu dnia. Zapisz, czy ból nasila się przy kaszlu, kichaniu, wstawaniu lub noszeniu po schodach. Utrata siły i niepewne stawianie stopy są ważniejsze niż możliwość wykonania planowanej serii. Powrót do ćwiczeń zaplanuj wokół nocnych pobudek, karmienia i realnej pomocy w domu. Plecy potrzebują regularnych przerw od ciężaru, nie tylko jednego wieczoru z ciepłym okładem.
+Przy częstym podnoszeniu przygotuj miejsce, z którego można sięgnąć po dziecko bez skręcania tułowia. Usuń zabawki z podłogi, ustaw przewijak wygodnie i podejdź blisko, zanim ugniesz kolana. Oparcie jednego kolana jest bezpieczniejsze niż długi półskłon.
+
+Podziel obowiązki z drugą osobą, nawet jeśli oznacza to krótszy trening lub zmianę godziny spaceru. Plecy potrzebują wielu przerw od powtarzanego ciężaru, a nie tylko jednego wieczoru z ciepłym okładem. Wysiłek planuj wokół nocnych pobudek i realnej pomocy.
+
+Zapisz, czy ból nasila kaszel, kichanie, wstawanie albo noszenie po schodach. Utrata siły i niepewne stawianie stopy są ważniejsze niż wykonanie zaplanowanej serii. W takich warunkach poproś o pomoc przy przenoszeniu dziecka.
+
+Powrót do ćwiczeń rozpocznij od ruchów, które nie wymagają szybkiego podnoszenia ani skrętu z ciężarem. Zwiększaj obciążenie dopiero wtedy, gdy codzienna opieka i poprzedni trening nie nasilają objawów następnego dnia.
 
 ## Kiedy wzmacniać
+
+Ćwiczenia stabilizujące wprowadzaj dopiero wtedy, gdy możesz spokojnie chodzić i podnosić lekkie przedmioty bez narastania bólu. Wybierz mały zakres, wolne tempo oraz przerwę przed kolejnym obowiązkiem opiekuńczym.
 
 Ćwiczenia stabilizacyjne wprowadź dopiero, gdy codzienne ruchy są przewidywalne. Zacznij od krótkich napięć w neutralnym ustawieniu, bez wstrzymywania oddechu i bez dążenia do zmęczenia. Zatrzymaj serię przy promieniowaniu, drętwieniu albo utracie kontroli.
 
@@ -56,6 +64,8 @@ Napar przelej do czystego naczynia, wypij świeży albo schłodź i zużyj w ci�
 ## Kiedy do lekarza
 
 Pilnej pomocy wymagają zaburzenia czucia, narastające osłabienie nogi, problemy ze zwieraczami, drętwienie okolicy krocza, uraz z deformacją lub utrata możliwości chodzenia. Konsultacja jest potrzebna przy bólu nocnym i objawie utrzymującym się mimo odpoczynku.
+
+Planową ocenę umów, gdy ból wraca przy każdym podnoszeniu dziecka, kaszlu lub wstawaniu albo ogranicza opiekę mimo zmiany techniki. Warto omówić także bezpieczny powrót do ćwiczeń.
 
 ## FAQ
 

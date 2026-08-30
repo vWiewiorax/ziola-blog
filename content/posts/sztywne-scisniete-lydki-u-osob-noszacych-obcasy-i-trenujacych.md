@@ -21,9 +21,15 @@ Obie łydki mogą być zmęczone po podbiegach, lecz jednostronny ból z obrzęk
 
 Po długim siedzeniu w pracy wstań spokojnie i przejdź kilka kroków. Jeżeli pojawia się silny ból, trudność w obciążeniu lub napięcie nie ustępuje po odpoczynku, nie testuj go serią wspięć. W razie wątpliwości wybierz ocenę medyczną.
 
-Szczególnie ważna jest zmiana, która pojawia się nagle i dotyczy tylko jednej nogi. Nie próbuj wtedy porównywać elastyczności przez mocne przyciąganie palców ani nie zakładaj ciasnej skarpety uciskowej bez zaleceń. Zapisz, czy łydka boli w spoczynku, przy chodzeniu, podczas wspięcia i przy delikatnym dotyku. Zwróć uwagę na duszność, ból w klatce, osłabienie oraz sinienie stopy, ponieważ takie objawy zmieniają pilność postępowania. Również obustronne napięcie wymaga przerwy, jeśli pojawia się po nagłej zmianie obuwia i utrudnia normalny krok. Przez kilka dni wybieraj krótsze odcinki marszu, równą nawierzchnię i buty, które nie wymuszają wspięcia na palce. Powrót do obcasa zacznij od krótkiego czasu w domu, a nie od całego dnia pracy. Jeśli sztywność wraca mimo takiego planu, potrzebna może być ocena stawu skokowego, ścięgna Achillesa i krążenia.
+## Jak odróżnić napięcie od sygnału alarmowego
 
-Jednostronne napięcie sprawdzaj szczególnie uważnie, zwłaszcza gdy zaczęło się bez zmiany treningu. Nie porównuj elastyczności mocnym przyciąganiem palców i nie zakładaj ciasnej skarpety uciskowej bez zaleceń. Zanotuj ból w spoczynku, podczas chodu, przy wspięciu oraz przy delikatnym dotyku. Duszność, ból w klatce, osłabienie lub sinienie stopy wymagają pilniejszej decyzji niż zwykła sztywność po obcasach. Przy obustronnym napięciu skróć marsz, wybierz równą nawierzchnię i buty niewymuszające wspięcia. Do obcasa wracaj najpierw przez krótki pobyt w domu, nie przez cały dzień pracy. Jeśli objaw nie ustępuje, ocena stawu skokowego, Achillesa i krążenia będzie rozsądniejsza niż kolejna seria wspięć.
+Nagła sztywność jednej łydki wymaga większej ostrożności niż obustronne uczucie zmęczenia po obcasach. Nie sprawdzaj elastyczności mocnym przyciąganiem palców i nie zakładaj skarpety uciskowej bez zaleceń, gdy nie znasz przyczyny dolegliwości.
+
+Zapisz, czy ból występuje w spoczynku, podczas chodzenia, przy wspięciu oraz przy delikatnym dotyku. Duszność, ból w klatce, osłabienie lub sinienie stopy zmieniają pilność postępowania i wymagają szybkiej oceny zamiast ćwiczeń rozciągających.
+
+Przy obustronnym napięciu skróć marsz, wybierz równą nawierzchnię i buty niewymuszające wspięcia na palce. Gdy objaw pojawił się po zmianie obuwia, przez kilka dni ogranicz wysokość obcasa i obserwuj zwykły krok.
+
+Do obcasa wracaj najpierw przez krótki pobyt w domu, nie przez cały dzień pracy. Jeśli sztywność powraca mimo takiej zmiany, rozsądniejsza będzie ocena stawu skokowego, ścięgna Achillesa i krążenia niż kolejna seria wspięć.
 
 ## Łagodny ruch stawu skokowego
 
@@ -32,6 +38,8 @@ Przy równomiernej, łagodnej sztywności wykonuj powolne zgięcie i wyprost sto
 Trening zastępczy powinien unikać skoków, sprintów i długich wspięć na palce. Spokojny spacer jest rozsądny tylko wtedy, gdy nie zmienia kroku i nie zwiększa objawu następnego ranka. W przeciwnym razie odpocznij i skonsultuj plan.
 
 ## Powrót do obciążenia
+
+Po zmianie obuwia zwiększaj czas chodzenia stopniowo i przeplataj go siedzeniem z nogami w wygodnym ustawieniu. Zapisuj, czy napięcie maleje po odpoczynku, czy pojawia się także w nocy i podczas zwykłego stania.
 
 Po zmniejszeniu dolegliwości zacznij od krótkiej rozgrzewki, marszu i kilku kontrolowanych wspięć z równym podparciem. Nie zwiększaj jednocześnie czasu w obcasach, kilometrażu i ciężaru ćwiczeń. Reakcję łydki oceniaj również wieczorem, nie tylko bezpośrednio po sesji.
 
@@ -56,6 +64,8 @@ Napar zrób w czystym kubku i wypij świeży. Przechowywany płyn włóż do lod
 ## Kiedy do lekarza
 
 Pilnej oceny wymaga nagły jednostronny obrzęk, zaczerwienienie, ocieplenie, silny ból, niemożność obciążenia albo duszność i ból w klatce. Umów konsultację przy nawracaniu sztywności mimo zmniejszenia obciążenia.
+
+Planowa wizyta jest wskazana, gdy napięcie utrudnia sen, powraca po krótkim czasie w obuwiu lub współistnieje z bólem stawu skokowego. Nie próbuj rozwiązywać tego wyłącznie zmianą obcasa.
 
 ## FAQ
 
