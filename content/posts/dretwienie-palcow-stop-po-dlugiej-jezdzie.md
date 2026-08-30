@@ -2,7 +2,7 @@
 title: "Drętwienie palców stóp po długiej jeździe"
 excerpt: "Jak sprawdzić wpływ obuwia i ustawienia pedałów na drętwienie palców stóp oraz kiedy objaw wymaga konsultacji."
 date: "2025-09-14"
-category: "Przeciwzapalne"
+category: "Poradniki"
 ---
 
 Drętwienie palców stóp po długiej jeździe może wynikać z ucisku buta, obrzęku, chłodu lub ustawienia stopy na pedale. Czasem sygnalizuje jednak problem nerwowy albo naczyniowy. Ważne jest, czy czucie wraca po odpoczynku i czy objaw występuje także poza rowerem.
