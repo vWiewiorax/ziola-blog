@@ -33,9 +33,13 @@ Po goleniu odczekaj, aż skóra ostygnie, zanim założysz obcisłe legginsy. Je
 
 Nie łącz jednocześnie peelingu, kwasów, dezodorantu i balsamu, bo później trudno ustalić źródło reakcji. Krótszy prysznic, letnia woda, łagodny detergent i dokładne spłukanie ręcznika ograniczają dalsze mikrourazy. Nie drap łuszczących miejsc.
 
-Po zabiegu unikaj basenu, sauny i intensywnego tarcia, dopóki pieczenie nie ustąpi. Ręcznik i odzież powinny być czyste, a maszynka wysuszona. Przy nawrocie zapisz, czy zmiana pojawiła się po kosmetyku, wysiłku, detergencie lub zmianie temperatury. W dniu golenia wybierz luźne spodnie, a emolient nakładaj na suchą skórę, nie na ropne krostki. Nie pożyczaj maszynki i nie przechowuj jej w mokrej łazience. Nawracająca suchość mimo prostej pielęgnacji uzasadnia ocenę dermatologiczną.
+Po zabiegu unikaj basenu, sauny i intensywnego tarcia, dopóki pieczenie nie ustąpi. Ręcznik i odzież powinny być czyste, a maszynka wysuszona. Przy nawrocie zapisz, czy zmiana pojawiła się po kosmetyku, wysiłku, detergencie lub zmianie temperatury.
 
-Przed użyciem maszynki umyj skórę letnią wodą i nie przesuwaj ostrza po tym samym miejscu wiele razy. Po goleniu osusz nogi przez przykładanie ręcznika, a nie energiczne pocieranie. Odzież treningowa powinna być świeża i pozbawiona szorstkich szwów. Jeśli pojawią się pęcherzyki, strupy lub ból przy dotyku, odłóż trening z tarciem i obserwuj zmianę. Brak poprawy po kilku dniach uzasadnia poradę dermatologiczną.
+W dniu golenia wybierz luźne spodnie, a emolient nakładaj na suchą skórę, nie na ropne krostki. Nie pożyczaj maszynki i nie przechowuj jej w mokrej łazience. Nawracająca suchość mimo prostej pielęgnacji uzasadnia ocenę dermatologiczną.
+
+Przed użyciem maszynki umyj skórę letnią wodą i nie przesuwaj ostrza po tym samym miejscu wiele razy. Po goleniu osusz nogi przez przykładanie ręcznika, a nie energiczne pocieranie. Odzież treningowa powinna być świeża i pozbawiona szorstkich szwów.
+
+Jeśli pojawią się pęcherzyki, strupy lub ból przy dotyku, odłóż trening z tarciem i obserwuj zmianę. Brak poprawy po kilku dniach uzasadnia poradę dermatologiczną.
 
 ## Kiedy potrzebna jest przerwa
 

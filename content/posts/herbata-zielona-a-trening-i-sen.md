@@ -39,19 +39,21 @@ Herbata chińska (*Camellia sinensis*) może być napojem rano lub wczesnym popo
 
 Zacznij od jednej filiżanki po posiłku i obserwuj przez najwyżej 5 dni. Przy lekach przeciwzakrzepowych, zaburzeniach snu, ciąży, karmieniu oraz u dziecka skonsultuj ilość. Nie łącz naparu z kolejną porcją kofeiny bez sprawdzenia tolerancji.
 
-Przy wyborze pory kieruj się godziną planowanego snu, a nie samym zakończeniem treningu. Jeżeli kładziesz się wcześnie, nawet popołudniowa filiżanka może być zbyt późna. Na kilka dni nie zmieniaj równocześnie kawy, suplementów, długości sesji i pory zasypiania. Zapisuj moment wypicia naparu, intensywność wysiłku, liczbę nocnych przebudzeń i samopoczucie po wstaniu. Taki dziennik pomaga ocenić, czy problem wiąże się z herbatą, późnym meczem, obfitym posiłkiem albo stresem. Jednego wieczoru nie traktuj jako rozstrzygającego testu.
+Przy wyborze pory kieruj się godziną planowanego snu, a nie samym zakończeniem treningu. Jeżeli kładziesz się wcześnie, nawet popołudniowa filiżanka może być zbyt późna. Na kilka dni nie zmieniaj równocześnie kawy, suplementów, długości sesji i pory zasypiania.
+
+Zapisuj moment wypicia naparu, intensywność wysiłku, liczbę nocnych przebudzeń i samopoczucie po wstaniu. Taki dziennik pomaga ocenić, czy problem wiąże się z herbatą, późnym meczem, obfitym posiłkiem albo stresem. Jednego wieczoru nie traktuj jako rozstrzygającego testu.
 
 Jeśli wystąpią drżenie rąk, niepokój, szybkie bicie serca lub ból brzucha, przerwij próbę i nie dodawaj kolejnych źródeł pobudzenia. Osoba wrażliwa może wybrać słabszy napar, mniejszą porcję albo wodę. Długotrwałą bezsenność omów ze specjalistą, zamiast szukać coraz mocniejszych mieszanek.
 
 ## Co zrobić po późnym treningu
 
-Jeżeli po późnym treningu trudno zasnąć, przez kilka dni przenieś herbatę na poranek i porównaj nocną reakcję. Zapisuj godzinę napoju, inne źródła kofeiny oraz liczbę przebudzeń. Nie testuj mocniejszej porcji przed zawodami, a przy kołataniu lub drżeniu wybierz wodę.
+Po zakończeniu późnej sesji zaplanuj kilka minut spokojnego schłodzenia zamiast gwałtownego przejścia do obowiązków. Przygotuj wcześniej przygaszone światło, ubrania do snu i prostą czynność wyciszającą, na przykład ciepły prysznic bez telefonu. Taki rytuał ogranicza liczbę decyzji po wysiłku.
 
-Nie oceniaj napoju po samym smaku ani po tym, że łatwiej rozpocząłeś trening. Istotne jest, czy zasypiasz o zwykłej porze i czy rano możesz wykonywać codzienne obowiązki. Przy późnych zajęciach przygotuj wcześniej wodę i posiłek, aby napar nie zastępował odpoczynku.
+Jeśli wieczorny trening odbywa się w hałaśliwej hali, po powrocie daj uszom i oczom czas na wyciszenie. Nie sprawdzaj wyników ani wiadomości w łóżku. Gdy jesteś głodny, wybierz znany, lekki posiłek zamiast dużej porcji, która może utrudnić leżenie.
 
-Jeżeli sen pogarsza się po kilku próbach, przerwij test i omów bezsenność z lekarzem. Osoby stosujące leki przeciwzakrzepowe powinny przekazać specjaliście informację o regularnych naparach, nawet jeśli są słabe. Nie zmieniaj samodzielnie leczenia.
+Przy kilku późnych startach z rzędu zostaw następnego dnia margines na późniejsze rozpoczęcie obowiązków, jeśli jest to możliwe. Nie wykorzystuj naparu do wymuszania snu przed poranną jazdą ani pracą wymagającą czujności. Powtarzające się trudności warto omawiać jako problem całego planu wieczoru.
 
-Krótsze parzenie nie usuwa całkowicie kofeiny, a delikatny smak nie oznacza braku wpływu na sen lub żołądek. Przy treningu późnym wieczorem wybierz wodę. Jeśli masz niedobór żelaza, ustal porę napoju względem posiłków i zaleceń prowadzącego.
+Po powrocie odłóż sportowe powiadomienia i przygotuj spokojne, chłodniejsze miejsce do odpoczynku. Rano oceń czujność oraz nastrój, zanim zdecydujesz o kolejnym treningu.
 
 ## Jakość liści
 

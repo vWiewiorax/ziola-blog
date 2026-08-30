@@ -47,7 +47,9 @@ Następny trening zaplanuj dopiero po ocenie jakości snu, apetytu i zwykłej en
 
 Dziennik może zawierać godzinę snu, pobudki, rodzaj ruchu oraz samopoczucie następnego ranka. Nie używaj jednej dobrej sesji jako dowodu, że problem zniknął. Długotrwałe zmęczenie wymaga rozmowy z lekarzem.
 
-Warto odróżnić senność od zwykłego braku motywacji. Senność utrudnia utrzymanie oczu otwartych, spowalnia reakcje i może pojawiać się podczas siedzenia. W takim stanie nie wybieraj jazdy na rowerze po ruchliwej ulicy ani ćwiczeń z ciężarem nad głową. Jeśli po południu czujesz poprawę, nadal zachowaj zapas, bo późniejszy spadek energii bywa nagły. Następny dzień wykorzystaj na odbudowę rytmu, a nie na karanie się za opuszczoną sesję.
+Warto odróżnić senność od zwykłego braku motywacji. Senność utrudnia utrzymanie oczu otwartych, spowalnia reakcje i może pojawiać się podczas siedzenia. W takim stanie nie wybieraj jazdy na rowerze po ruchliwej ulicy ani ćwiczeń z ciężarem nad głową.
+
+Jeśli po południu czujesz poprawę, nadal zachowaj zapas, bo późniejszy spadek energii bywa nagły. Następny dzień wykorzystaj na odbudowę rytmu, a nie na karanie się za opuszczoną sesję.
 
 Przed wyjściem na trening sprawdź także, czy nie zasypiasz podczas siedzenia i czy pamiętasz prostą sekwencję ćwiczeń. Jeżeli odpowiedź budzi wątpliwości, wybierz odpoczynek. Po pracy nie planuj ryzykownej jazdy, gdy powieki stają się ciężkie. Przy powtarzających się problemach zanotuj porę pobudki, ból, stres i przyjmowane leki, a następnie omów je ze specjalistą. Takie dane są użyteczniejsze niż kolejna porcja kofeiny.
 

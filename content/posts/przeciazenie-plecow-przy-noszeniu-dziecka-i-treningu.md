@@ -45,7 +45,9 @@ Powrót do ćwiczeń rozpocznij od ruchów, które nie wymagają szybkiego podno
 
 Powrót do większych ciężarów zaplanuj wokół snu i pomocy w opiece, nie tylko według kalendarza. Dwa krótkie treningi z zapasem mogą być rozsądniejsze niż jedna długa sesja wykonywana po nieprzespanej nocy. Reakcja następnego dnia jest częścią oceny.
 
-Przy planowaniu tygodnia policz także podnoszenia, kąpiele, zakupy i dłuższe noszenie podczas spaceru. Te czynności nie są „zerowym” obciążeniem, nawet jeśli nie mają formy ćwiczenia. Ustal z drugą osobą sygnał, po którym przejmie dziecko, zanim ból wymusi nagły ruch. Po cięższym dniu wybierz sen i łatwy spacer zamiast sprawdzania maksymalnej siły. Jeżeli następnego ranka ból jest wyraźnie większy, zmniejsz zarówno trening, jak i liczbę powtarzanych dźwignięć.
+Przy planowaniu tygodnia policz także podnoszenia, kąpiele, zakupy i dłuższe noszenie podczas spaceru. Te czynności nie są „zerowym” obciążeniem, nawet jeśli nie mają formy ćwiczenia. Ustal z drugą osobą sygnał, po którym przejmie dziecko, zanim ból wymusi nagły ruch.
+
+Po cięższym dniu wybierz sen i łatwy spacer zamiast sprawdzania maksymalnej siły. Jeżeli następnego ranka ból jest wyraźnie większy, zmniejsz zarówno trening, jak i liczbę powtarzanych dźwignięć.
 
 ## Ciepły napój z imbirem
 

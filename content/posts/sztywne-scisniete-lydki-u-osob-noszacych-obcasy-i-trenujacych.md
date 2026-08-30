@@ -45,7 +45,9 @@ Po zmniejszeniu dolegliwości zacznij od krótkiej rozgrzewki, marszu i kilku ko
 
 Jeśli sztywność wraca po każdej zmianie obuwia, poproś fizjoterapeutę o ocenę zakresu zgięcia stawu skokowego oraz siły obu stron. Czasem potrzebna jest korekta techniki, a czasem stopniowe przyzwyczajenie do innej wysokości pięty. Sam masaż nie rozwiązuje źródła problemu.
 
-Przy stopniowej zmianie obuwia zacznij od kilkunastu minut na płaskim podłożu i sprawdź reakcję dopiero następnego dnia. Nie łącz pierwszego spaceru w nowych butach z podbiegami albo długim staniem. Jeżeli łydka staje się twarda po kilku godzinach, zrób przerwę, zmień pozycję i nie dociskaj jej na siłę. Wysiłek powinien wracać dopiero wtedy, gdy zwykłe chodzenie nie wywołuje narastającego bólu. Taki plan pozwala oddzielić wpływ obcasa od wpływu treningu.
+Przy stopniowej zmianie obuwia zacznij od kilkunastu minut na płaskim podłożu i sprawdź reakcję dopiero następnego dnia. Nie łącz pierwszego spaceru w nowych butach z podbiegami albo długim staniem. Jeżeli łydka staje się twarda po kilku godzinach, zrób przerwę i zmień pozycję.
+
+Nie dociskaj napiętej łydki na siłę. Wysiłek powinien wracać dopiero wtedy, gdy zwykłe chodzenie nie wywołuje narastającego bólu. Taki plan pozwala oddzielić wpływ obcasa od wpływu treningu.
 
 ## Napar z rumianku
 

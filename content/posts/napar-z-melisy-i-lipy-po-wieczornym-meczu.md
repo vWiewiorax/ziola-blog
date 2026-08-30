@@ -51,11 +51,15 @@ Przygotuj miejsce do snu przed wyjściem na boisko i po powrocie ogranicz liczb�
 
 ## Higiena i przechowywanie
 
-Przed użyciem sprawdź pełną nazwę melisy i lipy, wskazane części roślin, masę, numer partii, termin ważności oraz producenta. Przechowuj surowce osobno, szczelnie i z dala od pary. Nie kupuj mieszaniny o niejasnym składzie, obcym zapachu albo wilgotnych grudkach. Napar przygotuj świeżo w umytym naczyniu i wypij po meczu. Jeśli musi poczekać, schłodź go oraz przechowuj w lodówce najwyżej 12 godzin. Termos umyj i wysusz po użyciu, a ciepłego płynu nie zostawiaj na noc.
+Przed użyciem sprawdź pełną nazwę melisy i lipy, wskazane części roślin, masę, numer partii, termin ważności oraz producenta. Przechowuj surowce osobno, szczelnie i z dala od pary. Nie kupuj mieszaniny o niejasnym składzie, obcym zapachu albo wilgotnych grudkach.
+
+Napar przygotuj świeżo w umytym naczyniu i wypij po meczu. Jeśli musi poczekać, schłodź go oraz przechowuj w lodówce najwyżej 12 godzin. Termos umyj i wysusz po użyciu, a ciepłego płynu nie zostawiaj na noc.
 
 Jedną filiżankę stosuj przez najwyżej 5 kolejnych wieczorów, jeśli nie ma przeciwwskazań. Przy lekach uspokajających, ciąży, karmieniu piersią, chorobach przewlekłych oraz u dzieci potrzebna jest indywidualna porada. Zrezygnuj z naparu, jeśli powoduje senność utrudniającą bezpieczny powrót.
 
-Po spotkaniu zapisz godzinę ostatniego wysiłku, temperaturę hali, ilość wypitych płynów i moment zasypiania. Jeśli rano czujesz ciężkość głowy, nie zwiększaj mieszanki, tylko sprawdź nawodnienie, posiłek oraz długość snu. Przy następnym meczu przygotuj zwykłą wodę jako alternatywę. Taki dziennik pomaga ocenić całą rutynę, zamiast przypisywać każdą zmianę samemu naparowi. Nie testuj go pierwszy raz przed ważnym spotkaniem. Zachowaj zwykłą porę pobudki następnego dnia.
+Po spotkaniu zapisz godzinę ostatniego wysiłku, temperaturę hali, ilość wypitych płynów i moment zasypiania. Jeśli rano czujesz ciężkość głowy, nie zwiększaj mieszanki, tylko sprawdź nawodnienie, posiłek oraz długość snu.
+
+Przy następnym meczu przygotuj zwykłą wodę jako alternatywę. Taki dziennik pomaga ocenić całą rutynę, zamiast przypisywać każdą zmianę samemu naparowi. Nie testuj go pierwszy raz przed ważnym spotkaniem. Zachowaj zwykłą porę pobudki następnego dnia.
 
 
 > Ciepły kubek może oznaczać koniec meczu, ale nie zastąpi nocnego odpoczynku.

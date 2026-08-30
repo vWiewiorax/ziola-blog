@@ -41,7 +41,9 @@ Wypij jedną filiżankę przez najwyżej 3 dni, jeśli lekarz lub farmaceuta nie
 
 ## Ruch przed wyjaśnieniem wyników
 
-Jeżeli czekasz na wyniki, wybierz intensywność, przy której możesz mówić pełnymi zdaniami. Spokojny marsz różni się od interwałów wykonywanych przy duszności. Ustal z trenerem plan awaryjny, pozwalający zakończyć sesję bez nadrabiania następnego dnia. Zwróć uwagę na obfitość miesiączek, krwawienia z przewodu pokarmowego, zmianę masy ciała, dietę eliminacyjną oraz leki. Nie oceniaj stanu krwi po kolorze skóry ani chwilowym przypływie energii po kawie. Te informacje mogą być ważne podczas wywiadu.
+Jeżeli czekasz na wyniki, wybierz intensywność, przy której możesz mówić pełnymi zdaniami. Spokojny marsz różni się od interwałów wykonywanych przy duszności. Ustal z trenerem plan awaryjny, pozwalający zakończyć sesję bez nadrabiania następnego dnia.
+
+Zwróć uwagę na obfitość miesiączek, krwawienia z przewodu pokarmowego, zmianę masy ciała, dietę eliminacyjną oraz leki. Nie oceniaj stanu krwi po kolorze skóry ani chwilowym przypływie energii po kawie. Te informacje mogą być ważne podczas wywiadu.
 
 Nie przyjmuj kilku produktów reklamowanych jako wsparcie krwi, nawet gdy każdy ma prostą etykietę. Część roślin wpływa na ciśnienie, krzepnięcie, nerki albo działanie innych preparatów. Pokaż specjaliście pełną listę ziół, suplementów i produktów fortyfikowanych.
 
