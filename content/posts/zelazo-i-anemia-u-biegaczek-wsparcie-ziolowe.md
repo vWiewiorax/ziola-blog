@@ -41,6 +41,8 @@ Jeśli po kilku tygodniach nadal jesteś osłabiona, nie zwiększaj dawki na wł
 
 ## Kobieta aktywna i cykl
 
+Jeśli puls rośnie przy tym samym tempie, zapisz to razem z dniem cyklu, snem i wynikami badań do omówienia z lekarzem przed zmianą planu.
+
 W tygodniu obfitej miesiączki ogranicz intensywność, jeśli tętno jest nietypowo wysokie albo pojawiają się zawroty głowy. Jedz regularnie i nie pomijaj węglowodanów. Prowadź dziennik objawów przez co najmniej dwa cykle, zapisując krwawienie, sen i trening.
 
 Po treningu nie zakładaj, że zwykła bladość oznacza niedobór. Zmierz obciążenie i odpocznij, jeżeli pojawia się zadyszka przy schodach. Przy częstym oddawaniu krwi, diecie eliminacyjnej lub krwawieniach z przewodu pokarmowego poinformuj lekarza, bo sama zmiana naparu nie usunie przyczyny.

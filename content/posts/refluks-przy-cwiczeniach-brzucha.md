@@ -19,6 +19,8 @@ Jeśli potrzebujesz małej przekąski, wybierz znaną porcję i sprawdź reakcj�
 
 ## Oddech i modyfikacja ćwiczeń
 
+Przy plankach ustaw zegar na krótkie odcinki i odpoczywaj stojąc, zamiast utrzymywać długie napięcie bez przerwy oraz ignorować narastające pieczenie za mostkiem.
+
 Podczas spięcia wypuszczaj powietrze zamiast długo blokować oddech. Zacznij od 2 serii po 8-10 powtórzeń z przerwą 60-90 sekund. Plank wykonuj przez 15-20 sekund, bez parcia i bez odczuwania pieczenia. Gdy objaw wraca, zamień ćwiczenie na marsz lub spokojną pracę kończyn.
 
 Zwiększaj czas albo liczbę powtórzeń, lecz nie oba parametry jednocześnie. Przez 48 godzin po nasileniu refluksu ogranicz ćwiczenia wymagające silnego tłoczniowego parcia. Trener może skorygować ustawienie miednicy, ale nie powinien diagnozować bólu w klatce.

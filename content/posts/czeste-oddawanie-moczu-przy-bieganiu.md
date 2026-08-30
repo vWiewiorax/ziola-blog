@@ -33,6 +33,8 @@ Stosuj jedną porcję przez 3-5 dni obserwacji. Nie pij jej jako sposobu na zmni
 
 ## Higiena i plan trasy
 
+Przed dłuższym biegiem zaplanuj punkt z toaletą i sprawdź jego dostępność, aby nie zwiększać płynów na zapas z obawy przed brakiem dostępu podczas trasy.
+
 Nie odkładaj oddawania moczu przez wiele godzin, wybieraj czystą toaletę i po treningu zmień wilgotną odzież. Kobiety powinny wycierać się od przodu do tyłu, a każdy sportowiec powinien unikać perfumowanych płynów drażniących okolice intymne.
 
 Przed długim biegiem sprawdź toalety na trasie i wybierz odzież, którą można szybko rozpiąć. Jeśli pojawia się wyciek, nie zwiększaj intensywności w nadziei, że problem minie. Odpowiedni trening mięśni dna miednicy wymaga indywidualnej oceny.

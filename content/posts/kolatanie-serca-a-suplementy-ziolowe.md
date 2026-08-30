@@ -33,6 +33,8 @@ Stosuj jedną porcję przez 1-2 dni obserwacji, nie bezpośrednio po kołataniu 
 
 ## Powrót do treningu
 
+Przed kolejnym treningiem zapisz godzinę ustąpienia kołatania oraz warunki sesji, w tym sen, temperaturę i użyte suplementy, bo te dane ułatwiają ocenę ryzyka.
+
 Do czasu wyjaśnienia reakcji odłóż intensywny wysiłek, saunę i trening w upale. Lekarz może zdecydować o EKG, badaniach krwi lub dalszej diagnostyce. Trener nie powinien ustalać powrotu na podstawie samego samopoczucia.
 
 Jeśli lekarz pozwoli wrócić, zacznij od 10 minut marszu i obserwuj organizm przez kilka godzin. Nie wprowadzaj równocześnie nowego suplementu ani większej ilości kawy. Powtórzenie kołatania oznacza przerwanie sesji.

@@ -31,6 +31,8 @@ Nie stosuj kąpieli przy sączących ranach, rozległej wysypce lub podejrzeniu 
 
 ## Strój i higiena
 
+Po wyjściu z chlorowanej wody zdejmij mokry strój przed podróżą, ponieważ długie pozostawanie w wilgoci nasila tarcie i utrudnia ocenę, czy zaczerwienienie ustępuje.
+
 Wybieraj strój, który nie uciska i nie tworzy fałd na szyi, pachach oraz pachwinach. Pierz go zgodnie z metką i dokładnie wypłucz detergent. Nie zostawiaj go na noc w torbie. Gogle i czepek czyść według instrukcji producenta, aby ograniczyć drażniące osady.
 
 Jeśli podrażnienie pojawia się tylko w jednym miejscu, obejrzyj szew, gumkę lub pasek. Krótka przerwa od konkretnego akcesorium może pomóc ustalić przyczynę. Nie zmieniaj jednocześnie kosmetyku, stroju i detergentu.

@@ -13,6 +13,8 @@ Warto wiedzieć, kiedy był ostatni stolec, jaki miał wygląd i czy oddajesz ga
 
 ## Plan przed wyjazdem
 
+Przed wejściem do autokaru skorzystaj z toalety bez silnego parcia, nawet jeśli potrzeba jest jeszcze niewielka, i zostaw sobie czas na spokojne umycie rąk.
+
 Na 24-48 godzin przed podróżą jedz zwykłe, znane posiłki. Dodaj stopniowo warzywa, owsiankę lub owoce, ale nie zwiększaj nagle błonnika w wieczór przed startem. Jeśli zwykle wypróżniasz się rano, zostaw 15-20 minut spokojnego czasu po śniadaniu i nie odkładaj potrzeby z powodu pośpiechu.
 
 Spakuj butelkę z wodą, porcję znanej przekąski i chusteczki bez zapachu. W autokarze lub samolocie wstań co 60-90 minut, jeśli jest to bezpieczne, i przejdź kilka minut. Podróż nie powinna być okazją do testowania nowej odżywki, żelu ani mieszanki ziołowej.

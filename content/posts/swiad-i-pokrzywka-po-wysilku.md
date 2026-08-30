@@ -33,6 +33,8 @@ Zastosuj najwyżej raz i obserwuj skórę przez 24 godziny. Nie używaj przy zna
 
 ## Powrót do ruchu
 
+Zabierz na trening odzież zapasową, gdy mokry materiał szybko wywołuje świąd w określonych miejscach, aby móc przerwać kontakt z potem bez pocierania skóry.
+
 Po pierwszym epizodzie nie wracaj tego samego dnia do interwałów. Jeśli lekarz nie widzi przeciwwskazań, kolejny test wykonaj w chłodnych warunkach, po rozgrzewce 10 minut i bez nowego jedzenia. Trening zakończ, gdy pojawi się świąd, bąble, kaszel albo ucisk w gardle.
 
 Nie trenuj sam, jeśli wcześniej pojawiły się objawy ogólne. Poinformuj partnera, gdzie jest telefon i apteczka. Ziołowy okład nie zastępuje planu postępowania przy alergii i nie powinien opóźniać użycia zaleconego leku.

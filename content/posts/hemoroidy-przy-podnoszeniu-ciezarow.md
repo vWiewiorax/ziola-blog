@@ -13,6 +13,8 @@ Najpierw zmniejsz ciężar, unikaj serii do upadku i sprawdź, czy nie wstrzymuj
 
 ## Technika i ciśnienie
 
+Przy ćwiczeniach z dużym ciężarem ustaw stojaki tak, aby nie musieć długo napinać brzucha podczas odkładania sztangi i móc spokojnie zakończyć serię przy pogorszeniu techniki.
+
 Przy ćwiczeniu wydychaj powietrze przez najtrudniejszą fazę i nie utrzymuj maksymalnego parcia dłużej, niż wymaga tego bezpieczna technika. Instruktor może skorygować ustawienie tułowia, ale silny ból lub krwawienie nie są sygnałem do „przepchnięcia” serii.
 
 Na 1-2 tygodnie zmniejsz ciężar i objętość, a zamiast maksymalnych przysiadów wybierz spacer, lekkie ćwiczenia i pracę nad mobilnością. Nie siedź długo na toalecie i nie używaj telefonu podczas parcia.

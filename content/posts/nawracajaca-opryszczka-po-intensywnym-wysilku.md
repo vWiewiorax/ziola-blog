@@ -33,6 +33,8 @@ Stosuj jedną porcję przez 3-5 dni obserwacji. Nie przykładaj mokrych liści d
 
 ## Higiena w klubie i na zawodach
 
+Po ciężkiej sesji zmień mokrą koszulkę i nie dotykaj ust rękawiczką używaną do sprzętu, szczególnie gdy na skórze pojawiły się otarcia lub drobne pęknięcia.
+
 Zakryj zmianę czystą osłoną, jeśli lekarz lub farmaceuta zaleci taki sposób, i nie dotykaj jej podczas ćwiczeń. Używaj własnego ręcznika, kubka i sprzętu do ust. Po treningu umyj ręce wodą z mydłem przez około 20 sekund.
 
 Nie całuj innych, nie uprawiaj seksu oralnego i nie dziel pomadki od pierwszego mrowienia do zagojenia. Trener nie powinien oglądać zmiany bez zgody, ale warto poinformować organizatora, jeśli zasady zawodów wymagają ograniczenia kontaktu.
