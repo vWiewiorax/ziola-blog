@@ -26,7 +26,7 @@ Trzymaj wzrok przed sobą i pozwól, aby kolana podążały w kierunku palców. 
 W dniu zwiększania liczby serii nie zmieniaj jednocześnie butów i miejsca ćwiczeń. Jeden nowy bodziec ułatwia ocenę reakcji stawu. Po sesji zanotuj także, czy pojawiła się tkliwość przy dotyku lub schodzeniu po schodach.
 
 Skacz nisko, ląduj miękko na śródstopiu i utrzymuj kolana lekko ugięte. Ruch linki prowadź głównie nadgarstkami, a nie szerokimi kręgami barków. Jeśli pięty uderzają głośno o podłoże, zmniejsz tempo i sprawdź wysokość odbicia.
-Skacz nisko, ląduj miękko na śródstopiu i utrzymuj kolana lekko ugięte. Ruch linki prowadź głównie nadgarstkami, a nie szerokimi kręgami barków. Jeśli pięty uderzają głośno o podłoże, zmniejsz tempo i sprawdź wysokość odbicia.
+Utrzymuj stały rytm oddechu i rozluźnione barki, a między seriami przejdź się zamiast od razu dokładać skoki. Gdy technika rozpada się ze zmęczenia, zakończ sesję i sprawdź reakcję kostek następnego dnia.
 
 Zacznij od 6 powtórzeń po 20 sekund, z 40 sekundami marszu między nimi. Po dwóch sesjach bez objawów dodaj najwyżej jedną serię. Nie łącz od razu skakanki z bieganiem pod górę i treningiem plyometrycznym.
 

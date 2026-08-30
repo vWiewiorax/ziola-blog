@@ -1,7 +1,7 @@
 ---
 title: "Olejki do masażu sportowego i rozgrzewki"
 excerpt: "Jak bezpiecznie używać olejków eterycznych przed i po treningu, czym rozcieńczać je do masażu oraz kiedy zrezygnować z aplikacji."
-date: "2025-11-12"
+date: "2025-11-11"
 category: "Skóra i włosy"
 ---
 

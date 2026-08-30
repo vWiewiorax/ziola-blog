@@ -51,7 +51,7 @@ Nie łącz jej z alkoholem, lekami nasennymi, uspokajającymi ani innym preparat
 ## Posiłek i nawodnienie
 
 Po sesji wybierz zwykły posiłek z płynami i nie próbuj nadrabiać zmęczenia kolejnymi stymulantami. Jeśli apetyt jest mały, podziel jedzenie na mniejsze porcje. Utrzymujące się nudności, biegunka lub brak możliwości picia wymagają konsultacji.
-Po sesji wybierz zwykły posiłek z płynami i nie próbuj nadrabiać zmęczenia kolejnymi stymulantami. Jeśli apetyt jest mały, podziel jedzenie na mniejsze porcje. Utrzymujące się nudności, biegunka lub brak możliwości picia wymagają konsultacji.
+Po sesji zapisz godzinę zakończenia, apetyt i jakość snu, aby ocenić koszt interwałów następnego dnia. Jeśli pojawi się ból brzucha, nie dokładaj intensywności tylko dlatego, że plan przewiduje kolejną sesję.
 Po interwałach zjedz zwykły posiłek zawierający źródło energii i białka, a płyn uzupełniaj zgodnie z pragnieniem oraz warunkami. Nie zmuszaj się do nieograniczonego picia. Przy długich lub upalnych sesjach plan elektrolitów ustal z dietetykiem.
 
 Nie stosuj ziół moczopędnych przed treningiem ani pobudzających mieszanek po późnej jednostce. Jeżeli apetyt znika, nudności trwają lub pojawia się silny ból głowy, potraktuj to jako objaw do oceny, nie brak dyscypliny.

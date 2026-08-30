@@ -13,8 +13,8 @@ Przed zmianą trasy sprawdź bezpieczeństwo ruchu, widoczność i możliwość 
 
 Przed wyborem dłuższej trasy sprawdź, czy po pracy masz jeszcze energię na bezpieczny powrót. Wietrzny dzień może podwoić odczuwalny koszt jazdy bez zmiany dystansu. Zamiast ścigać czas, wybierz przełożenie pozwalające zachować płynne kręcenie.
 
-Przy kilku dojazdach w tygodniu rozdziel dni łatwe od tych z podjazdami. Nie musisz codziennie utrzymywać tej samej prędkości. Celem jest regularny ruch, a nie doprowadzenie do zmęczenia, które utrudni pracę i sen.
-Przed wyborem dłuższej trasy sprawdź, czy po pracy masz jeszcze energię na bezpieczny powrót. Wietrzny dzień może podwoić odczuwalny koszt jazdy bez zmiany dystansu. Zamiast ścigać czas, wybierz przełożenie pozwalające zachować płynne kręcenie.
+Jeśli dojazd ma być tylko ruchem, wybierz przełożenie pozwalające swobodnie mówić i utrzymać równy oddech. Gdy rośnie liczba podjazdów albo czas jazdy, potraktuj trasę jako dodatkową jednostkę i zmniejsz inne obciążenie.
+Przed wyjazdem sprawdź hamulce, oświetlenie i pogodę, a trasę dobierz tak, by nie wymuszała ryzykownych manewrów. Kondycja nie uzasadnia jazdy bez kasku, pośpiechu na skrzyżowaniach ani ignorowania zmęczenia.
 
 Jeśli możesz swobodnie rozmawiać i po dojeździe szybko wracasz do zwykłego oddechu, przejazd może być lekkim ruchem. Dłuższe podjazdy, ściganie się z czasem i powrót pod silny wiatr tworzą większy bodziec. Zapisuj czas oraz odczuwaną intensywność zamiast nazywać każdy przejazd treningiem.
 
@@ -62,7 +62,7 @@ Przy lekach moczopędnych, na ciśnienie, serce i krzepnięcie sprawdź interakc
 
 ## Plan dnia
 
-Przy kilku dojazdach w tygodniu rozdziel dni łatwe od tych z podjazdami. Nie musisz codziennie utrzymywać tej samej prędkości. Celem jest regularny ruch, a nie doprowadzenie do zmęczenia, które utrudni pracę i sen.
+Jeśli dojazd jest częścią tygodnia z treningiem, rozdziel dni łatwe od tych z podjazdami. Po ciężkiej sesji wybierz krótszą trasę i nie próbuj wyrównywać dystansu następnego dnia.
 
 Jeżeli po dojeździe masz jeszcze zaplanowany trening, zmniejsz jeden z bodźców i zostaw czas na posiłek. Unikaj rywalizacji na skrzyżowaniach oraz nadrabiania opóźnienia szybką jazdą. Bezpieczny powrót jest częścią planu.
 

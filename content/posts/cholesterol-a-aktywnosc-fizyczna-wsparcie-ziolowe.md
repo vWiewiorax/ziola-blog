@@ -33,7 +33,7 @@ Warto omówić z lekarzem ciśnienie, cukier, masę ciała, palenie i historię 
 ## Dieta i regeneracja
 
 Rozkładaj posiłki tak, aby nie trenować regularnie w stanie silnego głodu ani bezpośrednio po bardzo obfitym jedzeniu. Wybór produktów ustal z dietetykiem, gdy masz cukrzycę, chorobę nerek lub ograniczenia wynikające z leczenia. Zwykła konsekwencja jest ważniejsza niż suplement.
-Rozkładaj posiłki tak, aby nie trenować regularnie w stanie silnego głodu ani bezpośrednio po bardzo obfitym jedzeniu. Wybór produktów ustal z dietetykiem, gdy masz cukrzycę, chorobę nerek lub ograniczenia wynikające z leczenia. Zwykła konsekwencja jest ważniejsza niż suplement.
+Po cięższej jednostce wybierz posiłek, który znasz i dobrze tolerujesz, zamiast traktować trening jako powód do restrykcyjnej diety. Jeśli zmieniasz jadłospis, wprowadzaj jedną zmianę naraz i omawiaj ją z dietetykiem przy chorobach współistniejących.
 
 Wybieraj zwykłe posiłki z warzywami, źródłem błonnika, białka i tłuszczów zgodnie z poradą dietetyka. Nie stosuj głodówek przed treningiem ani „oczyszczających” kuracji. Wysiłek na pustym żołądku nie naprawia lipidogramu.
 
