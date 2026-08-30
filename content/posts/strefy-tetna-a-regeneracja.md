@@ -3,7 +3,6 @@ title: "Strefy tętna a regeneracja"
 excerpt: "Strefy tętna pomagają opisać intensywność, ale nie są samodzielną diagnozą gotowości do treningu. Poznaj ich ograniczenia i bezpieczne wsparcie odpoczynku."
 date: "2025-10-02"
 category: "Serce i krążenie"
-emoji: "❤️"
 ---
 
 Strefy tętna porządkują wysiłek według reakcji układu krążenia. Można je wyznaczać z testu, obserwacji albo urządzenia, lecz każdy sposób ma margines błędu. Zegarek nie rozpoznaje infekcji, niedoboru energii ani problemu sercowego.

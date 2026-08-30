@@ -3,7 +3,6 @@ title: "Ból piszczeli u biegaczy"
 excerpt: "Ból wzdłuż piszczeli może wynikać z przeciążenia, ale nie każdą dolegliwość można bezpiecznie rozbiegać. Poznaj plan ograniczenia obciążenia i pomocniczą pielęgnację."
 date: "2025-10-08"
 category: "Przeciwzapalne"
-emoji: "🏃"
 ---
 
 Ból piszczeli u biegacza często pojawia się po zwiększeniu kilometrażu, zmianie podłoża, butów albo liczby podbiegów. Może obejmować dłuższy odcinek kości i nasilać się po wysiłku. Punktowa tkliwość, ból w spoczynku lub nocą wymaga większej ostrożności.

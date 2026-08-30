@@ -3,7 +3,6 @@ title: "Nawracająca opryszczka po intensywnym wysiłku"
 excerpt: "Brak snu, stres, słońce i ciężki trening mogą zbiegać się z nawrotem opryszczki. Pielęgnacja skóry oraz rozsądna regeneracja są wsparciem, ale nie zastępują leczenia."
 date: "2025-08-03"
 category: "Odporność"
-emoji: "🧴"
 ---
 
 Nawracająca opryszczka po intensywnym wysiłku może pojawić się na ustach po zawodach, długim biegu, ekspozycji na słońce lub kilku nocach z krótkim snem. Sam trening nie dowodzi osłabienia odporności, a pęcherzyki mogą być mylone z otarciem, zapaleniem mieszka czy reakcją kontaktową. Rozpoznanie ma znaczenie dla bezpieczeństwa innych osób.

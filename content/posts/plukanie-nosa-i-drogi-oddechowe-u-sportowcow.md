@@ -3,7 +3,6 @@ title: "Płukanie nosa i drogi oddechowe u sportowców"
 excerpt: "Płukanie nosa solą może oczyszczać śluzówkę z wydzieliny, ale nie leczy astmy ani infekcji. Sprawdź bezpieczną wodę, proporcje i objawy wymagające konsultacji."
 date: "2025-08-22"
 category: "Odporność"
-emoji: "🌬️"
 ---
 
 Suchy wiatr, kurz, klimatyzacja i chlorowana hala mogą powodować uczucie zatkanego nosa. Płukanie izotonicznym roztworem soli może mechanicznie usunąć część wydzieliny i nawilżyć śluzówkę. Nie leczy jednak astmy wysiłkowej, zapalenia płuc ani każdej infekcji. Ziołowe dodatki nie zwiększają bezpieczeństwa zabiegu.

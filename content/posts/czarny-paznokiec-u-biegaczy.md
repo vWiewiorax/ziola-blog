@@ -3,7 +3,6 @@ title: "Czarny paznokieć u biegaczy"
 excerpt: "Ciemny paznokieć po biegu najczęściej wynika z krwiaka pod płytką, ale nie każdą zmianę można bezpiecznie obserwować w domu. Poznaj przyczyny, ochronę i sygnały konsultacji."
 date: "2025-09-14"
 category: "Skóra i włosy"
-emoji: "🦶"
 ---
 
 Czarny lub granatowy paznokieć po długim biegu zwykle wiąże się z powtarzalnym uciskiem palca o przód buta albo z urazem. Może boleć przy chodzeniu, pulsować i stopniowo odklejać się od łożyska. Nie należy przebijać go igłą w domu ani smarować silnymi olejkami, aby „wypłynęła krew”.

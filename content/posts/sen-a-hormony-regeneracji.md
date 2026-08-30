@@ -3,7 +3,6 @@ title: "Sen a hormony regeneracji"
 excerpt: "Sen wspiera regulację apetytu, nastroju i procesów naprawczych po treningu, ale nie jest prostym przełącznikiem jednego hormonu. Poznaj praktyczny plan wieczoru i bezpieczne wsparcie ziołowe."
 date: "2025-10-06"
 category: "Uspokajające"
-emoji: "🌙"
 ---
 
 Po ciężkim treningu organizm potrzebuje czasu na odbudowę, a sen jest jednym z najważniejszych elementów tego procesu. Nie da się jednak ocenić „hormonów regeneracji” po jednej nocy ani poprawić ich poziomu dowolnym suplementem. Liczą się regularność, energia w diecie, stres i obciążenie.

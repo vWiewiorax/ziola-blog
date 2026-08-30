@@ -3,7 +3,6 @@ title: "Ból głowy po wysiłku: zioła i nawodnienie"
 excerpt: "Ból głowy po treningu może mieć związek z odwodnieniem, ciepłem, napięciem lub zbyt dużą intensywnością. Sprawdź, co można zrobić bezpiecznie i kiedy potrzebna jest konsultacja."
 date: "2025-05-07"
 category: "Poradniki"
-emoji: "💧"
 ---
 
 Ból głowy po wysiłku nie zawsze oznacza, że trzeba po prostu wypić więcej wody. Może pojawić się po treningu w upale, przy nagłym wzroście intensywności, napięciu karku, niedojedzeniu, migrenie albo infekcji. Czasem jest łagodny i ustępuje po odpoczynku, ale nagły, bardzo silny ból wymaga pilnej oceny.

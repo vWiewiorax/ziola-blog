@@ -3,7 +3,6 @@ title: "Wypalenie sportowe i spadek motywacji"
 excerpt: "Spadek motywacji może być sygnałem przeciążenia, stresu lub problemu ze zdrowiem. Zioła nie zastępują odpoczynku, rozmowy i diagnostyki."
 date: "2025-07-01"
 category: "Adaptogeny"
-emoji: "🧭"
 ---
 
 Niechęć do treningu po ciężkim sezonie nie zawsze oznacza lenistwo. Wypalenie może obejmować zmęczenie, rozdrażnienie, gorszy sen, spadek wyników i utratę przyjemności. Podobne objawy powodują niedobór energii, anemia, infekcja, depresja i problemy w pracy.

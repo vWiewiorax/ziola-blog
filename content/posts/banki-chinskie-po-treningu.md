@@ -3,7 +3,6 @@ title: "Bańki chińskie po treningu"
 excerpt: "Bańki chińskie mogą powodować siniaki i podrażnienie, a ich działanie nie powinno być przedstawiane jako leczenie urazu. Poznaj zasady bezpiecznej decyzji po wysiłku."
 date: "2025-10-05"
 category: "Przeciwzapalne"
-emoji: "🟣"
 ---
 
 Bańki chińskie to narzędzie do mechanicznego podciśnienia na skórze. Po treningu bywają stosowane w masażu, lecz ślad na skórze nie oznacza rozbicia napięcia ani wyleczenia tkanki. Przy bólu, obrzęku i ograniczeniu funkcji najpierw potrzebna jest ocena przyczyny.

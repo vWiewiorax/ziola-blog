@@ -3,7 +3,6 @@ title: "Sporty zimowe i ochrona skóry przed mrozem"
 excerpt: "Narty, biegówki i łyżwy wystawiają skórę na mróz, wiatr, słońce oraz pot. Poznaj prosty plan ochrony twarzy i dłoni bez stosowania drażniących mieszanek."
 date: "2025-09-12"
 category: "Skóra i włosy"
-emoji: "❄️"
 ---
 
 Mróz nie musi powodować odmrożenia, aby uszkadzać barierę skóry. Wiatr przyspiesza utratę ciepła, pot rozmiękcza naskórek, a promieniowanie odbite od śniegu zwiększa ryzyko podrażnienia. Osoba aktywna potrzebuje planu obejmującego ubranie, ochronę mechaniczną i właściwy kosmetyk, a nie tylko tłustą warstwę na policzkach.

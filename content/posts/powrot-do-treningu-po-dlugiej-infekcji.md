@@ -3,7 +3,6 @@ title: "Powrót do treningu po długiej infekcji"
 excerpt: "Po infekcji organizm potrzebuje stopniowego powrotu i oceny objawów. Szczególnie duszność, ból w klatce i kołatanie wymagają decyzji lekarza."
 date: "2025-07-25"
 category: "Odporność"
-emoji: "🌱"
 ---
 
 Powrót do sportu po długiej infekcji nie zaczyna się od sprawdzenia tempa. Gorączka, kaszel, zaburzenia snu, spadek masy i osłabienie mogą utrzymywać się dłużej niż katar. Trening podczas niewyjaśnionej duszności lub kołatania zwiększa ryzyko.

@@ -3,7 +3,6 @@ title: "Sen w nocy przed zawodami"
 excerpt: "Jedna gorsza noc przed startem nie przekreśla przygotowań, ale presja i eksperymenty z suplementami mogą pogorszyć sprawę. Poznaj spokojny plan wieczoru i bezpieczne granice naparów."
 date: "2025-08-07"
 category: "Uspokajające"
-emoji: "🌙"
 ---
 
 Sen w nocy przed zawodami często jest płytszy przez emocje, zmianę łóżka, podróż i sprawdzanie godziny. Sportowiec może obudzić się kilka razy, a mimo to następnego dnia funkcjonować wystarczająco dobrze. Problemem bywa nie sama jedna noc, lecz narastająca presja i sięganie po nieznany preparat uspokajający.

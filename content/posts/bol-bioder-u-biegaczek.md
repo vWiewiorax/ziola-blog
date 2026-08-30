@@ -3,7 +3,6 @@ title: "Ból bioder u biegaczek"
 excerpt: "Ból biodra podczas biegu może wiązać się z techniką, przeciążeniem, urazem lub zmianami energii i cyklu. Poznaj bezpieczne pytania oraz pomocniczą pielęgnację."
 date: "2025-10-09"
 category: "Przeciwzapalne"
-emoji: "🏃‍♀️"
 ---
 
 Biodro biegaczki pracuje pod obciążeniem podczas podporu, podbiegów i zmian tempa. Ból z boku, z przodu pachwiny lub w pośladku ma różne przyczyny i nie powinien być sprowadzany do „słabego rozciągnięcia”. Znaczenie mogą mieć także sen, energia w diecie, cykl i poprzednie urazy.

@@ -3,7 +3,6 @@ title: "Brak apetytu po ciężkim treningu"
 excerpt: "Niechęć do jedzenia po wysiłku może wynikać z wysokiej intensywności, temperatury lub problemów żołądkowych. Sprawdź, jak wrócić do małych porcji i ostrożnie wykorzystać napary."
 date: "2025-05-08"
 category: "Trawienie"
-emoji: "🍲"
 ---
 
 Brak apetytu po ciężkim treningu jest częsty po interwałach, długim biegu, zawodach i ćwiczeniach w upale. Krew przez pewien czas inaczej przepływa przez przewód pokarmowy, a wysiłek może opóźniać opróżnianie żołądka. Nie oznacza to jednak, że można przez cały dzień ignorować jedzenie i płyny.

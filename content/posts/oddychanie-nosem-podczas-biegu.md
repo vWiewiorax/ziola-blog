@@ -3,7 +3,6 @@ title: "Oddychanie nosem podczas biegu"
 excerpt: "Oddychanie przez nos może pasować do spokojnego biegu, ale nie jest uniwersalnym testem techniki ani odporności. Sprawdź, jak stopniowo ćwiczyć oddech i kiedy zrezygnować."
 date: "2025-09-30"
 category: "Odporność"
-emoji: "👃"
 ---
 
 Oddychanie nosem ogrzewa, nawilża i filtruje część wdychanego powietrza, lecz zapotrzebowanie na tlen rośnie wraz z tempem. Przy interwałach lub podbiegu naturalne przejście na oddech mieszany nie oznacza błędu. Celem nie jest zaciskanie ust za wszelką cenę.

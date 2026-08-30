@@ -3,7 +3,6 @@ title: "Napięcie szczęki i zgrzytanie zębami u sportowców"
 excerpt: "Zaciskanie zębów podczas wysiłku, stresu startowego lub snu może przeciążać żuchwę i mięśnie twarzy. Poznaj sposoby ograniczenia napięcia oraz ostrożne wsparcie ziołowe."
 date: "2025-09-08"
 category: "Uspokajające"
-emoji: "🦷"
 ---
 
 Wielu sportowców zaciska zęby przy ciężkim powtórzeniu, koncentracji albo oczekiwaniu na start. Jeśli napięcie pozostaje po treningu, mogą pojawić się ból skroni, wrażliwość zębów, trzaski i ograniczenie otwierania ust. Zioła mogą wspierać rytuał wyciszenia, ale nie korygują zgryzu ani uszkodzeń.

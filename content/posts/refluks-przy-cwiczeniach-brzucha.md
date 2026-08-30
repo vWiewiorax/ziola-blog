@@ -3,7 +3,6 @@ title: "Refluks przy ćwiczeniach brzucha"
 excerpt: "Pieczenie za mostkiem podczas brzuszków i podporów może zależeć od posiłku, oddechu oraz ciśnienia w jamie brzusznej. Zioła bywają dodatkiem do planu, ale nie zastępują rozpoznania przyczyn."
 date: "2025-07-26"
 category: "Trawienie"
-emoji: "🤸"
 ---
 
 Refluks przy ćwiczeniach brzucha może pojawić się podczas spięć, planków, unoszenia nóg i intensywnych interwałów. Zgięcie tułowia oraz wstrzymywanie oddechu zwiększają ciśnienie w jamie brzusznej, a trening krótko po posiłku ułatwia cofanie się treści żołądkowej. Pieczenie nie jest jednak jedynym możliwym objawem.

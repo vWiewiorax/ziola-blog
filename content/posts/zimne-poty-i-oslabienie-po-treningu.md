@@ -3,7 +3,6 @@ title: "Zimne poty i osłabienie po treningu"
 excerpt: "Zimne poty, drżenie i osłabienie po wysiłku mogą oznaczać zbyt małą podaż energii, przegrzanie, odwodnienie albo problem sercowy. Zioła nie zastępują pierwszej pomocy ani diagnostyki."
 date: "2025-08-04"
 category: "Poradniki"
-emoji: "⚠️"
 ---
 
 Zimne poty i osłabienie po treningu nie są zwykłym dowodem skutecznej sesji. Mogą pojawić się po nagłym zatrzymaniu, niedostatecznym jedzeniu, odwodnieniu, przegrzaniu, spadku glukozy lub zaburzeniu rytmu serca. U osoby przyjmującej leki przyczyna może być jeszcze inna, dlatego nie próbuj jej zgadywać naparem.

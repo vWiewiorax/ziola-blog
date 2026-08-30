@@ -3,7 +3,6 @@ title: "Wieczorny rytuał regeneracyjny: rozciąganie i napar"
 excerpt: "Wieczorna rutyna może ułatwić wyciszenie po treningu, jeśli nie zamienia się w kolejny obowiązek. Połącz łagodny ruch z bezpiecznym naparem i higieną snu."
 date: "2025-05-23"
 category: "Uspokajające"
-emoji: "🌙"
 ---
 
 Po wieczornym treningu ciało może być zmęczone, a układ nerwowy nadal pobudzony. Głośna muzyka, światło telefonu i szybkie przejście do obowiązków utrudniają zauważenie sygnałów senności. Prosty rytuał może pomóc wyhamować, ale nie powinien obiecywać leczenia bezsenności.

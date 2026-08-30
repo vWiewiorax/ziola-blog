@@ -3,7 +3,6 @@ title: "Powrót do formy po kontuzji: wsparcie ziołowe"
 excerpt: "Regeneracja po urazie wymaga rozpoznania, rehabilitacji i stopniowego obciążenia. Zioła mogą być dodatkiem do codziennej pielęgnacji, ale nie skracają automatycznie powrotu."
 date: "2025-06-04"
 category: "Przeciwzapalne"
-emoji: "🌱"
 ---
 
 Powrót do sportu po kontuzji nie powinien zależeć od tego, czy ból udało się na kilka godzin przykryć maścią albo naparem. Najpierw trzeba wiedzieć, co zostało uszkodzone i jakie obciążenie jest dozwolone. Dotyczy to zarówno skręcenia stawu, przeciążenia ścięgna, jak i urazu mięśniowego.

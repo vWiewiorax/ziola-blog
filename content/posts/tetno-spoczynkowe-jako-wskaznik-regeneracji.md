@@ -3,7 +3,6 @@ title: "Tętno spoczynkowe jako wskaźnik regeneracji"
 excerpt: "Tętno spoczynkowe może pomagać obserwować reakcję na trening, ale nie jest samodzielną diagnozą. Sprawdź, jak je mierzyć i kiedy zwolnić."
 date: "2025-05-22"
 category: "Serce i krążenie"
-emoji: "❤️"
 ---
 
 Tętno spoczynkowe bywa używane do obserwowania zmęczenia, stresu, odwodnienia i początku infekcji. Pojedynczy wyższy wynik nie oznacza przetrenowania, a pojedynczy prawidłowy wynik nie wyklucza problemu. Znaczenie ma trend mierzony w podobnych warunkach.

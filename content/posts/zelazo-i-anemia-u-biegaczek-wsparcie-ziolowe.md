@@ -3,7 +3,6 @@ title: "Żelazo i anemia u biegaczek: wsparcie ziołowe"
 excerpt: "Zmęczenie i zadyszka nie są wskazaniem do przypadkowego suplementu. Sprawdź, jak rozpoznać niedobór żelaza i gdzie jest miejsce ziół."
 date: "2025-07-30"
 category: "Kobieta"
-emoji: "🩸"
 ---
 
 U biegaczek zmęczenie, spadek tempa i zadyszka mogą mieć wiele przyczyn. Duża objętość treningu, niedostateczna energia, obfite miesiączki, infekcja i stres wpływają na samopoczucie podobnie jak niedobór żelaza. Sam wygląd języka, paznokci albo kolor skóry nie wystarcza do rozpoznania anemii.

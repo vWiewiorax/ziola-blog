@@ -3,7 +3,6 @@ title: "Kiszonki i probiotyki w diecie sportowca"
 excerpt: "Kiszonki mogą urozmaicić dietę osoby aktywnej, lecz nie każda fermentowana żywność jest dobrze tolerowana przed wysiłkiem. Poznaj praktyczne zasady wyboru."
 date: "2025-08-12"
 category: "Trawienie"
-emoji: "🥬"
 ---
 
 Kiszone warzywa i produkty z żywymi kulturami bakterii bywają ciekawym dodatkiem do jadłospisu sportowca. Dostarczają smaku, płynu, kwasów organicznych i czasem bakterii fermentacji. Nie są jednak gwarancją lepszej odporności, szybszej regeneracji ani spokojnego brzucha. Reakcja zależy od porcji, składu, pory oraz indywidualnej tolerancji.

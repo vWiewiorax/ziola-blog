@@ -3,7 +3,6 @@ title: "Kwas mlekowy: mity i fakty o regeneracji"
 excerpt: "Kwas mlekowy nie jest prostym wyjaśnieniem zakwasów ani bólu po treningu. Sprawdź, co dzieje się w mięśniach i gdzie zioła mogą być tylko dodatkiem."
 date: "2025-06-12"
 category: "Poradniki"
-emoji: "💪"
 ---
 
 Po intensywnym treningu wiele osób mówi o „zakwasach”, winą obarczając kwas mlekowy. To skrót myślowy, który miesza kilka różnych zjawisk. Wysiłek o wysokiej intensywności wiąże się z powstawaniem mleczanu, ale jego poziom zmienia się szybko po zakończeniu ćwiczeń i nie jest prostą przyczyną bólu odczuwanego następnego dnia.

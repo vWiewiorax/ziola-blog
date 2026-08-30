@@ -3,7 +3,6 @@ title: "Zmęczenie oczu u e-sportowców"
 excerpt: "Długie sesje przed ekranem obciążają wzrok, szyję i sen. Poznaj higienę pracy, prostą pielęgnację ziołową oraz objawy wymagające badania okulistycznego."
 date: "2025-08-24"
 category: "Poradniki"
-emoji: "👁️"
 ---
 
 Zmęczenie oczu u e-sportowca może oznaczać suchość, rzadsze mruganie, zbyt jasny ekran, wadę wzroku albo przeciążenie całego organizmu. Pieczenie po kilku godzinach nie jest dowodem trwałego uszkodzenia, ale nawracający ból, zamazane widzenie i światłowstręt wymagają oceny. Ziołowe okłady nie naprawiają wady refrakcji.

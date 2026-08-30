@@ -3,7 +3,6 @@ title: "Nudności podczas długiego biegu: imbir i alternatywy"
 excerpt: "Nudności na trasie mogą wynikać z tempa, upału, płynów albo żywienia. Sprawdź, jak reagować na objaw i ostrożnie przetestować imbir."
 date: "2025-05-16"
 category: "Trawienie"
-emoji: "🏃"
 ---
 
 Nudności podczas długiego biegu nie są sygnałem, że trzeba po prostu mocniej zacisnąć zęby. Mogą pojawić się po zbyt szybkim początku, wypiciu dużej ilości płynu, żelu niedopasowanym do tempa albo treningu w upale. Czasem są też wczesnym objawem przegrzania lub innego problemu.

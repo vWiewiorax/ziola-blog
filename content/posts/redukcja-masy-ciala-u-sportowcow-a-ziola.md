@@ -3,7 +3,6 @@ title: "Redukcja masy ciała u sportowców a zioła"
 excerpt: "Redukcja masy ciała wymaga planu, nie spalacza ziołowego. Sprawdź, jak oddzielić bezpieczne dodatki żywieniowe od obietnic szybkiego spalania tłuszczu."
 date: "2025-06-09"
 category: "Poradniki"
-emoji: "⚖️"
 ---
 
 Redukcja masy ciała u osoby trenującej powinna chronić zdrowie, jakość treningu i regenerację. Zioła bywają reklamowane jako spalacze tłuszczu, środki zmniejszające apetyt albo zamienniki posiłku. Takie określenia często ukrywają kofeinę, środki przeczyszczające lub wieloskładnikowe mieszanki o niepewnej dawce.

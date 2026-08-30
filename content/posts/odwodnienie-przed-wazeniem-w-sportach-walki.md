@@ -3,7 +3,6 @@ title: "Odwodnienie przed ważeniem w sportach walki"
 excerpt: "Agresywne zbijanie masy przed ważeniem może prowadzić do zaburzeń elektrolitowych, omdlenia i zagrożenia życia. Zobacz, dlaczego zioła nie są bezpiecznym sposobem na odwodnienie."
 date: "2025-09-15"
 category: "Poradniki"
-emoji: "🥊"
 ---
 
 Odwodnienie przed ważeniem nie jest neutralnym etapem przygotowania do startu. Agresywne odwadnianie przed ważeniem zwiększa ryzyko, zamiast bezpiecznie poprawiać gotowość sportową. Utrata płynu zmniejsza objętość krwi, pogarsza termoregulację i może zaburzać pracę serca oraz mózgu. Zawodnik może chwilowo zobaczyć niższą liczbę na wadze, ale ryzyko medyczne rośnie szybciej niż sportowa korzyść.

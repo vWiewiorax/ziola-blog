@@ -3,7 +3,6 @@ title: "Bieganie zimą: drogi oddechowe i zioła"
 excerpt: "Mróz, suche powietrze i intensywne tempo mogą drażnić gardło oraz oskrzela. Sprawdź, jak przygotować trening i bezpiecznie używać naparów."
 date: "2025-08-27"
 category: "Odporność"
-emoji: "❄️"
 ---
 
 Zimowe bieganie samo w sobie nie powoduje infekcji. Zwiększa jednak kontakt z zimnym i suchym powietrzem, które może wywołać kaszel, pieczenie gardła albo uczucie zwężenia dróg oddechowych. Ryzyko rośnie, gdy trening zaczyna się od szybkich interwałów, a zawodnik oddycha wyłącznie ustami.

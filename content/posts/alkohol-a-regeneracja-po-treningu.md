@@ -3,7 +3,6 @@ title: "Alkohol a regeneracja po treningu"
 excerpt: "Alkohol może pogarszać sen, nawodnienie i odbudowę po wysiłku. Ziołowy napar nie neutralizuje jego działania ani nie przyspiesza trzeźwienia."
 date: "2025-06-24"
 category: "Oczyszczające"
-emoji: "🚫"
 ---
 
 Po ciężkim treningu alkohol bywa traktowany jako sposób na rozluźnienie. W praktyce może pogorszyć sen, zwiększyć utratę płynów, zmienić apetyt i utrudnić ocenę bólu lub urazu. Ziołowy „detoks” nie przyspiesza spalania alkoholu i nie chroni wątroby przed każdym skutkiem picia.

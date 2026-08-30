@@ -3,7 +3,6 @@ title: "Nadciśnienie a trening: ostrożność z ziołami"
 excerpt: "Aktywność może wspierać zdrowie serca, ale nadciśnienie wymaga pomiarów i planu. Sprawdź, które ziołowe dodatki mogą kolidować z terapią."
 date: "2025-06-08"
 category: "Serce i krążenie"
-emoji: "❤️"
 ---
 
 Nadciśnienie nie wyklucza aktywności fizycznej, ale sposób treningu powinien zależeć od wartości ciśnienia, objawów i chorób towarzyszących. Największym błędem jest rozpoczynanie intensywnych ćwiczeń oraz kilku ziołowych suplementów jednocześnie, bez wiedzy, co dzieje się z pulsem i ciśnieniem.

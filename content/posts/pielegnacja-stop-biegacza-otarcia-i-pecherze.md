@@ -3,7 +3,6 @@ title: "Pielęgnacja stóp biegacza: otarcia i pęcherze"
 excerpt: "Prosty plan zapobiegania otarciom i pęcherzom podczas biegania. Higiena, kąpiel ziołowa, opatrunek, dobór skarpet oraz sygnały zakażenia."
 date: "2025-10-01"
 category: "Skóra i włosy"
-emoji: "🦶"
 ---
 
 Pęcherz powstaje, gdy skóra jest wielokrotnie pocierana, wilgotna i wystawiona na nacisk. Nowe buty, długi marsz, mokre skarpety oraz źle przycięty paznokieć zwiększają ryzyko. Najlepsze leczenie zaczyna się przed treningiem, od dopasowania obuwia i kontroli wilgoci.

@@ -3,7 +3,6 @@ title: "Drzemka po treningu: jak ją zaplanować"
 excerpt: "Krótka drzemka może uzupełnić regenerację, ale nie zastępuje nocnego snu. Sprawdź porę, długość i zasady bezpiecznego wyciszenia po wysiłku."
 date: "2025-07-20"
 category: "Uspokajające"
-emoji: "😴"
 ---
 
 Drzemka po treningu bywa pomocna po wczesnym wstawaniu, pracy zmianowej albo długiej sesji. Nie powinna jednak maskować chronicznego niewyspania ani przesuwać snu nocnego. Najważniejsze są pora, długość i to, czy po przebudzeniu możesz normalnie funkcjonować.

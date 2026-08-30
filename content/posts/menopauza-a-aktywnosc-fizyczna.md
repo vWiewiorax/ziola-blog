@@ -3,7 +3,6 @@ title: "Menopauza a aktywność fizyczna"
 excerpt: "Ruch w okresie menopauzy może wspierać kości, serce i nastrój. Sprawdź, jak dopasować trening i ostrożnie podejść do ziół."
 date: "2025-06-16"
 category: "Kobieta"
-emoji: "🌸"
 ---
 
 Menopauza nie oznacza końca sportu, ale zmienia sposób, w jaki trzeba planować trening i regenerację. Uderzenia gorąca, gorszy sen, wahania nastroju, suchość tkanek i zmiana rozkładu masy ciała mogą wpływać na komfort wysiłku. Dobrze dobrany ruch pomaga utrzymać siłę, równowagę i kondycję, ale nie powinien być karą za zmianę sylwetki.

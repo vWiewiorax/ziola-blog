@@ -3,7 +3,6 @@ title: "Opuchnięte palce podczas długiego marszu"
 excerpt: "Puchnięcie palców na wielogodzinnej trasie często wiąże się z pracą rąk, ciepłem i pozycją kończyn. Poznaj bezpieczne sposoby obserwacji oraz sytuacje, w których obrzęk wymaga pilnej pomocy."
 date: "2025-07-07"
 category: "Serce i krążenie"
-emoji: "🥾"
 ---
 
 Opuchnięte palce podczas długiego marszu mogą przeszkadzać w zapinaniu plecaka, trzymaniu kijków i zdejmowaniu pierścionka. Niewielki, obustronny obrzęk narastający w ciepły dzień bywa związany z opuszczonymi rękami, zaciskiem paska albo małą liczbą przerw. Nie wolno jednak zakładać, że każdy obrzęk jest zwykłą reakcją na wysiłek.

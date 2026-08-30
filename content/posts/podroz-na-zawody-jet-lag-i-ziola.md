@@ -3,7 +3,6 @@ title: "Podróż na zawody: jet lag i zioła"
 excerpt: "Zmiana strefy czasowej może zaburzyć sen, apetyt i nawodnienie przed startem. Sprawdź, jak zaplanować podróż i ostrożnie traktować napary."
 date: "2025-05-24"
 category: "Uspokajające"
-emoji: "✈️"
 ---
 
 Podróż na zawody obciąża organizm jeszcze przed pierwszym kilometrem. Długi lot, siedzenie, suche powietrze, zmiana strefy czasowej i stres logistyczny mogą pogorszyć sen oraz trawienie. Zioła nie przestawiają zegara biologicznego na życzenie i nie powinny służyć do wymuszania snu.

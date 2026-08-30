@@ -3,7 +3,6 @@ title: "Trening siły u osób starszych i regeneracja"
 excerpt: "Trening siły może wspierać samodzielność w starszym wieku, lecz wymaga dopasowania obciążenia, równowagi i odpoczynku. Zobacz, gdzie zioła mogą być tylko dodatkiem."
 date: "2025-09-02"
 category: "Poradniki"
-emoji: "🏋️"
 ---
 
 Wiek nie jest samodzielnym przeciwwskazaniem do ćwiczeń siłowych, ale plan osoby starszej powinien uwzględniać choroby, leki, równowagę, wzrok i wcześniejszą aktywność. Celem może być łatwiejsze wstawanie, noszenie zakupów albo utrzymanie niezależności, a nie rekord. Regeneracja jest częścią programu.

@@ -3,7 +3,6 @@ title: "Cykl miesiączkowy a trening: wsparcie ziołowe"
 excerpt: "Objawy w cyklu mogą wpływać na samopoczucie i tolerancję treningu, ale nie ma jednego planu dla wszystkich. Sprawdź, jak prowadzić obserwacje i bezpiecznie traktować zioła."
 date: "2025-05-09"
 category: "Kobieta"
-emoji: "🌸"
 ---
 
 Cykl miesiączkowy może zmieniać odczuwanie wysiłku, temperaturę ciała, sen, apetyt i komfort przewodu pokarmowego. Nie oznacza to, że każda osoba powinna trenować według sztywnego kalendarza. Ważniejsze są objawy, regularność krwawień, obciążenie oraz indywidualna reakcja.

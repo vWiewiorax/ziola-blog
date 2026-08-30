@@ -3,7 +3,6 @@ title: "Powrót do ruchu po 50. roku życia"
 excerpt: "Powrót do aktywności po pięćdziesiątce powinien być stopniowy i oparty na stanie zdrowia. Zioła mogą wspierać komfort, lecz nie zastępują diagnostyki."
 date: "2025-06-14"
 category: "Poradniki"
-emoji: "🚶"
 ---
 
 Po pięćdziesiątym roku życia można bezpiecznie wrócić do ruchu, ale plan powinien uwzględniać choroby, leki, sprawność i dotychczasową przerwę. Największe ryzyko wynika nie z wieku samego w sobie, lecz z gwałtownego skoku obciążenia i ignorowania objawów.

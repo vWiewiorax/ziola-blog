@@ -3,7 +3,6 @@ title: "Kołatanie serca a suplementy ziołowe"
 excerpt: "Kołatanie po przedtreningówce, ekstrakcie lub dużej ilości kofeiny wymaga przerwania wysiłku i analizy składu. Zioła nie zastępują EKG, badań ani leczenia zaburzeń rytmu."
 date: "2025-08-05"
 category: "Serce i krążenie"
-emoji: "❤️"
 ---
 
 Kołatanie serca po suplemencie ziołowym może oznaczać odczuwanie zwykłego przyspieszenia po wysiłku, ale także działanie kofeiny, odwodnienie, zaburzenie elektrolitowe lub arytmię. Mieszanki przedtreningowe bywają wieloskładnikowe, a nazwa „naturalny” nie mówi, jak produkt zachowa się z lekiem lub chorobą serca.

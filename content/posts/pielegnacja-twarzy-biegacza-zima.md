@@ -3,7 +3,6 @@ title: "Pielęgnacja twarzy biegacza zimą"
 excerpt: "Mróz, wiatr, pot i częste mycie osłabiają barierę skóry. Poznaj prosty plan ochrony twarzy przed i po zimowym treningu."
 date: "2025-06-21"
 category: "Skóra i włosy"
-emoji: "❄️"
 ---
 
 Zimowy bieg obciąża nie tylko drogi oddechowe, lecz także skórę twarzy. Mróz i wiatr zwiększają utratę wody, a pot, ocieranie ręcznikiem i częste mycie mogą powodować pieczenie oraz łuszczenie. Mokra skóra marznie szybciej, szczególnie wokół nosa i ust.

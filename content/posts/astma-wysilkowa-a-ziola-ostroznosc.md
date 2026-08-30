@@ -3,7 +3,6 @@ title: "Astma wysiłkowa a zioła: ostrożność"
 excerpt: "Kaszel i świszczący oddech po wysiłku wymagają rozpoznania, nie domowej inhalacji. Zioła nie zastępują leków wziewnych ani planu leczenia astmy."
 date: "2025-06-26"
 category: "Odporność"
-emoji: "🫁"
 ---
 
 Kaszel, ścisk w klatce, świszczący oddech i duszność podczas biegu mogą wskazywać na skurcz oskrzeli wywołany wysiłkiem, ale także na infekcję, alergię, złą technikę oddychania lub chorobę serca. Samodzielne picie ziół nie rozstrzyga przyczyny.

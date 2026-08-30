@@ -3,7 +3,6 @@ title: "Przewlekły ból a aktywność fizyczna"
 excerpt: "Przewlekły ból nie powinien być zagłuszany suplementem ani traktowany jako test charakteru. Sprawdź, jak bezpiecznie planować ruch i gdzie kończy się domowe wsparcie."
 date: "2025-09-20"
 category: "Przeciwzapalne"
-emoji: "🧩"
 ---
 
 Przewlekły ból może zmieniać sposób chodzenia, sen, nastrój i gotowość do treningu. Nie zawsze oznacza nowe uszkodzenie, ale jego utrzymywanie się wymaga rozpoznania. Osoba aktywna nie powinna wybierać zioła tylko po to, aby zwiększyć obciążenie mimo sygnałów ostrzegawczych.

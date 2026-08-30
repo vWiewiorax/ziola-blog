@@ -3,7 +3,6 @@ title: "Domowe izotoniki ziołowe"
 excerpt: "Jak przygotować napój na dłuższy trening bez przesady z cukrem i ziołami. Proporcje, sól, temperatura, przechowywanie i zasady bezpieczeństwa."
 date: "2025-06-11"
 category: "Poradniki"
-emoji: "🥤"
 ---
 
 Podczas krótkiego treningu w umiarkowanej temperaturze zwykle wystarczy woda i normalne posiłki. Napój z węglowodanami oraz sodem ma większy sens, gdy wysiłek trwa ponad godzinę, odbywa się w upale albo powoduje obfite pocenie. Domowy izotonik nie musi zawierać wielu ziół. Jego podstawą są woda, niewielka ilość cukru i elektrolit, a dodatek roślinny ma poprawić smak albo komfort trawienia.

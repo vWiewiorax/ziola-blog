@@ -3,7 +3,6 @@ title: "Żylaki u osób długo stojących i trenujących"
 excerpt: "Długie stanie, trening siłowy i predyspozycje rodzinne mogą nasilać uczucie ciężkości nóg, ale żylaki wymagają osobnej oceny. Poznaj bezpieczne nawyki i ograniczenia ziół."
 date: "2025-09-07"
 category: "Serce i krążenie"
-emoji: "🦵"
 ---
 
 Żylaki są widocznymi, poszerzonymi żyłami, a uczucie ciężkich nóg może występować także bez zmian widocznych na skórze. Długie stanie w pracy, podróże, siedzenie i część treningów wpływają na objawy, lecz nie każdy obrzęk jest problemem żylnym. Napar nie usuwa niewydolności zastawek.

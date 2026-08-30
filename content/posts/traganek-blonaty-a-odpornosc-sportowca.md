@@ -3,7 +3,6 @@ title: "Traganek błoniasty a odporność sportowca"
 excerpt: "Traganek jest tradycyjnym surowcem stosowanym w preparatach odpornościowych, ale nie zastępuje szczepień, snu ani leczenia infekcji. Poznaj bezpieczne zasady."
 date: "2025-06-01"
 category: "Odporność"
-emoji: "🛡️"
 ---
 
 Traganek błoniasty jest rośliną tradycyjnie stosowaną w chińskich mieszankach ziołowych. Osoby trenujące interesują się nim głównie w okresach dużego obciążenia, podróży i częstych infekcji. Nie należy jednak przedstawiać go jako tarczy, która gwarantuje zdrowie przez cały sezon.

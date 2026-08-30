@@ -3,7 +3,6 @@ title: "Zimne stopy i dłonie: krążenie obwodowe"
 excerpt: "Zimne kończyny po treningu mogą wynikać z temperatury, stresu lub problemu z krążeniem. Sprawdź bezpieczne ogrzewanie i sygnały alarmowe."
 date: "2025-07-08"
 category: "Serce i krążenie"
-emoji: "🧤"
 ---
 
 Zimne dłonie i stopy są częste podczas chłodu, po długim siedzeniu oraz przy stresie. Po treningu mogą też sygnalizować odwodnienie, niską dostępność energii, anemię, chorobę tarczycy albo zaburzenia krążenia. Nie zakładaj, że poprawi je zioło rozgrzewające.

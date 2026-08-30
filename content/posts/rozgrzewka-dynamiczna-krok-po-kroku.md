@@ -3,7 +3,6 @@ title: "Rozgrzewka dynamiczna krok po kroku"
 excerpt: "Dobra rozgrzewka podnosi gotowość do wysiłku bez zamieniania się w drugi trening. Poznaj kolejność ćwiczeń, czas trwania i ostrożne ziołowe uzupełnienie rutyny."
 date: "2025-09-28"
 category: "Poradniki"
-emoji: "🔥"
 ---
 
 Rozgrzewka dynamiczna ma przygotować układ krążenia, stawy, mięśnie i uwagę do konkretnego zadania. Nie powinna powodować wyczerpania ani ostrego bólu. Jej długość zmienia się wraz z temperaturą, porą dnia, dyscypliną i intensywnością głównej części.

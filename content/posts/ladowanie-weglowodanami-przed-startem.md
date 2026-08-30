@@ -3,7 +3,6 @@ title: "Ładowanie węglowodanami przed startem"
 excerpt: "Ładowanie węglowodanami może wspierać długi wysiłek, ale nie polega na jedzeniu bez ograniczeń w ostatni wieczór. Poznaj plan, tolerancję jelit i ziołowy napój bez obietnic."
 date: "2025-10-17"
 category: "Poradniki"
-emoji: "🍚"
 ---
 
 Ładowanie węglowodanami ma sens głównie przed długim wysiłkiem, gdy organizm będzie korzystał z zapasów glikogenu. Nie jest konieczne przed każdą sesją ani sposobem na gwałtowne zwiększenie formy. Plan powinien uwzględniać dyscyplinę, czas startu, masę ciała i tolerancję przewodu pokarmowego.

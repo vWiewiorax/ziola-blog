@@ -3,7 +3,6 @@ title: "Ból nadgarstka przy podporach i planku"
 excerpt: "Ból nadgarstka podczas podporu nie powinien być zagłuszany, aby dokończyć serię. Sprawdź, jak zmienić ustawienie dłoni, ograniczyć nacisk i potraktować zioła wyłącznie jako pomocniczy element pielęgnacji."
 date: "2025-08-25"
 category: "Przeciwzapalne"
-emoji: "🤲"
 ---
 
 Ból nadgarstka przy planku, pompkach albo podporze na czworakach może wynikać z dużego wyprostu, nagłego zwiększenia liczby serii lub techniki niedopasowanej do możliwości. Nie każda dolegliwość oznacza uraz, ale ostry ból, obrzęk i utrata siły wymagają przerwania ćwiczenia. Zioło nie pozwala bezpiecznie trenować przez ból.

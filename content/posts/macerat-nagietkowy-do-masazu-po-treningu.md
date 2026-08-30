@@ -3,7 +3,6 @@ title: "Macerat nagietkowy do masażu po treningu"
 excerpt: "Jak przygotować olejowy macerat z nagietka, sprawdzić jego jakość i używać go na nieuszkodzonej skórze bez mylenia pielęgnacji z leczeniem."
 date: "2025-09-10"
 category: "Skóra i włosy"
-emoji: "🌼"
 ---
 
 Macerat nagietkowy to olej, w którym przez pewien czas przebywa wysuszony surowiec roślinny. Może służyć do pielęgnacji suchej skóry i delikatnego masażu po wysiłku. Nie jest tym samym co olejek eteryczny i nie powinien być reklamowany jako preparat naprawiający mięśnie, ścięgna albo stawy.

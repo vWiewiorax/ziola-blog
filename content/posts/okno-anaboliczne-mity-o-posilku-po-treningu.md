@@ -3,7 +3,6 @@ title: "Okno anaboliczne: mity o posiłku po treningu"
 excerpt: "Nie musisz wypić odżywki w ciągu kilku minut, aby nie stracić efektu treningu. Poznaj rolę całodziennego jedzenia, odpoczynku i ziołowego dodatku bez obietnic anabolicznych."
 date: "2025-10-14"
 category: "Poradniki"
-emoji: "⏱️"
 ---
 
 „Okno anaboliczne” bywa przedstawiane jako bardzo krótki czas, w którym trzeba natychmiast zjeść lub wypić odżywkę. W praktyce liczy się całodzienna podaż energii, białka, węglowodanów, sen i rozsądny plan obciążenia. Opóźnienie posiłku o kilkadziesiąt minut nie kasuje treningu.

@@ -3,7 +3,6 @@ title: "Bieganie na czczo a trawienie"
 excerpt: "Bieg bez śniadania nie jest obowiązkowym sposobem na poprawę formy. Sprawdź, jak obserwować reakcję przewodu pokarmowego i ostrożnie wykorzystać łagodne ziołowe wsparcie."
 date: "2025-07-10"
 category: "Trawienie"
-emoji: "🏃"
 ---
 
 Bieganie na czczo bywa wybierane z powodów organizacyjnych, na przykład gdy trening odbywa się wcześnie albo po poprzednim posiłku występuje dyskomfort. Nie ma jednak jednej zasady dobrej dla każdego. Liczą się długość sesji, intensywność, sen, nawodnienie, leki i tolerancja przewodu pokarmowego.

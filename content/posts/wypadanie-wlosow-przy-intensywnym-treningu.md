@@ -3,7 +3,6 @@ title: "Wypadanie włosów przy intensywnym treningu"
 excerpt: "Wypadanie włosów może wiązać się z niedoborem energii, żelaza, stresem lub chorobą. Zioła nie zastępują diagnostyki skóry głowy i badań."
 date: "2025-06-23"
 category: "Skóra i włosy"
-emoji: "💇"
 ---
 
 Kilka włosów na szczotce jest zjawiskiem normalnym, ale wyraźne przerzedzenie po okresie ciężkich treningów wymaga uwagi. Przyczyną może być niedobór energii, żelaza, białka, choroba tarczycy, infekcja, stres, gorączka lub uwarunkowania genetyczne. Sam intensywny wysiłek nie oznacza automatycznie, że trzeba sięgnąć po zioła.

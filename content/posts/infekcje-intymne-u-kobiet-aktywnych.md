@@ -3,7 +3,6 @@ title: "Infekcje intymne u kobiet aktywnych"
 excerpt: "Pot, wilgotna odzież i długie treningi mogą sprzyjać podrażnieniom, ale nie każda zmiana oznacza infekcję. Ziołowa higiena może wspierać komfort, lecz leczenie wymaga rozpoznania."
 date: "2025-07-31"
 category: "Kobieta"
-emoji: "🌸"
 ---
 
 Infekcje intymne u kobiet aktywnych bywają mylone z otarciem, reakcją na detergent albo zmianą pH po intensywnym wysiłku. Świąd, pieczenie, nietypowa wydzielina i ból przy oddawaniu moczu mogą mieć różne przyczyny, dlatego sam napar nie pozwala odróżnić grzybicy od zakażenia bakteryjnego czy choroby przenoszonej drogą płciową.

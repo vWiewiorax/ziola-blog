@@ -3,7 +3,6 @@ title: "Poranna sztywność stawów u trenujących"
 excerpt: "Sztywność po przebudzeniu może wynikać z obciążenia, snu lub choroby zapalnej. Sprawdź łagodny poranny ruch i sygnały do konsultacji."
 date: "2025-07-05"
 category: "Przeciwzapalne"
-emoji: "🌅"
 ---
 
 Kilka minut sztywności po przebudzeniu bywa reakcją na większy trening, długą podróż lub spanie w jednej pozycji. Sztywność trwająca długo, obrzęk, ocieplenie stawu i ból wielu stawów mogą jednak wskazywać na chorobę wymagającą diagnostyki.

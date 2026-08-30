@@ -3,7 +3,6 @@ title: "Suplementy sportowe a interakcje z ziołami"
 excerpt: "Kofeina, kreatyna, elektrolity i ekstrakty ziołowe mogą tworzyć trudną do oceny mieszankę. Poznaj zasady porządkowania suplementacji przed treningiem."
 date: "2025-07-24"
 category: "Poradniki"
-emoji: "🧾"
 ---
 
 Wielu sportowców używa kilku produktów jednocześnie: odżywki białkowej, żelu, kofeiny, elektrolitów, witamin i ziołowego ekstraktu. Problemem nie jest sama liczba opakowań, ale brak wiedzy o składzie, dublowanie substancji i trudność ustalenia, co wywołało kołatanie lub ból brzucha.

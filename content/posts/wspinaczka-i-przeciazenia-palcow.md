@@ -3,7 +3,6 @@ title: "Wspinaczka i przeciążenia palców"
 excerpt: "Palce wspinacza potrzebują stopniowego obciążenia i przerw, nie maskowania bólu. Poznaj zasady obserwacji skóry, ścięgien i stawów dłoni."
 date: "2025-07-13"
 category: "Przeciwzapalne"
-emoji: "🧗"
 ---
 
 Chwytanie małych krawądek powtarza setki razy ten sam wzorzec obciążenia. Ból palca po sesji może dotyczyć skóry, troczka, ścięgna albo stawu, dlatego nie każdy problem rozwiązuje odpoczynek jednej nocy. Wspinanie z osłabionym chwytem zmienia technikę i zwiększa ryzyko.

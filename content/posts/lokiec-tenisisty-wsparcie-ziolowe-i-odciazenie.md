@@ -3,7 +3,6 @@ title: "Łokieć tenisisty: wsparcie ziołowe i odciążenie"
 excerpt: "Ból po zewnętrznej stronie łokcia wymaga zmiany obciążenia i cierpliwej pracy nad ruchem. Ziołowy kompres może być dodatkiem, ale nie zastępuje rehabilitacji."
 date: "2025-05-19"
 category: "Przeciwzapalne"
-emoji: "🎾"
 ---
 
 Łokieć tenisisty to potoczne określenie bólu po zewnętrznej stronie łokcia, często nasilającego się przy chwytaniu, podnoszeniu i pracy nadgarstkiem. Nie dotyczy wyłącznie osób grających w tenisa. Może pojawić się po zwiększeniu liczby powtórzeń, pracy przy komputerze, wspinaczce albo treningu siłowym.

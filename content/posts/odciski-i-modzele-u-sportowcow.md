@@ -3,7 +3,6 @@ title: "Odciski i modzele u sportowców"
 excerpt: "Odciski i modzele zwykle wynikają z nacisku, tarcia lub źle dobranego obuwia. Poznaj higienę stóp, bezpieczne zmiękczanie i sygnały alarmowe."
 date: "2025-06-07"
 category: "Skóra i włosy"
-emoji: "👟"
 ---
 
 Odcisk to zgrubienie skóry powstające w miejscu nacisku, a modzel jest zwykle szerszym obszarem zrogowacenia. U biegaczy, kolarzy i osób ćwiczących siłowo przyczyną bywają ciasne buty, szew, wilgotna skarpeta, poślizg stopy albo technika ruchu. Samo zeskrobanie skóry nie rozwiąże problemu, jeśli nacisk pozostanie.

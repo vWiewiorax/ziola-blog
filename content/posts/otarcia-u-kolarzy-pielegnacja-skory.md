@@ -3,7 +3,6 @@ title: "Otarcia u kolarzy: pielęgnacja skóry"
 excerpt: "Długie siedzenie na siodełku, pot i tarcie sprzyjają otarciom. Dowiedz się, jak oczyścić skórę, ograniczyć wilgoć i potraktować zioła wyłącznie jako dodatek."
 date: "2025-05-04"
 category: "Skóra i włosy"
-emoji: "🚴"
 ---
 
 Otarcia u kolarzy najczęściej powstają w pachwinach, na pośladkach, przy krawędzi wkładki oraz w miejscu ucisku odzieży. Pot zmiękcza naskórek, a wiele godzin powtarzalnego ruchu zwiększa tarcie. Ból po jeździe nie zawsze jest tylko problemem kosmetycznym, ponieważ uszkodzona skóra łatwiej ulega zakażeniu.

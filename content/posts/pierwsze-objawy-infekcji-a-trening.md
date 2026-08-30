@@ -3,7 +3,6 @@ title: "Pierwsze objawy infekcji a trening"
 excerpt: "Drapanie w gardle, dreszcze i nietypowe zmęczenie wymagają ostrożności, nie dodatkowego pobudzenia. Sprawdź, kiedy odpocząć i jak wracać do ruchu."
 date: "2025-05-18"
 category: "Odporność"
-emoji: "🌡️"
 ---
 
 Pierwsze objawy infekcji mogą być subtelne: gorszy sen, drapanie w gardle, uczucie zimna, ból mięśni albo wyższe niż zwykle tętno spoczynkowe. Sportowiec przyzwyczajony do realizowania planu może próbować je zignorować. To jednak moment, w którym rozsądniej jest ocenić stan ogólny niż szukać zioła, które pozwoli dokończyć intensywną sesję.

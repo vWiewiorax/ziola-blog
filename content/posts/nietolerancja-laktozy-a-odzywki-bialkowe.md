@@ -3,7 +3,6 @@ title: "Nietolerancja laktozy a odżywki białkowe"
 excerpt: "Wzdęcia po odżywce nie zawsze oznaczają alergię na mleko ani konieczność rezygnacji z białka. Poznaj różnice, test tolerancji i ostrożne wsparcie trawienia."
 date: "2025-09-16"
 category: "Trawienie"
-emoji: "🥛"
 ---
 
 Wzdęcia, przelewanie i luźny stolec po koktajlu białkowym mogą wynikać z laktozy, dużej porcji, słodzików, zagęstników albo wypicia napoju zbyt szybko. Nie zakładaj od razu, że winne jest każde białko mleczne. Warto przeanalizować etykietę i porównać reakcję z innymi produktami.

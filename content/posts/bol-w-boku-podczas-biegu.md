@@ -3,7 +3,6 @@ title: "Ból w boku podczas biegu"
 excerpt: "Kłucie pod żebrami często wynika z tempa, oddechu albo posiłku, ale nie każdy ból jest błahy. Sprawdź, co zrobić na trasie i kiedy przerwać."
 date: "2025-07-18"
 category: "Trawienie"
-emoji: "🏃‍♀️"
 ---
 
 Ból w boku podczas biegu może pojawić się nagle, zwłaszcza po przyspieszeniu, podbiegach albo większym posiłku. Najczęściej zmusza do zwolnienia, lecz jego lokalizacja nie wystarcza do postawienia rozpoznania. Trzeba uwzględnić oddech, nawodnienie, pracę przepony, przewód pokarmowy i objawy z klatki piersiowej.

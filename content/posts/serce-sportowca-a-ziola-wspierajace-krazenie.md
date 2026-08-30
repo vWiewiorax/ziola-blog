@@ -3,7 +3,6 @@ title: "Serce sportowca a zioła wspierające krążenie"
 excerpt: "Adaptacja serca do treningu nie oznacza, że każde kołatanie jest normalne. Sprawdź ostrożne podejście do ziół i objawów krążeniowych."
 date: "2025-11-05"
 category: "Serce i krążenie"
-emoji: "❤️"
 ---
 
 Regularny trening może obniżać tętno spoczynkowe i zmieniać reakcję organizmu na wysiłek. To fizjologiczna adaptacja, ale nie każda osoba uprawiająca sport ma zdrowe serce. Ból w klatce, omdlenie, duszność nieproporcjonalna do tempa i nowe kołatania wymagają oceny, nawet gdy zawodnik jest młody.

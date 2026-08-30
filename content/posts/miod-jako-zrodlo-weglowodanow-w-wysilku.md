@@ -3,7 +3,6 @@ title: "Miód jako źródło węglowodanów w wysiłku"
 excerpt: "Miód może dostarczać łatwo dostępnych węglowodanów podczas długiego wysiłku, ale wymaga wcześniejszego testu tolerancji. Sprawdź porcję, konsystencję i ograniczenia."
 date: "2025-08-14"
 category: "Poradniki"
-emoji: "🍯"
 ---
 
 Miód jest źródłem cukrów, które można wykorzystać w jadłospisie podczas długiego treningu. Nie jest jednak magicznym produktem regeneracyjnym ani zamiennikiem całego posiłku. Znaczenie ma długość aktywności, intensywność, tolerancja żołądka i to, czy miód jest jedzony sam, czy w napoju lub kanapce.

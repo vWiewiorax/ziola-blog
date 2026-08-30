@@ -3,7 +3,6 @@ title: "Trening w upale: nawodnienie i zioła"
 excerpt: "Wysoka temperatura zwiększa obciążenie układu krążenia i ryzyko przegrzania. Sprawdź, jak zaplanować płyny, przerwy i bezpieczny napój ziołowy."
 date: "2025-05-11"
 category: "Poradniki"
-emoji: "☀️"
 ---
 
 Trening w upale wymaga innego planu niż ta sama sesja w chłodny dzień. Wysoka temperatura, wilgotność, słońce i brak wiatru utrudniają oddawanie ciepła. Tętno może być wyższe, tempo niższe, a ryzyko odwodnienia rośnie szybciej.

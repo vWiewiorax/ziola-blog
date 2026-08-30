@@ -3,7 +3,6 @@ title: "Prysznic naprzemienny i hartowanie"
 excerpt: "Naprzemienna temperatura może być przyjemnym rytuałem po treningu, ale nie zastępuje snu, jedzenia ani leczenia. Poznaj łagodny sposób stosowania i przeciwwskazania."
 date: "2025-10-03"
 category: "Odporność"
-emoji: "🚿"
 ---
 
 Prysznic naprzemienny polega na przeplataniu krótkich odcinków ciepłej i chłodniejszej wody. Nie jest tym samym co morsowanie ani dowodem „wzmocnienia odporności”. Reakcja zależy od temperatury, czasu, stanu serca, ciśnienia i przyzwyczajenia.

@@ -3,7 +3,6 @@ title: "Żołądek i jelita przy intensywnym wysiłku"
 excerpt: "Nudności, odbijanie i biegunka podczas treningu mają wiele przyczyn. Ziołowe wsparcie, plan płynów i jedzenia oraz objawy wymagające diagnostyki."
 date: "2025-10-15"
 category: "Trawienie"
-emoji: "🌾"
 ---
 
 Problemy z żołądkiem podczas biegu, jazdy na rowerze albo zawodów są częste, ale nie trzeba ich akceptować jako nieuniknionej części sportu. Wstrząsy, wysoka intensywność, odwodnienie, duża porcja tłuszczu przed startem i stres mogą ograniczać przepływ krwi przez przewód pokarmowy. Wysiłek może też ujawnić refluks, nietolerancję składnika lub chorobę wymagającą leczenia.

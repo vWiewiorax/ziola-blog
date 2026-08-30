@@ -3,7 +3,6 @@ title: "Obolałe plecy po siłowni: okłady i napary"
 excerpt: "Ból pleców po treningu może wynikać z przeciążenia, ale także z urazu. Sprawdź łagodne metody miejscowe i objawy wymagające oceny."
 date: "2025-07-16"
 category: "Przeciwzapalne"
-emoji: "🏋️"
 ---
 
 Bolesność pleców po siłowni często pojawia się po nowych ćwiczeniach, większej liczbie serii albo pracy w nieznanym zakresie ruchu. Najczęściej dotyczy mięśni i zmniejsza się przy spokojnym ruchu. Nie każdą dolegliwość wolno jednak przypisywać zakwasom. Ból po upadku, nagłym skręcie lub podnoszeniu ciężaru z trzaskiem wymaga innego postępowania.

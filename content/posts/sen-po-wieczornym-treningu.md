@@ -3,7 +3,6 @@ title: "Sen po wieczornym treningu"
 excerpt: "Jak wyciszyć organizm po późnej aktywności bez ciężkich suplementów. Rutyna, napary, temperatura, dawkowanie i sytuacje wymagające diagnozy."
 date: "2025-08-20"
 category: "Uspokajające"
-emoji: "😴"
 ---
 
 Wieczorny trening może poprawiać samopoczucie, ale u części osób utrudnia zasypianie. Podniesiona temperatura ciała, pobudzenie układu nerwowego, światło i późny posiłek działają dłużej niż sama sesja. Zamiast szukać coraz mocniejszego preparatu, warto ułożyć przewidywalne przejście od ruchu do snu.

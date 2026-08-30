@@ -3,7 +3,6 @@ title: "Trawienie przed startem: co pić i czego unikać"
 excerpt: "Spokojny żołądek przed zawodami zaczyna się od testów na treningu. Sprawdź porcje płynów, ziołowe napary i produkty, które często nasilają problemy."
 date: "2025-06-20"
 category: "Trawienie"
-emoji: "🥤"
 ---
 
 Nudności, odbijanie, skurcze i nagła potrzeba skorzystania z toalety mogą zepsuć nawet dobrze przygotowany start. Przyczyną bywa zbyt duża porcja, szybkie picie, tłuszcz, błonnik, stres, upał albo tempo wyższe niż na treningu. Rozwiązaniem nie jest automatycznie mocniejszy napar.

@@ -3,7 +3,6 @@ title: "Stres startowy a układ pokarmowy"
 excerpt: "Napięcie przed zawodami może przyspieszać pracę jelit i wywoływać nudności. Sprawdź, jak ćwiczyć plan jedzenia oraz ostrożnie korzystać z naparów."
 date: "2025-07-03"
 category: "Trawienie"
-emoji: "🫣"
 ---
 
 Stres przed startem wpływa na oddech, napięcie mięśni i pracę przewodu pokarmowego. U jednej osoby pojawia się biegunka, u innej odbijanie, nudności albo brak apetytu. Objaw nie musi oznaczać choroby, ale powtarzający się problem wymaga sprawdzenia.

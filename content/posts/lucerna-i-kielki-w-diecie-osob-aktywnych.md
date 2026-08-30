@@ -3,7 +3,6 @@ title: "Lucerna i kiełki w diecie osób aktywnych"
 excerpt: "Lucerna i kiełki mogą urozmaicić jadłospis, ale wymagają higieny i rozsądnych porcji. Dowiedz się, jak bezpiecznie włączyć je do diety sportowej."
 date: "2025-05-29"
 category: "Oczyszczające"
-emoji: "🌱"
 ---
 
 Lucerna i kiełki są kojarzone z lekką, „oczyszczającą” dietą, dlatego pojawiają się w jadłospisach osób aktywnych. W praktyce kiełki są przede wszystkim żywnością: dostarczają wody, błonnika, części witamin i niewielkiej ilości białka. Nie usuwają toksyn z organizmu i nie zastępują normalnego jedzenia.

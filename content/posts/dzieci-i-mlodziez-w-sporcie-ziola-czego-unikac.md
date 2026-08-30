@@ -3,7 +3,6 @@ title: "Dzieci i młodzież w sporcie: zioła, których unikać"
 excerpt: "Młody zawodnik nie potrzebuje dorosłych przedtreningówek i mieszanek odchudzających. Sprawdź, czego unikać i kiedy decyzję powinien podjąć pediatra."
 date: "2025-06-15"
 category: "Poradniki"
-emoji: "🧒"
 ---
 
 Dzieci i młodzież trenujące sport potrzebują przede wszystkim jedzenia, snu, płynów, zabawy i opieki dorosłych. Ziołowe suplementy reklamowane jako przedtreningówki, spalacze lub boostery hormonów nie są neutralnymi produktami dla młodego organizmu.

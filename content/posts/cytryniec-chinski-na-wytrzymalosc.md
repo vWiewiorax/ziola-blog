@@ -3,7 +3,6 @@ title: "Cytryniec chiński na wytrzymałość"
 excerpt: "Cytryniec może być łagodnym wsparciem przy zmęczeniu, ale nie zastąpi treningu i snu. Poznaj formy, dawkowanie, interakcje i kryteria jakości."
 date: "2025-07-23"
 category: "Adaptogeny"
-emoji: "🍒"
 ---
 
 Cytryniec chiński jest pnączem, którego czerwone owoce mają kwaśno-słodko-gorzki smak. W tradycyjnych zastosowaniach wykorzystywano owoce przy zmęczeniu i spadku koncentracji. Dla osoby aktywnej może być interesujący jako element planu regeneracji, szczególnie w okresach długiej pracy, ale jego efekt nie jest równoważny działaniu kofeiny ani treningowi.

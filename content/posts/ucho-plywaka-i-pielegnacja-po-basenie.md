@@ -3,7 +3,6 @@ title: "Ucho pływaka i pielęgnacja po basenie"
 excerpt: "Wilgoć i mikrourazy skóry przewodu słuchowego mogą utrudniać pływanie. Poznaj bezpieczną pielęgnację ucha po treningu i sytuacje, w których potrzebna jest konsultacja."
 date: "2025-07-11"
 category: "Skóra i włosy"
-emoji: "🏊"
 ---
 
 Po pływaniu woda pozostająca w uchu może dawać uczucie zatkania, ale nie każdy taki objaw oznacza infekcję. Pocieranie patyczkiem, paznokciem albo ręcznikiem może uszkodzić skórę i ułatwić podrażnienie. Ucho sportowca wymaga delikatnego osuszania, nie agresywnego czyszczenia.

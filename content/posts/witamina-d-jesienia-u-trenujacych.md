@@ -3,7 +3,6 @@ title: "Witamina D jesienią u trenujących"
 excerpt: "Jesienny spadek ekspozycji na słońce może skłonić osobę aktywną do chaotycznego sięgania po suplementy. Sprawdź, jak połączyć badanie, dietę i bezpieczne decyzje bez samodzielnego ustalania dawki witaminy D."
 date: "2025-08-31"
 category: "Odporność"
-emoji: "☀️"
 ---
 
 Jesienią trening często przenosi się wcześniej rano albo pod dach, a skóra jest bardziej osłonięta ubraniem. To nie wystarcza, by rozpoznać niedobór witaminy D. Zmęczenie po sezonie, gorszy sen i spadek formy mogą wynikać również z większego obciążenia, infekcji, niedojadania lub stresu związanego z pracą.

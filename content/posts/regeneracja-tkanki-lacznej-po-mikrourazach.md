@@ -3,7 +3,6 @@ title: "Regeneracja tkanki łącznej po mikrourazach"
 excerpt: "Ścięgna, więzadła i powięzi adaptują się wolniej niż mięśnie. Sprawdź, jak dozować ruch i dlaczego zioła nie przyspieszają automatycznie gojenia."
 date: "2025-07-04"
 category: "Przeciwzapalne"
-emoji: "🧵"
 ---
 
 Po zwiększeniu kilometrażu lub ciężaru mogą pojawić się tkliwość ścięgna, sztywność powięzi i ból przy pierwszych ruchach. Tkanka łączna potrzebuje czasu na adaptację, a zmniejszenie bólu po maści nie oznacza zakończenia procesu. Zioła mogą poprawić komfort, ale nie odbudują zerwanego włókna.

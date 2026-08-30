@@ -3,7 +3,6 @@ title: "Skurcze mięśni po wysiłku"
 excerpt: "Skąd biorą się skurcze po treningu i co zrobić w pierwszych minutach. Nawodnienie, magnez w diecie, napary oraz objawy wymagające konsultacji."
 date: "2025-05-28"
 category: "Poradniki"
-emoji: "🏃"
 ---
 
 Skurcz mięśnia jest nagłym, mimowolnym i bolesnym napięciem, które może trwać od kilku sekund do kilku minut. U biegaczy często dotyczy łydki, u pływaków stopy, a podczas długiego wysiłku może pojawić się także w udzie. Jedna przyczyna nie pasuje do wszystkich przypadków. Znaczenie mają zmęczenie nerwowo-mięśniowe, tempo, temperatura, ilość płynów, przerwy oraz wcześniejsze urazy.

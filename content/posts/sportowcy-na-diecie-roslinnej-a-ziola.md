@@ -3,7 +3,6 @@ title: "Sportowcy na diecie roślinnej a zioła"
 excerpt: "Dieta roślinna może wspierać trening, jeśli pokrywa energię i składniki odżywcze. Zioła są dodatkiem, nie zamiennikiem białka, żelaza ani B12."
 date: "2025-06-13"
 category: "Poradniki"
-emoji: "🥗"
 ---
 
 Dieta roślinna może być dobrze dopasowana do aktywności, ale wymaga planowania. Sportowiec potrzebuje odpowiedniej ilości energii, białka, żelaza, wapnia, jodu, omega-3 i witaminy B12. Ziołowe proszki i napary nie wyrównają automatycznie braków wynikających z eliminacji produktów.

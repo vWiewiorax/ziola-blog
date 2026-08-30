@@ -3,7 +3,6 @@ title: "Tarczyca a trening: ostrożność z ziołami"
 excerpt: "Choroby tarczycy nie wykluczają ruchu, ale wymagają kontroli i dopasowania obciążenia. Zioła nie zastępują leczenia, a jod z alg może być ryzykowny."
 date: "2025-07-06"
 category: "Poradniki"
-emoji: "🦋"
 ---
 
 Choroba tarczycy może wpływać na puls, temperaturę ciała, masę, siłę, sen i tolerancję wysiłku. Stabilne leczenie często pozwala ćwiczyć, ale plan powinien uwzględniać wyniki, objawy i zalecenia endokrynologa. Nie modyfikuj terapii przed treningiem ani po gorszym dniu.

@@ -3,7 +3,6 @@ title: "Zapalenie ścięgna Achillesa: wsparcie ziołowe"
 excerpt: "Ból ścięgna Achillesa wymaga zmiany obciążenia, nie tylko maści. Jak rozpoznać przeciążenie, co można stosować miejscowo i kiedy potrzebna jest konsultacja."
 date: "2025-09-03"
 category: "Przeciwzapalne"
-emoji: "🦶"
 ---
 
 Ból nad piętą po bieganiu często wynika z przeciążenia ścięgna Achillesa. W języku potocznym mówi się o zapaleniu, ale problem może obejmować również zmiany degeneracyjne i podrażnienie przyczepu. Najważniejsza jest modyfikacja obciążenia, wygodne obuwie i stopniowy powrót do ćwiczeń.

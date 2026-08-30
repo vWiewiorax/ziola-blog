@@ -3,7 +3,6 @@ title: "Zioła a kontrola antydopingowa"
 excerpt: "Naturalne pochodzenie nie gwarantuje bezpieczeństwa w sporcie wyczynowym. Jak oceniać zioła, mieszanki, leki i ryzyko zanieczyszczenia."
 date: "2025-08-13"
 category: "Poradniki"
-emoji: "🧪"
 ---
 
 Sportowiec odpowiada za substancje znalezione w próbce, nawet jeśli trafiły do organizmu wraz z herbatą, suplementem lub preparatem kupionym bez recepty. Zioło może być dozwolone jako roślina, a gotowy produkt może zawierać zakazany składnik, błędnie opisaną dawkę albo zanieczyszczenie z linii produkcyjnej.

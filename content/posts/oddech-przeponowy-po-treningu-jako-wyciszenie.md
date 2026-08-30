@@ -3,7 +3,6 @@ title: "Oddech przeponowy po treningu jako wyciszenie"
 excerpt: "Spokojny oddech po wysiłku może pomóc przejść z pobudzenia do odpoczynku, jeśli nie wymuszasz głębokich wdechów. Poznaj prostą praktykę i bezpieczny napar jako dodatek."
 date: "2025-09-09"
 category: "Uspokajające"
-emoji: "🌬️"
 ---
 
 Po intensywnym treningu oddech pozostaje przyspieszony, a układ nerwowy może być pobudzony jeszcze długo po zakończeniu. Ćwiczenie przeponowe polega na spokojnym, nie maksymalnym oddechu, a nie na nabieraniu jak największej ilości powietrza. Nie zastępuje leczenia duszności, astmy ani problemów sercowych.

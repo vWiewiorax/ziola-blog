@@ -3,7 +3,6 @@ title: "Spadek formy po urlopie i powrót do rytmu"
 excerpt: "Po urlopie forma może wydawać się gorsza przez zmianę snu, temperatury i codziennego planu. Sprawdź spokojny powrót do rytmu oraz bezpieczne, pomocnicze zastosowanie ziół."
 date: "2025-09-01"
 category: "Adaptogeny"
-emoji: "📅"
 ---
 
 Kilka dni bez treningu nie kasuje wypracowanej sprawności, ale powrót po urlopie może być odczuwalnie trudniejszy. Na wynik wpływają podróż, krótszy sen, alkohol, inna temperatura, jedzenie i stres związany z ponownym wejściem w obowiązki. Nie próbuj wyrównać wszystkiego jednym ciężkim treningiem.

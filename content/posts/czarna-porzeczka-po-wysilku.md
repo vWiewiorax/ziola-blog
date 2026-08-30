@@ -3,7 +3,6 @@ title: "Czarna porzeczka po wysiłku"
 excerpt: "Czarna porzeczka może być smacznym dodatkiem do posiłku po treningu. Sprawdź formy owocu, porcje, cukier i sytuacje wymagające ostrożności."
 date: "2025-05-27"
 category: "Odporność"
-emoji: "🫐"
 ---
 
 Czarna porzeczka jest owocem, po który sportowcy sięgają ze względu na witaminę C, polifenole, kwasy organiczne i intensywny smak. Można ją jeść świeżą, mrożoną, w postaci przecieru albo niesłodzonego soku. Po treningu nie działa jak lek, ale może urozmaicić posiłek i pomóc zwiększyć ilość owoców w diecie.

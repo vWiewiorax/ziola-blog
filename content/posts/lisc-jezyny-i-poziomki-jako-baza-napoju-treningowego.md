@@ -3,7 +3,6 @@ title: "Liść jeżyny i poziomki jako baza napoju treningowego"
 excerpt: "Liście jeżyny i poziomki dają łagodny, bezkofeinowy napar, ale nie są izotonikiem. Poznaj proporcje, przygotowanie i ograniczenia takiego napoju."
 date: "2025-06-05"
 category: "Poradniki"
-emoji: "🍃"
 ---
 
 Liść jeżyny i liść poziomki można wykorzystać jako bazę łagodnego napoju bez kofeiny. Taki napar sprawdza się raczej podczas spokojnego dnia, krótkiego treningu albo jako urozmaicenie płynów po wysiłku. Nie dostarcza jednak sam z siebie odpowiedniej ilości sodu, węglowodanów i energii potrzebnych w długim wysiłku.

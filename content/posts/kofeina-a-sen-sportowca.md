@@ -3,7 +3,6 @@ title: "Kofeina a sen sportowca"
 excerpt: "Kofeina może poprawiać czujność, ale przyjęta zbyt późno pogarsza sen i regenerację. Sprawdź, jak ocenić tolerancję bez gonienia za pobudzeniem."
 date: "2025-06-10"
 category: "Uspokajające"
-emoji: "☕"
 ---
 
 Kofeina występuje w kawie, herbacie, yerba mate, kakao, guaranie i wielu przedtreningówkach. Może zmniejszać odczuwanie wysiłku, lecz jej działanie utrzymuje się dłużej, niż sugeruje chwilowa poprawa energii. Późna porcja może skrócić sen, zwiększyć wybudzenia i pogorszyć regenerację.

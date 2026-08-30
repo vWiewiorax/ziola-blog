@@ -3,7 +3,6 @@ title: "Ciąża a ćwiczenia: zioła, których unikać"
 excerpt: "Aktywność w ciąży wymaga zgody i nadzoru lekarza prowadzącego. Lista ziół zakazanych jest nadrzędna nad tradycją, reklamą i poradą z internetu."
 date: "2025-06-17"
 category: "Kobieta"
-emoji: "🤰"
 ---
 
 Aktywność fizyczna w ciąży może być kontynuowana lub modyfikowana, ale decyzja zależy od przebiegu ciąży, łożyska, ciśnienia, krwawień i wcześniejszych chorób. Nie zaczynaj intensywnego programu po przeczytaniu ogólnego poradnika. Lekarz prowadzący określa, czy dany rodzaj ruchu jest bezpieczny.

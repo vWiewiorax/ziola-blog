@@ -3,7 +3,6 @@ title: "Alergia sezonowa a bieganie wiosną"
 excerpt: "Pyłki mogą nasilać katar, świąd oczu i kaszel podczas biegu. Poznaj sposoby planowania trasy oraz ostrożnego używania ziół jako dodatku."
 date: "2025-06-27"
 category: "Odporność"
-emoji: "🌼"
 ---
 
 Wiosenny trening na zewnątrz oznacza kontakt z pyłkami traw, drzew i chwastów. Katar, kichanie, łzawienie, świąd podniebienia i kaszel mogą obniżyć komfort, a u części osób także nasilić objawy z dolnych dróg oddechowych. Nie każda reakcja jest jednak alergią.

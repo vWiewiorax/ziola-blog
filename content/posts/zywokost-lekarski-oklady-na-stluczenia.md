@@ -3,7 +3,6 @@ title: "Żywokost lekarski: okłady na stłuczenia"
 excerpt: "Jak bezpiecznie wykorzystać żywokost przy siniakach i tępych urazach po aktywności. Zasady okładów, ograniczenia i sygnały alarmowe."
 date: "2025-05-14"
 category: "Przeciwzapalne"
-emoji: "🌿"
 ---
 
 Stłuczenie po upadku, kontakcie z przeciwnikiem albo uderzeniu o sprzęt sportowy często powoduje ból, obrzęk i zmianę koloru skóry. Najpierw trzeba ograniczyć obciążanie, schłodzić miejsce przez krótki czas i sprawdzić, czy kończyna zachowuje ruchomość. Żywokost może być później dodatkiem do pielęgnacji, ale nie powinien przykrywać złamania, uszkodzenia więzadła ani zakażenia.

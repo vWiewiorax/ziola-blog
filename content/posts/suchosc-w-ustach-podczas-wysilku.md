@@ -3,7 +3,6 @@ title: "Suchość w ustach podczas wysiłku"
 excerpt: "Suchość w ustach może wynikać z oddychania przez usta, stresu, odwodnienia albo leków. Poznaj praktyczny plan picia i bezpieczne ziołowe wsparcie bez udawania leczenia przyczyny."
 date: "2025-09-04"
 category: "Trawienie"
-emoji: "💧"
 ---
 
 Suchość w ustach podczas treningu jest częsta przy szybkim oddechu, chłodnym powietrzu, mówieniu i napięciu. Może jednak towarzyszyć odwodnieniu, wysokiemu stężeniu glukozy, infekcji albo działaniu niektórych leków. Nie próbuj przykrywać jej słodkim napojem ziołowym, jeśli pojawiają się inne objawy.

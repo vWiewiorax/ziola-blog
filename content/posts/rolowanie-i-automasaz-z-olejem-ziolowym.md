@@ -3,7 +3,6 @@ title: "Rolowanie i automasaż z olejem ziołowym"
 excerpt: "Rolowanie może uzupełniać spokojną regenerację, ale nie zastępuje oceny urazu. Sprawdź, jak połączyć pracę wałkiem z bezpieczną pielęgnacją skóry."
 date: "2025-08-09"
 category: "Poradniki"
-emoji: "🧴"
 ---
 
 Rolowanie i automasaż po treningu są często traktowane jak obowiązkowy etap regeneracji. W praktyce mają przede wszystkim pomóc w odczuwaniu mniejszej sztywności i w spokojnym powrocie do ruchu. Nie rozbijają mechanicznie zrostów, nie przyspieszają gojenia każdego urazu i nie powinny boleć tak, aby trzeba było zaciskać zęby.

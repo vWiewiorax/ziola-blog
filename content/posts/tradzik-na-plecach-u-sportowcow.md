@@ -3,7 +3,6 @@ title: "Trądzik na plecach u sportowców"
 excerpt: "Pot, tarcie, obcisła odzież i kosmetyki mogą nasilać zmiany na plecach. Sprawdź higienę po treningu i granice domowego postępowania."
 date: "2025-06-22"
 category: "Skóra i włosy"
-emoji: "🧴"
 ---
 
 Zmiany na plecach u osoby trenującej mogą wyglądać jak trądzik, ale podobne grudki wywołują także zapalenie mieszków włosowych, drożdżaki, reakcja na detergent i tarcie sprzętu. Pot oraz obcisła koszulka nie są jedyną przyczyną, lecz utrzymują wilgoć i ciepło przy skórze.

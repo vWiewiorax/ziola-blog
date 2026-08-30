@@ -3,7 +3,6 @@ title: "Przekrwienie spojówek po basenie i wietrze"
 excerpt: "Czerwone oczy po basenie lub treningu na wietrze mogą wynikać z podrażnienia, ale czasem sygnalizują infekcję albo uraz. Dowiedz się, czego nie wkraplać i jak chronić oczy poza okiem."
 date: "2025-09-05"
 category: "Skóra i włosy"
-emoji: "👁️"
 ---
 
 Przekrwienie spojówek po pływaniu często wiąże się z chlorem, suchym powietrzem, soczewkami kontaktowymi lub pocieraniem oczu. Wiatr, kurz i pot mogą wywołać podobne odczucie u biegacza i kolarza. Czerwone oko nie jest jednak dobrym miejscem na domowe eksperymenty z ziołami.

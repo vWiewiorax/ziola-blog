@@ -3,7 +3,6 @@ title: "Shilajit i mumio, fakty i mity"
 excerpt: "Shilajit i mumio są promowane jako wsparcie energii, lecz jakość produktów bywa bardzo różna. Poznaj granice dowodów, ryzyko metali ciężkich i zasady ostrożności."
 date: "2025-08-16"
 category: "Adaptogeny"
-emoji: "⛰️"
 ---
 
 Shilajit, nazywany także mumio, jest ciemną substancją mineralno-organiczną pozyskiwaną z obszarów górskich. W reklamach sportowych przypisuje mu się wpływ na energię, siłę, testosteron i regenerację. Takie obietnice często wykraczają poza to, co można bezpiecznie wnioskować z jakości produktu dostępnego na rynku. Nie jest to zamiennik jedzenia, snu, treningu ani leczenia.

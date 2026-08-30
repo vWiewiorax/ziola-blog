@@ -3,7 +3,6 @@ title: "Odporność sportowca po ciężkim treningu"
 excerpt: "Ciężki wysiłek nie musi oznaczać infekcji, ale niedosypianie i niedojadanie zwiększają ryzyko problemów. Praktyczne wsparcie odporności bez cudownych obietnic."
 date: "2025-10-29"
 category: "Odporność"
-emoji: "🛡️"
 ---
 
 Po intensywnym treningu możesz przez kilka godzin czuć zmęczenie, pragnienie i przejściowy spadek energii. To nie jest automatycznie „otwarte okno” dla infekcji. Ryzyko rośnie przede wszystkim wtedy, gdy wysiłek łączy się z chronicznym niedoborem snu, zbyt małą ilością jedzenia, stresem i kontaktem z chorymi.

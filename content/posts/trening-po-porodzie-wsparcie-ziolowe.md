@@ -3,7 +3,6 @@ title: "Trening po porodzie, wsparcie ziołowe"
 excerpt: "Powrót do ruchu po porodzie wymaga indywidualnej oceny, a zioła nie przyspieszają gojenia. Poznaj bezpieczne kryteria i ostrożność podczas karmienia piersią."
 date: "2025-08-23"
 category: "Kobieta"
-emoji: "🌸"
 ---
 
 Powrót do treningu po porodzie nie zaczyna się od wyboru naparu. Organizm goi rany, zmienia gospodarkę hormonalną, odbudowuje siłę dna miednicy i dostosowuje się do snu przerywanego. Termin oraz zakres aktywności ustala lekarz lub fizjoterapeuta uroginekologiczny, z uwzględnieniem rodzaju porodu i przebiegu połogu.

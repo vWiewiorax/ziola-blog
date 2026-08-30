@@ -3,7 +3,6 @@ title: "Ruch jako wsparcie nastroju"
 excerpt: "Regularny ruch może wspierać nastrój, rytm dnia i poczucie sprawczości, ale nie zastępuje leczenia depresji. Poznaj bezpieczny plan aktywności i ostrzeżenia dotyczące dziurawca."
 date: "2025-10-12"
 category: "Uspokajające"
-emoji: "🌤️"
 ---
 
 Spadek nastroju po kontuzji, stresie lub serii nieudanych startów może ograniczać chęć do ruchu. Krótki spacer bywa pomocny, lecz nie jest testem silnej woli ani lekarstwem na depresję. Aktywność należy dopasować do zdrowia fizycznego, energii i aktualnego bezpieczeństwa psychicznego.

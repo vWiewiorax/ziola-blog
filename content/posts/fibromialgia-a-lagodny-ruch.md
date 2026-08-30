@@ -3,7 +3,6 @@ title: "Fibromialgia a łagodny ruch"
 excerpt: "Przy fibromialgii celem aktywności nie jest przełamywanie bólu, lecz stopniowe budowanie tolerancji i poczucia bezpieczeństwa. Poznaj zasady planowania ruchu oraz ostrożnego wsparcia."
 date: "2025-09-21"
 category: "Przeciwzapalne"
-emoji: "🌿"
 ---
 
 Fibromialgia może wiązać się z uogólnionym bólem, zmęczeniem, nadwrażliwością na bodźce i zaburzeniami snu. Objawy bywają zmienne, dlatego jeden dobry trening nie powinien prowadzić do gwałtownego zwiększenia obciążenia. Ruch może wspierać funkcjonowanie, ale plan ustala się z lekarzem lub fizjoterapeutą.

@@ -3,7 +3,6 @@ title: "Skóra pływaków: podrażnienia po basenie"
 excerpt: "Chlorowana woda, częste prysznice i ocierający strój mogą osłabiać barierę skóry pływaka. Sprawdź, jak myć, osuszać i wspierać podrażnioną skórę."
 date: "2025-05-25"
 category: "Skóra i włosy"
-emoji: "🏊"
 ---
 
 Skóra po basenie może piec, swędzieć, łuszczyć się albo być wyraźnie bardziej sucha. Przyczyną bywa kontakt z chlorowaną wodą, długi pobyt w mokrym stroju, tarcie ręcznika i częste używanie silnych środków myjących. Nie każda zmiana jest alergią na chlor, a ziołowy preparat nie rozwiąże każdego problemu.

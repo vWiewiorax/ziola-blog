@@ -3,7 +3,6 @@ title: "Regeneracja po maratonie: plan na dwa tygodnie"
 excerpt: "Praktyczny harmonogram odpoczynku, jedzenia i lekkiego ruchu po maratonie, z miejscem na napary i sygnały ostrzegawcze."
 date: "2025-11-26"
 category: "Poradniki"
-emoji: "🗓️"
 ---
 
 Maraton jest dużym obciążeniem dla mięśni, układu nerwowego, stawów i przewodu pokarmowego. Nawet jeśli następnego dnia czujesz głównie satysfakcję, mikrourazy i odwodnienie mogą ujawnić się później. Pierwsze dwa tygodnie nie powinny być konkursem sprawdzającym, jak szybko wrócisz do zwykłego kilometrażu.

@@ -3,7 +3,6 @@ title: "Otarcia pod biustonoszem sportowym"
 excerpt: "Wilgoć, szwy i niedopasowany obwód mogą powodować pieczenie skóry pod biustonoszem sportowym. Poznaj praktyczną pielęgnację oraz sygnały zakażenia wymagające konsultacji."
 date: "2025-08-01"
 category: "Kobieta"
-emoji: "🎽"
 ---
 
 Otarcia pod biustonoszem sportowym powstają najczęściej w miejscu, gdzie pot, ruch i nacisk materiału powtarzają się przez wiele minut. Problem dotyczy biegaczek, rowerzystek, osób ćwiczących na sali i kobiet wracających do aktywności po przerwie. Pieczenie może oznaczać zwykłe uszkodzenie naskórka, ale także reakcję na detergent albo początek nadkażenia.

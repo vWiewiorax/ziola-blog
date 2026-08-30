@@ -3,7 +3,6 @@ title: "Układ limfatyczny po wysiłku"
 excerpt: "Obrzęk po treningu nie zawsze oznacza problem z limfą i nie powinien być automatycznie leczony ziołami moczopędnymi. Sprawdź bezpieczną obserwację i moment konsultacji."
 date: "2025-09-25"
 category: "Oczyszczające"
-emoji: "💧"
 ---
 
 Układ limfatyczny pomaga odprowadzać płyn z tkanek i wspiera odporność, ale nie jest workiem z toksynami do „przepłukania”. Obrzęk po długim locie, upale, urazie lub wielogodzinnym staniu może mieć różne przyczyny. Zioła moczopędne nie naprawiają odpływu limfy.

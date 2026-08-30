@@ -3,7 +3,6 @@ title: "Sok z wiśni na regenerację i sen"
 excerpt: "Kwaśne wiśnie są źródłem polifenoli i naturalnej melatoniny. Jak używać soku po wysiłku, na co uważać i dlaczego nie zastąpi on snu."
 date: "2025-09-17"
 category: "Przeciwzapalne"
-emoji: "🍒"
 ---
 
 Sok z wiśni, szczególnie z odmian kwaśnych, pojawia się w planach regeneracji biegaczy i osób trenujących siłowo. Zawiera polifenole, antocyjany i niewielkie ilości melatoniny. Może być praktycznym dodatkiem po okresie dużego obciążenia, ale nie jest obowiązkowym elementem diety i nie gwarantuje szybszego powrotu do formy.

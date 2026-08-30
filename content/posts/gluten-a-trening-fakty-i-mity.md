@@ -3,7 +3,6 @@ title: "Gluten a trening: fakty i mity"
 excerpt: "Rezygnacja z glutenu nie poprawia automatycznie wydolności ani regeneracji. Dowiedz się, kiedy potrzebna jest diagnostyka, a kiedy problemem jest raczej skład całej diety."
 date: "2025-09-18"
 category: "Trawienie"
-emoji: "🌾"
 ---
 
 Gluten bywa obwiniany za zmęczenie, wzdęcia i spadek formy, lecz pojedynczy objaw po pieczywie nie rozpoznaje celiakii ani nadwrażliwości. Osoba trenująca może czuć się lepiej po zmianie jadłospisu dlatego, że je mniej produktów wysoko przetworzonych, a nie dlatego, że wyeliminowała konkretną frakcję białka.

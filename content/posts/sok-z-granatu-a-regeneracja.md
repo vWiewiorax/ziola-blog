@@ -3,7 +3,6 @@ title: "Sok z granatu a regeneracja"
 excerpt: "Sok z granatu może być elementem jadłospisu po wysiłku, ale nie zastępuje posiłku ani diagnostyki. Sprawdź porcję, cukier, jakość i interakcje."
 date: "2025-08-17"
 category: "Serce i krążenie"
-emoji: "❤️"
 ---
 
 Sok z granatu jest źródłem płynu, cukrów i związków roślinnych. W diecie osoby aktywnej może urozmaicić posiłek po treningu, lecz nie powinien być przedstawiany jako pewny sposób na szybszą regenerację mięśni albo poprawę krążenia. Pojedynczy napój nie zastąpi energii, białka, snu i stopniowego planu obciążeń.

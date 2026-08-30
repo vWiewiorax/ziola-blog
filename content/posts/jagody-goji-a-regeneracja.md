@@ -3,7 +3,6 @@ title: "Jagody goji a regeneracja"
 excerpt: "Jagody goji są suszonym owocem, nie magicznym środkiem na regenerację. Sprawdź porcję, cukier, jakość i bezpieczeństwo przy treningu."
 date: "2025-05-30"
 category: "Adaptogeny"
-emoji: "🔴"
 ---
 
 Jagody goji pojawiają się w mieszankach dla osób aktywnych jako źródło barwników roślinnych, błonnika i naturalnej słodyczy. Mogą być dodatkiem do owsianki lub przekąski po treningu, ale ich marketing często wykracza poza to, co można rozsądnie powiedzieć o pojedynczym owocu.

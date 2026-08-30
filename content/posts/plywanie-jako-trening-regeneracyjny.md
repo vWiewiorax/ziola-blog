@@ -3,7 +3,6 @@ title: "Pływanie jako trening regeneracyjny"
 excerpt: "Pływanie może urozmaicić łatwy dzień, ale technika, temperatura wody i długość sesji nadal tworzą obciążenie. Zobacz, jak zaplanować spokojny trening i pomocniczy napar."
 date: "2025-08-29"
 category: "Poradniki"
-emoji: "🏊"
 ---
 
 Pływanie jest często wybierane jako ruch bez uderzeń, gdy zawodnik chce ograniczyć bieganie lub trening siłowy. Woda zmniejsza część obciążenia, lecz nie usuwa pracy barków, tułowia i nóg. Sesja regeneracyjna ma być łatwa także pod względem oddechu, techniki i koncentracji.

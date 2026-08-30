@@ -3,7 +3,6 @@ title: "Nordic walking dla początkujących"
 excerpt: "Nordic walking może być łagodnym wejściem w regularny ruch, jeśli tempo, długość kijków i przerwy są dobrane spokojnie. Poznaj podstawy techniki oraz pomocniczy napar po spacerze."
 date: "2025-08-30"
 category: "Poradniki"
-emoji: "🥾"
 ---
 
 Nordic walking angażuje nogi, ręce i tułów, dlatego nie jest po prostu spacerem z kijkami. Dla początkującej osoby najważniejsze są wygodne tempo, bezpieczna nawierzchnia i stopniowe przyzwyczajenie dłoni do uchwytu. Zioła mogą być dodatkiem do nawodnienia, nie sposobem na szybszą poprawę formy.

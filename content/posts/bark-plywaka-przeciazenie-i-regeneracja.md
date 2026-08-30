@@ -3,7 +3,6 @@ title: "Bark pływaka: przeciążenie i regeneracja"
 excerpt: "Ból barku u pływaka może wynikać z powtarzalnej pracy nad głową, techniki i zbyt szybkiego zwiększenia objętości. Poznaj plan odciążenia i pomocniczą pielęgnację."
 date: "2025-10-11"
 category: "Przeciwzapalne"
-emoji: "🏊"
 ---
 
 Pływanie powtarza tysiące ruchów barkiem, dlatego ból może pojawić się po zmianie stylu, liczby długości, łapek albo treningu siłowego. Nie każdy ból oznacza uszkodzenie, ale nie każdy można rozgrzać i przepłynąć. Ważna jest lokalizacja, zakres ruchu, siła i reakcja następnego dnia.

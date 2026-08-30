@@ -3,7 +3,6 @@ title: "Nerki a dieta wysokobiałkowa u sportowców"
 excerpt: "Większa podaż białka nie jest automatycznie szkodliwa ani automatycznie bezpieczna. Sprawdź, jak ocenić dietę, nawodnienie i zioła przy obciążeniu nerek."
 date: "2025-09-26"
 category: "Oczyszczające"
-emoji: "🫘"
 ---
 
 Dieta wysokobiałkowa bywa elementem planu sportowca, ale jej bezpieczeństwo zależy od zdrowia nerek, całej podaży energii, płynów i leków. Pienienie moczu, obrzęki, zmiana ilości moczu oraz ból w okolicy lędźwi nie są dowodem, że trzeba pić więcej ziół.

@@ -3,7 +3,6 @@ title: "Ostroga piętowa i ból pięty: okłady jako wsparcie"
 excerpt: "Ból pięty nie zawsze pochodzi od ostrogi. Sprawdź, kiedy chłodny okład może przynieść komfort, jak odciążyć stopę i kiedy potrzebna jest diagnoza."
 date: "2025-06-06"
 category: "Przeciwzapalne"
-emoji: "🦶"
 ---
 
 Ostroga piętowa jest zmianą widoczną w badaniu obrazowym, ale sama nie zawsze odpowiada za ból. Dolegliwości mogą pochodzić z rozcięgna podeszwowego, przeciążenia łydki, tkanki tłuszczowej pięty, ścięgna albo urazu. U biegacza ważniejsze od samego opisu zdjęcia jest to, kiedy ból się pojawia i jak stopa reaguje na obciążenie.

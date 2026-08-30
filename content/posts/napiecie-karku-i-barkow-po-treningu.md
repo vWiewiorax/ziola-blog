@@ -3,7 +3,6 @@ title: "Napięcie karku i barków po treningu"
 excerpt: "Sztywność szyi po ćwiczeniach często wynika z techniki, oddechu lub długiej pozycji. Poznaj łagodne sposoby pielęgnacji i objawy wymagające badania."
 date: "2025-05-21"
 category: "Przeciwzapalne"
-emoji: "🧘"
 ---
 
 Napięcie karku i barków po treningu może pojawić się po podciąganiu, wyciskaniu, jeździe na rowerze albo długiej pracy przy komputerze. Czasem odpowiada za nie przeciążenie mięśni, ale ból szyi może również towarzyszyć urazowi, infekcji lub problemowi neurologicznemu. Sama sztywność nie pozwala rozpoznać przyczyny.

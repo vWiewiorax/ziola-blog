@@ -3,7 +3,6 @@ title: "Badania kontrolne amatora sportu a suplementy ziołowe"
 excerpt: "Regularny trening nie wymaga przypadkowych badań ani suplementów na wszelki wypadek. Sprawdź, co powiedzieć lekarzowi i jak bezpiecznie oceniać preparaty."
 date: "2025-05-20"
 category: "Poradniki"
-emoji: "🧪"
 ---
 
 Osoba uprawiająca sport amatorsko może mieć inne potrzeby kontrolne niż zawodnik przygotowujący się do wielogodzinnych startów. Nie istnieje jeden obowiązkowy pakiet badań dla każdego. Zakres zależy od wieku, objawów, chorób, leków, rodzaju wysiłku i wywiadu rodzinnego.

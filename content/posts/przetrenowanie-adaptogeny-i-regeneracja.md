@@ -3,7 +3,6 @@ title: "Przetrenowanie, adaptogeny i regeneracja"
 excerpt: "Zmęczenie po ciężkim bloku treningowym nie zawsze oznacza przetrenowanie. Jak rozpoznać przeciążenie, zaplanować odpoczynek i ostrożnie wykorzystać rośliny."
 date: "2025-07-09"
 category: "Adaptogeny"
-emoji: "🔋"
 ---
 
 Przetrenowanie jest poważnym stanem, a nie synonimem kilku gorszych treningów. Właściwy zespół przetrenowania wiąże się z długotrwałym spadkiem formy, zaburzeniem snu i nastroju oraz brakiem poprawy mimo odpoczynku. Częściej sportowiec ma funkcjonalne przeciążenie, czyli chwilowy brak równowagi między obciążeniem a regeneracją.

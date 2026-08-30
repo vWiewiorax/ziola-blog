@@ -3,7 +3,6 @@ title: "Planowanie posiłków w tygodniu startowym"
 excerpt: "Tydzień startowy wymaga przewidywalnego jedzenia, a nie nagłych eksperymentów z suplementami. Sprawdź, jak rozłożyć posiłki, przygotować zapas i wykorzystać zioła tylko jako dodatek smakowy."
 date: "2025-09-11"
 category: "Poradniki"
-emoji: "🍽️"
 ---
 
 W tygodniu zawodów apetyt, sen i plan dnia mogą się zmieniać, dlatego warto uprościć posiłki. Celem nie jest idealne menu, lecz dostarczenie znanej energii, płynów i składników, które dobrze tolerujesz. Zioła mogą urozmaicić smak, ale nie zastępują węglowodanów, białka ani konsultacji dietetycznej.

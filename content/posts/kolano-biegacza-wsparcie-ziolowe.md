@@ -3,7 +3,6 @@ title: "Kolano biegacza: wsparcie ziołowe"
 excerpt: "Ból po bocznej stronie kolana wymaga zmniejszenia obciążenia i pracy nad przyczyną. Sprawdź, jakie okłady mogą być dodatkiem do rehabilitacji."
 date: "2025-11-19"
 category: "Przeciwzapalne"
-emoji: "🏃"
 ---
 
 Określenie kolano biegacza bywa używane dla bólu po bocznej stronie kolana, często nasilającego się przy zbieganiu, długim kroku i powtarzalnym zginaniu. W grę może wchodzić pasmo biodrowo-piszczelowe, ale podobne objawy powodują także urazy łąkotki, więzadeł, stawu rzepkowo-udowego i przeciążenie mięśni. Zioła mogą najwyżej wspierać higienę skóry i chwilowy komfort.

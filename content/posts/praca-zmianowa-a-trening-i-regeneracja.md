@@ -3,7 +3,6 @@ title: "Praca zmianowa a trening i regeneracja"
 excerpt: "Zmienne godziny pracy utrudniają sen i planowanie wysiłku. Sprawdź, jak układać trening oraz gdzie zachować ostrożność z ziołami."
 date: "2025-06-30"
 category: "Uspokajające"
-emoji: "🌙"
 ---
 
 Praca zmianowa może zmieniać porę snu, apetyt, światło i czas dostępny na trening. Nie oznacza to, że trzeba zrezygnować z aktywności, ale plan powinien być oparty na aktualnej jakości odpoczynku, a nie na stałym zegarze.

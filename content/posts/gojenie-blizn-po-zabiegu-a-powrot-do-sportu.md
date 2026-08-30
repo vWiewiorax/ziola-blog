@@ -3,7 +3,6 @@ title: "Gojenie blizn po zabiegu a powrót do sportu"
 excerpt: "Blizna może wyglądać dobrze, zanim tkanki odzyskają pełną wytrzymałość. Poznaj zasady ochrony rany, kontroli objawów i stopniowego powrotu do treningu."
 date: "2025-09-23"
 category: "Skóra i włosy"
-emoji: "🩹"
 ---
 
 Po zabiegu skóra jest tylko zewnętrzną warstwą procesu gojenia. Pod nią tkanki mogą być wrażliwe na rozciąganie, ucisk i wzrost ciśnienia podczas wysiłku. Termin powrotu do sportu ustala chirurg lub lekarz prowadzący, a nie sam wygląd blizny ani chęć nadrobienia treningu.

@@ -3,7 +3,6 @@ title: "Guarana przed treningiem: kofeina roślinna"
 excerpt: "Guarana dostarcza kofeiny, dlatego nie jest obojętną herbatą ziołową. Sprawdź, jak ocenić dawkę, tolerancję, interakcje i ryzyko przed zawodami."
 date: "2025-05-12"
 category: "Adaptogeny"
-emoji: "⚡"
 ---
 
 Guarana bywa sprzedawana jako roślinny sposób na pobudzenie przed treningiem. Jej nasiona zawierają kofeinę, więc działanie zależy przede wszystkim od ilości tej substancji, a nie od samego hasła „naturalny”. Problemem jest zmienna zawartość ekstraktów i łączenie ich z kawą, napojami energetycznymi albo przedtreningówkami.

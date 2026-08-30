@@ -3,7 +3,6 @@ title: "Bakopa drobnolistna na koncentrację w sporcie"
 excerpt: "Bakopa nie jest szybkim stymulantem przed startem, a jej suplementacja wymaga oceny tolerancji i interakcji. Sprawdź, jak nie pomylić koncentracji z przemęczeniem."
 date: "2025-05-15"
 category: "Adaptogeny"
-emoji: "🧠"
 ---
 
 Koncentracja w sporcie zależy od snu, odżywienia, stresu, strategii i warunków na trasie. Bakopa drobnolistna jest przedstawiana jako roślinne wsparcie pamięci i skupienia, ale nie powinna być traktowana jak natychmiastowy zamiennik odpoczynku. U części osób wywołuje senność, nudności albo luźne stolce.

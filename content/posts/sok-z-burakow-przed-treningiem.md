@@ -3,7 +3,6 @@ title: "Sok z buraków przed treningiem"
 excerpt: "Buraki dostarczają azotanów, ale sok nie jest magicznym paliwem. Jak przygotować porcję, kiedy ją wypić i kto powinien zachować ostrożność."
 date: "2025-08-06"
 category: "Serce i krążenie"
-emoji: "❤️"
 ---
 
 Sok z buraków jest jednym z najlepiej rozpoznawalnych napojów używanych przez osoby trenujące wytrzymałościowo. Zawiera azotany, które bakterie jamy ustnej mogą przekształcać w azotyny, a następnie w tlenek azotu. Ten szlak jest związany z regulacją naczyń i efektywnością pracy mięśni. Nie oznacza to, że każdy poczuje wyraźną różnicę.

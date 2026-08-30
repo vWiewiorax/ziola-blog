@@ -3,7 +3,6 @@ title: "Zaparcia w podróży na zawody"
 excerpt: "Zmiana rytmu dnia, siedzenie w autokarze i stres przed startem mogą spowolnić wypróżnienia. Sprawdź łagodne działania organizacyjne oraz bezpieczne miejsce dla ziołowego wsparcia."
 date: "2025-07-28"
 category: "Trawienie"
-emoji: "🚌"
 ---
 
 Zaparcia w podróży na zawody są częste, gdy sportowiec je inaczej niż w domu, ma ograniczony dostęp do toalety i przez wiele godzin siedzi. Stres może zmienić odczuwanie potrzeby, a odwodnienie, mała ilość błonnika lub duża porcja produktów wysoko przetworzonych dodatkowo utrudniają wypróżnienie. Nie należy jednak uznawać każdego bólu brzucha za zwykły problem podróżny.

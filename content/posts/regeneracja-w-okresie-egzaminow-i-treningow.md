@@ -3,7 +3,6 @@ title: "Regeneracja w okresie egzaminów i treningów"
 excerpt: "Połączenie nauki z regularnym treningiem wymaga planu snu, jedzenia i odpoczynku, a nie kolejnej mieszanki pobudzającej. Poznaj praktyczne wsparcie dla układu nerwowego."
 date: "2025-09-19"
 category: "Uspokajające"
-emoji: "📚"
 ---
 
 Sesja egzaminacyjna potrafi skurczyć sen, przesunąć posiłki i zamienić trening w kolejne zadanie do odhaczenia. Gorsza koncentracja i ciężkie nogi nie muszą oznaczać braku motywacji. Często są sygnałem, że organizm nie ma czasu na odbudowę po wysiłku i nauce.

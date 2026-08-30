@@ -3,7 +3,6 @@ title: "Trekking górski i adaptacja do wysokości"
 excerpt: "Wysokość wymaga wolnego tempa i obserwacji objawów, a nie ziołowego skrótu. Dowiedz się, jak planować wejście, płyny i odpoczynek."
 date: "2025-07-15"
 category: "Poradniki"
-emoji: "🏔️"
 ---
 
 Trekking na większej wysokości obciąża układ oddechowy, krążenia i termoregulację. Zmiana wysokości, zimno, słońce i ciężki plecak mogą dawać ból głowy oraz nudności, które łatwo pomylić ze zwykłym zmęczeniem. Zioła nie przyspieszają bezpiecznie aklimatyzacji.

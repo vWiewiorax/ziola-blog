@@ -3,7 +3,6 @@ title: "Arbuz i cytrulina po wysiłku"
 excerpt: "Arbuz dostarcza płynu i węglowodanów, a cytrulina jest składnikiem aminokwasowym, nie ziołowym lekiem. Poznaj rozsądne zastosowanie po treningu."
 date: "2025-08-18"
 category: "Poradniki"
-emoji: "🍉"
 ---
 
 Arbuz po wysiłku może być lekkim źródłem płynu i węglowodanów, zwłaszcza gdy apetyt jest mały. Zawiera także cytrulinę, ale ilość w pojedynczej porcji zależy od odmiany i masy owocu. Nie należy obiecywać, że kilka kawałków zastąpi plan nawodnienia, elektrolity albo suplement o określonej zawartości.

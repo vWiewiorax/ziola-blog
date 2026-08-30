@@ -3,7 +3,6 @@ title: "Mleczko pszczele a regeneracja"
 excerpt: "Mleczko pszczele jest produktem pszczelim, nie potwierdzonym skrótem do szybszej regeneracji. Poznaj ryzyko alergii, zasady jakości i bezpieczne podejście."
 date: "2025-08-15"
 category: "Adaptogeny"
-emoji: "🐝"
 ---
 
 Mleczko pszczele jest wydzieliną pszczół robotnic, używaną do karmienia larw i matki. W suplementach sportowych bywa przedstawiane jako produkt na energię, odporność lub odnowę po wysiłku. Takie hasła nie powinny zastępować oceny diety, snu, obciążenia i przyczyny przewlekłego zmęczenia. Nie ma podstaw, by traktować mleczko jako pewny środek zwiększający wydolność.

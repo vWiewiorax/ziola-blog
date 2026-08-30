@@ -3,7 +3,6 @@ title: "Zakwasy i ból mięśni po treningu"
 excerpt: "Co naprawdę dzieje się z mięśniami po wysiłku i jak bezpiecznie wspierać regenerację. Praktyczny plan z naparami, ruchem i odpoczynkiem."
 date: "2025-05-01"
 category: "Przeciwzapalne"
-emoji: "💪"
 ---
 
 Ból mięśni pojawiający się następnego dnia po treningu najczęściej jest opóźnioną bolesnością mięśniową, nazywaną DOMS. Powstaje po obciążeniu, do którego tkanki nie są jeszcze przyzwyczajone, szczególnie po ruchu ekscentrycznym, zbieganiu ze schodów, przysiadach i nowych ćwiczeniach. Kwas mlekowy nie pozostaje w mięśniach przez kilka dni, więc popularne określenie „zakwasy” jest skrótem, a nie dokładnym opisem mechanizmu.

@@ -3,7 +3,6 @@ title: "Trening po pracy biurowej: sztywność i rozgrzewka"
 excerpt: "Wiele godzin siedzenia zmienia odczuwanie ruchu, ale nie musi kończyć się bólem po treningu. Poznaj prostą rozgrzewkę i bezpieczne wsparcie."
 date: "2025-06-29"
 category: "Poradniki"
-emoji: "💻"
 ---
 
 Po dniu przy biurku ciało może być sztywne, a pierwsze kroki na siłowni nieprzyjemne. Długie siedzenie nie oznacza jednak, że mięśnie są „zatrute”. Problemem bywają bezruch, stres, źle dobrane obciążenie i nagłe przejście od ekranu do intensywnego wysiłku.

@@ -3,7 +3,6 @@ title: "Trema startowa: zioła uspokajające dla sportowca"
 excerpt: "Jak oswoić napięcie przed zawodami bez ryzykowania senności, odwodnienia i nieznanej reakcji na nowy preparat."
 date: "2025-06-18"
 category: "Uspokajające"
-emoji: "🎽"
 ---
 
 Napięcie przed startem jest częścią reakcji organizmu na ważne wydarzenie. Przyspieszone tętno, suchość w ustach, częstsze wizyty w toalecie i trudność z koncentracją nie muszą oznaczać choroby. Problem zaczyna się wtedy, gdy lęk uniemożliwia sen, jedzenie albo bezpieczne wykonanie rozgrzewki.

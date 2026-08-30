@@ -3,7 +3,6 @@ title: "Sztywność po długiej jeździe samochodem na zawody"
 excerpt: "Wielogodzinna podróż może ograniczyć ruchomość bioder i pleców jeszcze przed startem. Poznaj plan przerw, krótką mobilizację i łagodne wsparcie ziołowe bez obietnicy szybszej regeneracji."
 date: "2025-08-26"
 category: "Poradniki"
-emoji: "🚗"
 ---
 
 Sztywność po podróży na zawody zwykle wiąże się z długim siedzeniem, małą liczbą przerw, napięciem związanym z logistyką i odwodnieniem. Nie oznacza automatycznie kontuzji, lecz nie warto rozgrzewać jej agresywnym rozciąganiem tuż przed startem. Najpierw przywróć spokojny ruch i oceń objawy.

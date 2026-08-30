@@ -3,7 +3,6 @@ title: "Czarnuszka siewna a wysiłek i oddech"
 excerpt: "Czarnuszka może być przyprawą lub składnikiem oleju i kapsułek. Sprawdź, co można rozsądnie uznać za wsparcie oddychania, a czego nie obiecywać."
 date: "2025-06-03"
 category: "Odporność"
-emoji: "⚫"
 ---
 
 Czarnuszka siewna jest znana przede wszystkim jako przyprawa o ostrym, korzennym smaku. Osoby trenujące kupują także olej i kapsułki, licząc na wsparcie odporności, alergii albo oddychania podczas wysiłku. Taki preparat może być elementem diety, ale nie otwiera dróg oddechowych w sposób porównywalny z leczeniem astmy.

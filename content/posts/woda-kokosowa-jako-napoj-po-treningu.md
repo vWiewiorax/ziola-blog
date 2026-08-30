@@ -3,7 +3,6 @@ title: "Woda kokosowa jako napój po treningu"
 excerpt: "Woda kokosowa może być smacznym napojem po umiarkowanym wysiłku, ale nie pasuje do każdego planu nawodnienia. Sprawdź skład, porcję i ograniczenia."
 date: "2025-08-19"
 category: "Poradniki"
-emoji: "🥥"
 ---
 
 Woda kokosowa jest płynem z młodego kokosa, a nie naparem ziołowym. Dostarcza wody, cukrów i elektrolitów, lecz ich ilość różni się między markami. Po treningu może uzupełnić posiłek, ale nie jest automatycznie lepsza od zwykłej wody ani pełnego napoju sportowego.

@@ -3,7 +3,6 @@ title: "Pękające naczynka a intensywny wysiłek"
 excerpt: "Drobne pajączki i czerwone punkty po wysiłku mogą mieć różne przyczyny i nie zawsze wynikają z samego treningu. Sprawdź, jak odróżnić kosmetyczny problem od sygnałów wymagających konsultacji."
 date: "2025-09-06"
 category: "Serce i krążenie"
-emoji: "🩸"
 ---
 
 Po intensywnym wysiłku twarz może się zaczerwienić, a na skórze mogą stać się widoczne drobne naczynka. Pojedyncze punkty bywają skutkiem tarcia, ciepła lub indywidualnej budowy skóry, ale łatwe siniaczenie i liczne wybroczyny wymagają ostrożności. Zioła nie wzmacniają automatycznie ścian naczyń.

@@ -3,7 +3,6 @@ title: "Kąpiel z solą i ziołami po ciężkim treningu"
 excerpt: "Kąpiel może być przyjemnym elementem wyciszenia po wysiłku, ale temperatura, czas i stan skóry decydują o bezpieczeństwie."
 date: "2025-07-02"
 category: "Poradniki"
-emoji: "🛁"
 ---
 
 Kąpiel po treningu bywa kojarzona z rozluźnieniem mięśni i szybszym powrotem do formy. W praktyce najwięcej daje odpoczynek, uzupełnienie płynów, posiłek i sen. Sól oraz zioła mogą zmienić zapach wody i poprawić komfort skóry, ale nie usuwają urazu, odwodnienia ani opóźnionej bolesności mięśni.

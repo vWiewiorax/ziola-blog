@@ -3,7 +3,6 @@ title: "Sportowa apteczka ziołowa na wyjazd"
 excerpt: "Zioła na wyjazd sportowy powinny być proste, opisane i traktowane jako dodatek do podstawowej apteczki. Sprawdź, co spakować i czego nie używać na ślepo."
 date: "2025-05-03"
 category: "Poradniki"
-emoji: "🎒"
 ---
 
 Sportowa apteczka na wyjazd nie powinna składać się wyłącznie z maści, olejków i saszetek z ziołami. Najpierw potrzebne są plastry, opatrunki, środek do oczyszczania skóry, leki przyjmowane stale oraz dane kontaktowe do lekarza. Preparaty roślinne mogą być dodatkiem do pielęgnacji, ale nie zastępują pomocy po poważnym urazie.

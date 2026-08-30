@@ -3,7 +3,6 @@ title: "Ciężkie łydki po długim biegu"
 excerpt: "Uczucie ciężkości łydek po biegu może wynikać z obciążenia, nawodnienia lub problemu naczyniowego. Sprawdź łagodne postępowanie i sygnały alarmowe."
 date: "2025-08-11"
 category: "Serce i krążenie"
-emoji: "🦵"
 ---
 
 Ciężkie łydki po długim biegu są częstym opisem zmęczenia, ale samo określenie nie wskazuje przyczyny. Obie nogi mogą być sztywne po zwiększeniu kilometrażu, upale lub podbiegach. Jednostronny obrzęk, ból przy chodzeniu, zaczerwienienie i wyraźne ocieplenie wymagają innego podejścia niż zwykła męczliwość.

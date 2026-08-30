@@ -3,7 +3,6 @@ title: "Sauna i morsowanie a regeneracja"
 excerpt: "Ciepło i zimno mogą być dla organizmu dodatkowym obciążeniem. Sprawdź, jak planować saunę i morsowanie po treningu oraz gdzie zioła mają ograniczone znaczenie."
 date: "2025-05-06"
 category: "Poradniki"
-emoji: "🧖"
 ---
 
 Sauna i morsowanie są popularnymi rytuałami po wysiłku, ale nie są obowiązkowym elementem regeneracji. Zarówno wysoka temperatura, jak i zimna woda zmieniają pracę naczyń, oddech i obciążenie układu krążenia. Po ciężkim treningu, odwodnieniu albo infekcji organizm może zareagować gorzej niż zwykle.

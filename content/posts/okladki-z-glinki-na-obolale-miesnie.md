@@ -3,7 +3,6 @@ title: "Okładki z glinki na obolałe mięśnie"
 excerpt: "Glinka może być chłodnym dodatkiem do pielęgnacji po wysiłku, ale nie rozpoznaje ani nie leczy urazu. Poznaj bezpieczny sposób przygotowania okładu."
 date: "2025-08-10"
 category: "Przeciwzapalne"
-emoji: "🪨"
 ---
 
 Obolałe mięśnie po nietypowym wysiłku często reagują na odpoczynek, łagodny ruch i zmianę temperatury. Okład z glinki bywa przyjemny, ponieważ tworzy wilgotną warstwę chłodzącą skórę. Nie należy jednak przypisywać mu usuwania stanu zapalnego w głębokich tkankach ani traktować go jako leczenia naderwania.

@@ -3,7 +3,6 @@ title: "Odwodnienie w sporcie: objawy i pierwsza pomoc"
 excerpt: "Odwodnienie może szybko pogorszyć bezpieczeństwo wysiłku. Poznaj objawy, zasady przerwania treningu i sytuacje, w których zioła są niewłaściwym rozwiązaniem."
 date: "2025-07-19"
 category: "Poradniki"
-emoji: "💧"
 ---
 
 Utrata płynów podczas sportu zależy od temperatury, potliwości, ubrania, czasu trwania sesji i intensywności. Suchość w ustach to tylko jeden z sygnałów. Zawroty głowy, osłabienie, zaburzenia koncentracji i nietypowo szybki puls mogą oznaczać stan wymagający natychmiastowego przerwania wysiłku.

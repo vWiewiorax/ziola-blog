@@ -3,7 +3,6 @@ title: "Grzybica stóp u sportowców: zioła pomocnicze"
 excerpt: "Świąd i łuszczenie między palcami wymagają higieny oraz właściwego leczenia, nie tylko kąpieli ziołowej. Sprawdź, jak ograniczyć wilgoć i nie rozsiewać infekcji."
 date: "2025-05-05"
 category: "Skóra i włosy"
-emoji: "🦶"
 ---
 
 Grzybica stóp często pojawia się u osób korzystających z szatni, basenów i wspólnych pryszniców. Sprzyjają jej wilgotne skarpety, ciasne obuwie oraz pozostawianie skóry długo bez osuszenia. Świąd, łuszczenie, pękanie między palcami i nieprzyjemny zapach mogą jednak mieć także inne przyczyny.

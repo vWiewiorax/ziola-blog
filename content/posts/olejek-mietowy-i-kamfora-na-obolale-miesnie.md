@@ -3,7 +3,6 @@ title: "Olejek miętowy i kamfora na obolałe mięśnie"
 excerpt: "Chłodzące i rozgrzewające preparaty po wysiłku mogą poprawić komfort, ale nie leczą urazu. Sprawdź bezpieczne stężenia, sposób aplikacji i przeciwwskazania."
 date: "2025-06-25"
 category: "Przeciwzapalne"
-emoji: "🧴"
 ---
 
 Obolałe mięśnie po treningu kuszą, żeby sięgnąć po coś, co natychmiast chłodzi albo rozgrzewa skórę. Olejek miętowy i kamfora zmieniają odczuwanie bodźców w zakończeniach nerwowych, dlatego preparat może dać wrażenie ulgi. Nie oznacza to jednak, że naprawia naderwanie, skręcenie albo stan zapalny głębiej położonej tkanki.

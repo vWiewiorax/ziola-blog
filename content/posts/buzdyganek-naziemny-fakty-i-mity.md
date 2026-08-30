@@ -3,7 +3,6 @@ title: "Buzdyganek naziemny: fakty i mity"
 excerpt: "Buzdyganek bywa reklamowany jako środek na testosteron i masę mięśniową. Oddziel marketing od danych i poznaj ryzyko suplementów dla sportowców."
 date: "2025-06-02"
 category: "Adaptogeny"
-emoji: "🌿"
 ---
 
 Buzdyganek naziemny jest jednym z najczęściej reklamowanych składników suplementów dla osób ćwiczących siłowo. Obietnice dotyczą testosteronu, przyrostu mięśni, libido i sprawności. Takie hasła brzmią atrakcyjnie, ale nie powinny zastępować rzetelnej oceny składu, treningu i zdrowia.

@@ -3,7 +3,6 @@ title: "Zmęczenie ud po dniu na nartach"
 excerpt: "Zjazdy mocno obciążają uda przez długie napięcie mięśni. Sprawdź, jak odróżnić zwykłe zmęczenie od urazu i zaplanować bezpieczny wieczór."
 date: "2025-07-14"
 category: "Poradniki"
-emoji: "⛷️"
 ---
 
 Po całym dniu na nartach uda mogą być ciężkie, drżeć przy schodach i boleć przy siadaniu. Wynika to z pracy ekscentrycznej, pozycji ugiętych kolan oraz wielu powtórzeń hamowania. Zwykłe zmęczenie powinno jednak stopniowo ustępować po odpoczynku i nie powodować utraty siły.

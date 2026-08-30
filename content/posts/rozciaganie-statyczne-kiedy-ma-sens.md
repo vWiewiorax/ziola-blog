@@ -3,7 +3,6 @@ title: "Rozciąganie statyczne: kiedy ma sens"
 excerpt: "Rozciąganie statyczne może być użyteczne w wybranym momencie, ale nie zastąpi rozgrzewki ani rehabilitacji. Poznaj bezpieczny czas, intensywność i ziołowy rytuał po treningu."
 date: "2025-09-29"
 category: "Poradniki"
-emoji: "🧘"
 ---
 
 Rozciąganie statyczne polega na spokojnym utrzymaniu pozycji bez sprężynowania. Jego sens zależy od celu: wyciszenia po treningu, pracy nad zakresem ruchu albo elementu rehabilitacji. Nie każdy spadek napięcia oznacza trwałą poprawę ruchomości.

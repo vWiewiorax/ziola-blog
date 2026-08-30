@@ -3,7 +3,6 @@ title: "Młody jęczmień i trawa pszeniczna w diecie sportowca"
 excerpt: "Zielone proszki nie zastępują warzyw, posiłku ani nawodnienia. Sprawdź, jak rozsądnie ocenić młody jęczmień i trawę pszeniczną przy aktywności fizycznej."
 date: "2025-05-26"
 category: "Oczyszczające"
-emoji: "🌾"
 ---
 
 Młody jęczmień i trawa pszeniczna są sprzedawane jako sproszkowane zielone dodatki do koktajli. Sportowcy sięgają po nie zwykle z myślą o witaminach, chlorofilu, minerałach albo łatwym sposobie na zwiększenie ilości roślin w diecie. Zielony kolor nie oznacza jednak, że produkt uzupełni każdy niedobór.

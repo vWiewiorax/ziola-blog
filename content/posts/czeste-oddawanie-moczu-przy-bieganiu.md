@@ -3,7 +3,6 @@ title: "Częste oddawanie moczu przy bieganiu"
 excerpt: "Częste wizyty w toalecie przed lub podczas biegu mogą wynikać z napojów, lęku startowego i zimna, ale czasem sygnalizują zakażenie lub chorobę. Zioła moczopędne nie są rozwiązaniem."
 date: "2025-07-29"
 category: "Oczyszczające"
-emoji: "🏃"
 ---
 
 Częste oddawanie moczu przy bieganiu bywa kłopotliwe podczas zawodów, zwłaszcza gdy sportowiec pije dużo tuż przed startem. Kofeina, napięcie, chłód i podskoki mogą zwiększać parcie, ale pieczenie, ból podbrzusza, krew w moczu lub gorączka wymagają innego postępowania. Sama częstotliwość nie pozwala rozpoznać przyczyny.

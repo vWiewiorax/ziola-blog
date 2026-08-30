@@ -3,7 +3,6 @@ title: "Nastrój w okresie kontuzji: wsparcie ziołowe"
 excerpt: "Przerwa od sportu może odbierać rutynę, kontakt z grupą i poczucie sprawczości. Zioła nie leczą depresji, a przed ich użyciem trzeba sprawdzić ryzyko interakcji."
 date: "2025-08-08"
 category: "Uspokajające"
-emoji: "🌿"
 ---
 
 Nastrój w okresie kontuzji może pogorszyć się nawet wtedy, gdy uraz nie zagraża zdrowiu. Sportowiec traci plan, wspólne treningi i szybki sygnał postępu, a ból utrudnia sen. Smutek po przerwie jest zrozumiały, lecz długotrwałe wycofanie, beznadzieja lub myśli samobójcze wymagają pomocy, nie suplementu.

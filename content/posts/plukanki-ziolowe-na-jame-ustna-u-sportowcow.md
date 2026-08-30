@@ -3,7 +3,6 @@ title: "Płukanki ziołowe na jamę ustną u sportowców"
 excerpt: "Suchość ust, oddychanie przez usta i napoje treningowe zmieniają komfort jamy ustnej. Poznaj bezpieczne zasady płukania bez zastępowania higieny dentystycznej."
 date: "2025-07-21"
 category: "Odporność"
-emoji: "🦷"
 ---
 
 Sportowiec może odczuwać suchość ust po długim wysiłku, szczególnie przy oddychaniu przez usta, upale i częstym używaniu słodkich żeli. To sprzyja nieprzyjemnemu oddechowi i podrażnieniu, ale płukanka nie zastępuje szczotkowania, fluoru ani kontroli stomatologicznej.

@@ -3,7 +3,6 @@ title: "Zmęczenie nadnerczy: mit i fakty u trenujących"
 excerpt: "Termin zmęczenie nadnerczy nie opisuje uznanego rozpoznania. Sprawdź, skąd może wynikać wyczerpanie po treningu i gdzie ostrożnie rozważać zioła."
 date: "2025-09-24"
 category: "Adaptogeny"
-emoji: "🔎"
 ---
 
 „Zmęczenie nadnerczy” jest popularnym określeniem dla przewlekłego zmęczenia, problemów ze snem, mgły poznawczej i gorszej tolerancji wysiłku. Nie jest ono jednak uznanym rozpoznaniem, które można potwierdzić jednym testem z internetu. Nadnercza produkują hormony, a ich rzeczywiste choroby wymagają diagnostyki lekarskiej.

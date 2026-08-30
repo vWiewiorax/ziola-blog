@@ -3,7 +3,6 @@ title: "Spirulina i chlorella u osób trenujących"
 excerpt: "Spirulina i chlorella nie są uniwersalnym detoksem ani zamiennikiem pełnowartościowego posiłku. Poznaj ich ograniczenia, jakość i zasady ostrożnego stosowania."
 date: "2025-05-13"
 category: "Oczyszczające"
-emoji: "🟢"
 ---
 
 Spirulina i chlorella są popularne wśród osób trenujących, które szukają prostego dodatku do koktajlu. Zielony kolor nie oznacza jednak, że preparat oczyści organizm z nieokreślonych „toksyn” albo zastąpi warzywa, białko i energię. Wysiłek nie tworzy też specjalnej potrzeby przyjmowania alg u każdego sportowca.

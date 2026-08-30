@@ -3,7 +3,6 @@ title: "Rower stacjonarny w domu a regeneracja"
 excerpt: "Rower stacjonarny może być łagodną alternatywą dla biegu, ale nie każda sesja jest regeneracyjna. Sprawdź ustawienie, intensywność, sygnały przeciążenia i pomocniczy napar ziołowy."
 date: "2025-08-28"
 category: "Poradniki"
-emoji: "🚴"
 ---
 
 Jazda na rowerze stacjonarnym bywa używana w dni lżejsze, podczas powrotu po przerwie albo gdy bieganie obciąża stawy. Sam fakt siedzenia na rowerze nie czyni treningu regeneracyjnym. O charakterze sesji decydują czas, opór, kadencja, sen i reakcja organizmu.

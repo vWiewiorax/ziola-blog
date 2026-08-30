@@ -3,7 +3,6 @@ title: "Zioła moczopędne a sport: czego unikać"
 excerpt: "Zioła moczopędne mogą zwiększać utratę płynów i elektrolitów, szczególnie podczas wysiłku. Sprawdź, dlaczego nie służą do szybkiego „oczyszczania” ani zbijania masy."
 date: "2025-05-10"
 category: "Oczyszczające"
-emoji: "🚰"
 ---
 
 Zioła moczopędne są czasem reklamowane sportowcom jako sposób na „oczyszczanie”, zmniejszenie obrzęku lub szybkie zbijanie masy. W praktyce zwiększenie ilości moczu nie oznacza usunięcia toksyn ani poprawy wydolności. Podczas wysiłku może natomiast pogłębić odwodnienie i utratę elektrolitów.

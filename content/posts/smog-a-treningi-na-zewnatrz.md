@@ -3,7 +3,6 @@ title: "Smog a treningi na zewnątrz"
 excerpt: "Zanieczyszczone powietrze zwiększa obciążenie dróg oddechowych podczas wysiłku. Sprawdź, kiedy skrócić trening i dlaczego zioła nie filtrują smogu."
 date: "2025-06-28"
 category: "Odporność"
-emoji: "🌫️"
 ---
 
 Podczas wysiłku oddychasz szybciej i głębiej, więc do dróg oddechowych trafia więcej powietrza niż w spoczynku. Gdy jest ono zanieczyszczone pyłem lub drażniącymi gazami, może pojawić się kaszel, pieczenie gardła, ból głowy, duszność albo spadek tolerancji tempa.

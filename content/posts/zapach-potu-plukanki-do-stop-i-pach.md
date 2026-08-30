@@ -3,7 +3,6 @@ title: "Zapach potu i płukanki do stóp oraz pach"
 excerpt: "Zapach po treningu wynika z działania bakterii na składniki potu, a nie z braku silnego kosmetyku. Sprawdź higienę, pranie odzieży i ostrożne miejsce dla płukanek."
 date: "2025-09-13"
 category: "Skóra i włosy"
-emoji: "🧼"
 ---
 
 Po intensywnym treningu zapach potu może pojawić się na stopach, w pachach, w obuwiu i na odzieży. Nie oznacza automatycznie choroby ani „zatrucia toksynami”. Ważniejsze od maskowania woni jest ustalenie, czy problem dotyczy wilgoci, ocierania, zakażenia, zmiany kosmetyku albo nadmiernej potliwości.

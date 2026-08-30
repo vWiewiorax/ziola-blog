@@ -3,7 +3,6 @@ title: "Joga i oddech jako forma regeneracji"
 excerpt: "Spokojna praktyka może uzupełniać odpoczynek po wysiłku, jeśli nie zamienia się w kolejną intensywną sesję. Poznaj prosty plan ruchu i naparu."
 date: "2025-07-17"
 category: "Uspokajające"
-emoji: "🧘"
 ---
 
 Joga po ciężkim treningu może oznaczać łagodne pozycje, spokojny oddech i uwagę skierowaną na ciało. Nie każda praktyka jest regeneracyjna. Długie utrzymywanie skrajnych zakresów, mocne skręty i gorąca sala mogą zwiększyć obciążenie.

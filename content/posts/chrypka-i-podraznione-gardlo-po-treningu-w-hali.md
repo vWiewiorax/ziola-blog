@@ -3,7 +3,6 @@ title: "Chrypka i podrażnione gardło po treningu w hali"
 excerpt: "Suche powietrze, kurz i oddychanie przez usta mogą podrażniać gardło po treningu w hali. Sprawdź proste działania oraz bezpieczny napar z prawoślazu."
 date: "2025-05-17"
 category: "Odporność"
-emoji: "🗣️"
 ---
 
 Chrypka po treningu w hali może wynikać z suchego powietrza, kurzu, intensywnego mówienia, krzyku albo oddychania przez usta. Nie zawsze oznacza infekcję, ale nie powinno się jej automatycznie przykrywać silnym środkiem ziołowym. Gorączka, ból przy przełykaniu i rozbicie zmieniają ocenę sytuacji.

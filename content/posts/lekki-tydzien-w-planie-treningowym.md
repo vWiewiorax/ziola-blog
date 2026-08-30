@@ -3,7 +3,6 @@ title: "Lekki tydzień w planie treningowym"
 excerpt: "Tydzień z mniejszym obciążeniem nie jest stratą formy, lecz sposobem na sprawdzenie, jak organizm reaguje na odpoczynek. Zobacz, jak zaplanować deload i rozsądne wsparcie ziołowe."
 date: "2025-09-27"
 category: "Poradniki"
-emoji: "🗓️"
 ---
 
 Lekki tydzień, nazywany czasem deloadem, polega na zaplanowanym zmniejszeniu obciążenia, a nie na całkowitym porzuceniu ruchu. Jego zakres zależy od dyscypliny, stażu, snu i sygnałów zmęczenia. Nie ma jednej liczby dni ani jednej proporcji, która pasowałaby każdej osobie.

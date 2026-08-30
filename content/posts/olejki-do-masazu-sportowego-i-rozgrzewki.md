@@ -3,7 +3,6 @@ title: "Olejki do masażu sportowego i rozgrzewki"
 excerpt: "Jak bezpiecznie używać olejków eterycznych przed i po treningu, czym rozcieńczać je do masażu oraz kiedy zrezygnować z aplikacji."
 date: "2025-11-12"
 category: "Skóra i włosy"
-emoji: "💆"
 ---
 
 Masaż przed wysiłkiem ma przygotować skórę i mięśnie do ruchu, ale sam olejek nie zastąpi rozgrzewki. Pocieranie może chwilowo zwiększyć komfort, a zapach mięty lub rozmarynu ułatwia skupienie. Nie oznacza to jednak, że preparat podnosi temperaturę tkanek na tyle, by można było pominąć marsz, trucht i ruchy w stawach.

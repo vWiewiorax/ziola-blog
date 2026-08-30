@@ -3,7 +3,6 @@ title: "Kości i aktywność fizyczna po menopauzie"
 excerpt: "Po menopauzie trening obciążeniowy wspiera sprawność, ale wymaga stopniowania i oceny ryzyka złamań. Zioła są jedynie dodatkiem do żywienia i kontroli."
 date: "2025-07-22"
 category: "Kobieta"
-emoji: "🦴"
 ---
 
 Aktywność po menopauzie może poprawiać siłę, równowagę i pewność ruchu. Kości reagują na obciążenie, lecz proces jest stopniowy. Ból pleców, utrata wzrostu albo złamanie po małym urazie nie powinny być przykrywane naparem.

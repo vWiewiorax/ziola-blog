@@ -3,7 +3,6 @@ title: "Wzdęcia przy diecie wysokobiałkowej"
 excerpt: "Wzdęcia po odżywce białkowej, dużych porcjach nabiału lub strączków mogą utrudniać trening i sen. Zobacz, jak prowadzić próbę eliminacji oraz gdzie kończy się rola naparu."
 date: "2025-07-27"
 category: "Trawienie"
-emoji: "🥛"
 ---
 
 Wzdęcia przy diecie wysokobiałkowej często pojawiają się wtedy, gdy sportowiec gwałtownie zwiększa porcje, zaczyna używać kilku odżywek albo je szybko między treningami. Przyczyną może być laktoza, słodziki, duża ilość błonnika, połykanie powietrza lub zwykłe przeciążenie przewodu pokarmowego. Samo słowo „białko” nie wskazuje jeszcze winowajcy.

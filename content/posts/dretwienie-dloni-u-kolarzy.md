@@ -3,7 +3,6 @@ title: "Drętwienie dłoni u kolarzy"
 excerpt: "Drętwienie palców podczas jazdy zwykle wymaga oceny ustawienia kierownicy, chwytu i przerw. Ziołowe okłady mogą wspierać pielęgnację skóry, ale nie zastępują badania nerwów ani naczyń."
 date: "2025-05-31"
 category: "Przeciwzapalne"
-emoji: "🚲"
 ---
 
 Drętwienie dłoni u kolarza może pojawić się po długiej trasie, jeździe po nierównej nawierzchni albo treningu z mocno zaciśniętymi palcami. Często znaczenie ma ucisk na nerwy w okolicy nadgarstka, ale podobny objaw może towarzyszyć urazowi, problemom z krążeniem lub chorobie neurologicznej. Sam fakt, że mija po zejściu z roweru, nie wyjaśnia przyczyny.

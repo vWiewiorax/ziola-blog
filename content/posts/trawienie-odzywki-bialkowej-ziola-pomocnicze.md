@@ -3,7 +3,6 @@ title: "Trawienie odżywki białkowej: zioła pomocnicze"
 excerpt: "Wzdęcia i biegunka po odżywce białkowej często wynikają ze składu, porcji lub zbyt szybkiego picia. Sprawdź, jak testować produkt i ostrożnie wykorzystać ziołowe napary."
 date: "2025-05-02"
 category: "Trawienie"
-emoji: "🥛"
 ---
 
 Odżywka białkowa może ułatwiać uzupełnienie jadłospisu, ale nie jest konieczna dla każdej osoby trenującej. Wzdęcia, przelewanie, ból brzucha albo biegunka po koktajlu mogą wynikać z laktozy, słodzików, dużej porcji, alergii lub wypicia napoju podczas bardzo intensywnego wysiłku.

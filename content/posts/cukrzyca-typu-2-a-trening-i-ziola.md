@@ -3,7 +3,6 @@ title: "Cukrzyca typu 2 a trening i zioła"
 excerpt: "Aktywność fizyczna może wspierać kontrolę cukrzycy typu 2, lecz wymaga planu pomiarów, jedzenia i leków. Zioła nie zastępują insuliny ani zaleceń diabetologa."
 date: "2025-09-22"
 category: "Poradniki"
-emoji: "📈"
 ---
 
 Trening przy cukrzycy typu 2 może poprawiać sprawność i pomagać w codziennym zarządzaniu chorobą, ale nie jest prostym zamiennikiem leczenia. Reakcja glikemii zależy od rodzaju wysiłku, pory, posiłku, leków i aktualnego stanu zdrowia. Zioła nie regulują bezpiecznie cukru na żądanie.

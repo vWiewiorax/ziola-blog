@@ -3,7 +3,6 @@ title: "Świąd i pokrzywka po wysiłku"
 excerpt: "Swędzące bąble po rozgrzewce mogą wynikać z przegrzania, potu, ucisku odzieży albo reakcji alergicznej. Ziołowa pielęgnacja skóry jest dodatkiem i nie zastępuje oceny przy duszności."
 date: "2025-08-02"
 category: "Skóra i włosy"
-emoji: "🌡️"
 ---
 
 Świąd i pokrzywka po wysiłku mogą pojawić się podczas biegu, kąpieli w ciepłej wodzie, treningu na hali lub po kontakcie z nowym detergentem. Drobne bąble znikające po ochłodzeniu bywają związane ze wzrostem temperatury ciała, ale podobnie może wyglądać reakcja na pokarm, lek albo użądlenie. Nie rozpoznawaj przyczyny wyłącznie po zdjęciu wysypki.

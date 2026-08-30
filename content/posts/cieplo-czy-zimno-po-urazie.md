@@ -3,7 +3,6 @@ title: "Ciepło czy zimno po urazie"
 excerpt: "Wybór temperatury po urazie zależy od objawów i czasu zdarzenia. Poznaj ostrożne zastosowanie kompresu oraz sytuacje, w których potrzebne jest badanie."
 date: "2025-08-21"
 category: "Przeciwzapalne"
-emoji: "❄️"
 ---
 
 Ciepło i zimno mogą zmieniać odczuwanie bólu oraz napięcia skóry, ale nie naprawiają zerwanego więzadła, złamania ani zakażenia. Po urazie najważniejsze jest rozpoznanie mechanizmu, ocena funkcji i zabezpieczenie miejsca. Kompres nie powinien być sposobem na szybki powrót do ćwiczeń mimo bólu.

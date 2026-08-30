@@ -3,7 +3,6 @@ title: "Sporty walki: regeneracja po sparingu"
 excerpt: "Po sparingu ważniejsze od kolejnego suplementu są ocena urazu, sen i stopniowe obciążenie. Sprawdź, jak zaplanować pierwsze 48 godzin i kiedy przerwać trening."
 date: "2025-07-12"
 category: "Przeciwzapalne"
-emoji: "🥊"
 ---
 
 Sparing obciąża nie tylko mięśnie, ale też stawy, skórę, układ nerwowy i uwagę. Zawodnik może nie zauważyć małego urazu, bo adrenalina opóźnia ocenę bólu. Regeneracja zaczyna się od sprawdzenia, czy po treningu nie ma objawów wymagających pomocy.

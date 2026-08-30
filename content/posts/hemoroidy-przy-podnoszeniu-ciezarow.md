@@ -3,7 +3,6 @@ title: "Hemoroidy przy podnoszeniu ciężarów"
 excerpt: "Nacisk i wstrzymywanie oddechu mogą nasilać objawy hemoroidów. Sprawdź technikę, higienę i bezpieczne wsparcie miejscowe."
 date: "2025-06-19"
 category: "Serce i krążenie"
-emoji: "🏋️"
 ---
 
 Hemoroidy są strukturami naczyniowymi kanału odbytu, a ich objawy mogą obejmować świąd, pieczenie, ból i krwawienie. U osób podnoszących ciężary problem może nasilać się przy parciu, zaparciu, długim siedzeniu i błędnej technice oddechu.
