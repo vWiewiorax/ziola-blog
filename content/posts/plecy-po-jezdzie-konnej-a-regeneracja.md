@@ -17,7 +17,7 @@ Sprawdź, czy możesz swobodnie usiąść, wstać i obrócić się bez blokowani
 
 ## Wiązówka w napoju
 
-Kwiatostany wiązówki błotnej (*Filipendula ulmaria*) można przygotować jako łagodny napar do wypicia po lekkiej sesji. Zalej 1,5 grama suszu 250 ml wody o temperaturze 85 stopni Celsjusza, pozostaw na 7 minut i wypij jedną porcję po ostudzeniu. To nie jest lek przeciwbólowy ani środek na uraz kręgosłupa.
+Kwiatostany wiązówki błotnej (*Filipendula ulmaria*) można przygotować jako łagodny napar do wypicia po lekkiej sesji. Po treningu odważ 1,5 grama suszu i zaparz go w 250 ml wody o temperaturze 85 stopni Celsjusza przez 7 minut pod przykryciem. Przecedź napój przed wypiciem. To nie jest lek przeciwbólowy ani środek na uraz kręgosłupa.
 
 Nie stosuj wiązówki przy alergii na salicylany, chorobie wrzodowej, zaburzeniach krzepnięcia ani bez konsultacji podczas przyjmowania leków przeciwkrzepliwych. Ciąża, karmienie piersią, dzieci oraz choroby nerek wymagają wcześniejszej porady. Nie łącz jej z aspiryną ani innymi preparatami o podobnym profilu.
 

@@ -29,7 +29,7 @@ Przed spakowaniem walizki podejdź do niej blisko, ugnij kolana i obróć się c
 
 ## Mięta jako napój po przebudzeniu
 
-Mięta pieprzowa (*Mentha x piperita*) może urozmaicić poranny napój po podróży, zwłaszcza gdy żołądek reaguje na zmianę pory posiłku. Do kubka wsyp 1 gram liści, dolej 200 ml wody o temperaturze 85 stopni Celsjusza i przecedź po sześciu minutach. Wypij napój po lekkim śniadaniu.
+Mięta pieprzowa (*Mentha x piperita*) może urozmaicić poranny napój po podróży, zwłaszcza gdy żołądek reaguje na zmianę pory posiłku. Odmierz 1 gram liści, zalej je 200 ml wody o temperaturze 85 stopni Celsjusza i po sześciu minutach oddziel napar od suszu. Wypij napój po lekkim śniadaniu.
 
 Mięta nie usuwa mechanicznej przyczyny sztywności i nie zastępuje śniadania ani płynów. Przy refluksie może nasilić pieczenie, zaś przy stałej farmakoterapii wymaga pytania do farmaceuty. Dla kobiety ciężarnej, karmiącej albo dziecka potrzebna jest wcześniejsza zgoda lekarza.
 

@@ -35,7 +35,7 @@ Po ciężkim treningu siłowym bez urazu zacznij od spaceru i posiłku. Ciepło 
 
 ## Rumianek na skórę
 
-Rumianek pospolity (*Matricaria chamomilla*) może wystąpić w chłodnym naparze do przemycia nieuszkodzonej skóry, lecz nie jest sposobem leczenia stawu. Do takiego przemycia odważ 2 gramy kwiatów, wlej 200 ml wody o temperaturze 90 stopni Celsjusza i po 8 minutach odcedź oraz ostudź płyn. Użyj świeżej porcji raz dziennie przez najwyżej dwa dni.
+Rumianek pospolity (*Matricaria chamomilla*) może wystąpić w chłodnym naparze do przemycia nieuszkodzonej skóry, lecz nie jest sposobem leczenia stawu. Zalej 2 gramy kwiatów 200 ml wody o temperaturze 90 stopni Celsjusza, parz 8 minut, a potem odfiltruj i ostudź płyn. Użyj świeżej porcji raz dziennie przez najwyżej dwa dni.
 
 Napar rumiankowy przeznacz wyłącznie do łagodnego przemycia nieuszkodzonej skóry i odrzuć go przy pieczeniu. W ciąży, laktacji oraz przy dziecku najpierw zapytaj lekarza, szczególnie przy alergii na astrowate. Nie traktuj go jako zamiennika opatrunku.
 

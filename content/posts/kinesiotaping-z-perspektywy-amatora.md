@@ -13,7 +13,7 @@ Przed użyciem zastanów się, po co chcesz ją nakleić. Jeśli ma zasłonić n
 
 Umyj skórę wodą, dokładnie wysusz i nie nakładaj wcześniej oleju, balsamu ani żelu. Włosów nie gol tuż przed aplikacją, ponieważ mikrourazy zwiększają ryzyko podrażnienia. Zaokrąglij rogi taśmy nożyczkami, aby zmniejszyć odklejanie przy ubraniu.
 
-Pierwszą próbę wykonaj na małym fragmencie skóry przez kilka godzin. Świąd, pęcherzyki, pieczenie lub wyraźne zaczerwienienie są powodem do natychmiastowego zdjęcia. Nie przyklejaj taśmy na ranę, świeże otarcie, zakażenie, siniak o nieznanej przyczynie ani obszar z zaburzonym czuciem.
+Przyklej krótki odcinek na zdrowej skórze i sprawdź reakcję po kilku godzinach. Świąd, pęcherzyki, pieczenie lub silne zaczerwienienie wymagają natychmiastowego zdjęcia. Omijaj rany, świeże otarcia, zakażenia, niewyjaśnione siniaki i obszary z gorszym czuciem.
 
 ## Naciąg i kierunek
 
@@ -29,7 +29,7 @@ Nie naklejaj nowego kawałka na stare podrażnienie tylko dlatego, że ból wró
 
 ## Aloes do skóry, nie do urazu
 
-Aloes zwyczajny (*Aloe vera*) występuje w żelach stosowanych na skórę, ale nie powinien znajdować się pod taśmą bez sprawdzenia składu. Jeśli chcesz użyć prostego żelu po zdjęciu taśmy, wybierz produkt bez alkoholu i zapachu, nakładając cienką warstwę raz dziennie przez najwyżej dwa dni. Nie stosuj go na ranę bez zaleceń.
+Aloes zwyczajny (*Aloe vera*) występuje w żelach do skóry, lecz nie nakładaj go pod taśmę bez sprawdzenia składu. Po jej zdjęciu możesz rozważyć prosty produkt bez alkoholu i zapachu, cienko raz dziennie przez najwyżej dwa dni. Nie kładź go na ranę ani uszkodzoną tkankę.
 
 Nie pij soku aloesowego jako sposobu na regenerację po treningu. Produkty doustne różnią się składem, a frakcje przeczyszczające mogą wywołać biegunkę i zaburzenia elektrolitowe. Przy ciąży, karmieniu lub dziecku doustny aloes wymaga wcześniejszej oceny lekarza.
 

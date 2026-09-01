@@ -17,7 +17,7 @@ Zwróć uwagę, czy ślady ucisku odpowiadają szwom rękawicy albo zagięciu ma
 
 ## Szałwia do przemywania skóry
 
-Liść szałwii lekarskiej (*Salvia officinalis*) można wykorzystać do krótkiego przemycia nieuszkodzonej skóry po treningu. Odważ 3 gramy suszu i zaparz je w 250 ml wody o temperaturze 90 stopni Celsjusza przez 8 minut. Gdy płyn ostygnie, przyłóż gazik na najwyżej 5 minut, bez pocierania.
+Liść szałwii lekarskiej (*Salvia officinalis*) można wykorzystać do krótkiego przemycia nieuszkodzonej skóry po treningu. Odmierz 3 gramy suszu do dzbanka i zalej je 250 ml wody o temperaturze 90 stopni Celsjusza. Po 8 minutach odcedź płyn, ostudź go i przyłóż gazik na najwyżej 5 minut, bez pocierania.
 
 Nie stosuj naparu na głębokie otarcia, rany ani miejsca z ropną wydzieliną. Przy suchej lub reaktywnej skórze zrób próbę na małym obszarze, a pieczenie potraktuj jako powód do zmycia preparatu. Nie używaj olejku szałwiowego na dłonie przed założeniem rękawic.
 

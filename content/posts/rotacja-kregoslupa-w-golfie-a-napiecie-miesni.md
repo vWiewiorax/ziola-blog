@@ -17,7 +17,7 @@ Zapisz stronę napięcia oraz moment, w którym pojawiło się podczas rundy. B�
 
 ## Imbir w ciepłym napoju
 
-Kłącze imbiru lekarskiego (*Zingiber officinale*) można przygotować jako napój po umiarkowanej aktywności. Świeże kłącze o masie 4 gramów rozdrobnij, umieść w 280 ml wody o temperaturze 90 stopni Celsjusza i przykryj na 10 minut. Zacznij od połowy kubka, ponieważ ostry smak nie każdemu służy po wysiłku.
+Kłącze imbiru lekarskiego (*Zingiber officinale*) można przygotować jako napój po umiarkowanej aktywności. Pokrój 4 gramy świeżego kłącza i zanurz je w 280 ml wody o temperaturze 90 stopni Celsjusza. Po 10 minutach przecedź napój i zacznij od połowy kubka, ponieważ ostry smak nie każdemu służy po wysiłku.
 
 Nie zwiększaj ilości, gdy oczekujesz szybkiego zmniejszenia bólu. Imbir może nasilać zgagę i podrażnienie żołądka, a przy lekach przeciwkrzepliwych wymaga konsultacji. W ciąży, podczas karmienia oraz u dzieci użycie większe niż kulinarne omów z lekarzem.
 

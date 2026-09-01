@@ -31,7 +31,7 @@ Drobne otarcie zabezpiecz czystym opatrunkiem i nie zakładaj od razu ciasnej od
 
 Porost islandzki (*Cetraria islandica*) bywa stosowany w pastylkach lub naparach przy uczuciu suchości gardła po zimnym, mokrym treningu. W kubku zalej 2 gramy suszu 250 ml wody o temperaturze 80 stopni Celsjusza, przykryj naczynie i filtruj napój dopiero po 20 minutach. Pij małymi łykami, najwyżej przez trzy dni.
 
-Porost nie zabezpiecza przed infekcją i nie daje zgody na trening z gorączką. Przy uczuleniu, ciąży, karmieniu piersią albo dziecku zastosowanie omów z lekarzem. W pastylce sprawdź również cukier, substancje słodzące i składniki niepasujące do twojej diety.
+Porost nie zabezpiecza przed infekcją i nie daje zgody na trening z gorączką. Jeśli występuje uczulenie, ciąża, laktacja lub wiek dziecięcy, użycie preparatu ustal z lekarzem. W pastylce sprawdź również cukier, substancje słodzące i składniki niepasujące do twojej diety.
 
 ## Pot, deszcz i odparzenia
 
