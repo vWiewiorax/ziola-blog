@@ -1,6 +1,6 @@
 ---
 title: "Wypalenie treningowe: jak je rozpoznać"
-excerpt: "Jak odróżnić zwykły spadek motywacji od przeciążenia psychofizycznego i zmienić plan aktywności bez diagnozowania zaburzeń."
+excerpt: "Jak odróżnić zwykły spadek motywacji od przeciążenia psychofizycznego i wykorzystać kwiat bławatka wyłącznie jako opcjonalny napój wieczorem."
 date: "2025-07-27"
 category: "Uspokajające"
 ---
@@ -51,13 +51,13 @@ Wróć do treningu, gdy sen, apetyt i codzienna energia są stabilniejsze, a my�
 
 Zwiększaj jeden element po kilku spokojnych jednostkach. Jeśli wraca rozdrażnienie, bezsenność lub ból, cofnij progresję i omów ją z trenerem. Powrót nie powinien wymagać udowadniania, że potrafisz znieść dawną objętość.
 
-## Przytulia wonna jako napój wieczorem
+## Kwiat bławatka jako napój wieczorem
 
-Przytulia wonna (*Galium odoratum*) może być dodatkiem do wieczornego napoju, ale nie leczy wypalenia i nie zastępuje psychologa ani psychiatry. Użyj 0,5 grama suszonego ziela na 250 ml wody o temperaturze 85 stopni Celsjusza, parz 5 minut i odcedź. Jedną porcję zastosuj najwyżej przez jeden wieczór.
+Kwiat bławatka (*Centaurea cyanus*) może być dodatkiem do wieczornego napoju, ale nie leczy wypalenia i nie zastępuje psychologa ani psychiatry. Użyj 1 grama suszonych płatków na 250 ml wody o temperaturze 80 stopni Celsjusza, parz 6 minut pod przykryciem i odcedź. Jedną porcję wypij nie później niż wieczorem drugiego dnia.
 
-Nie stosuj jej przy chorobach wątroby, skłonności do krwawień ani razem z alkoholem. Przy lekach uspokajających, przeciwkrzepliwych lub innych stałych preparatach zapytaj farmaceutę. W ciąży, podczas karmienia i u dzieci napój wymaga indywidualnej konsultacji.
+Nie stosuj go przy alergii na astrowate ani łącz samodzielnie z alkoholem lub lekami uspokajającymi. Przy chorobach przewlekłych, lekach stałych, ciąży i karmieniu zapytaj lekarza albo farmaceutę. Nie podawaj go dziecku bez osobnej zgody specjalisty.
 
-Kupuj surowiec spożywczy z nazwą gatunku, częścią rośliny, numerem partii i terminem ważności. Nie zbieraj przy drogach ani w miejscach opryskiwanych. Przechowuj susz szczelnie, sucho i bez światła; napój potraktuj jako spokojny rytuał, nie terapię.
+Kupuj płatki przeznaczone do spożycia, z nazwą gatunku, częścią rośliny, numerem partii i terminem ważności. Nie zbieraj bławatka przy drodze ani z ozdobnych mieszanek nasiennych. Susz przechowuj szczelnie, sucho i bez światła; napój traktuj jako spokojny rytuał, nie terapię.
 
 ## Kiedy do lekarza
 
@@ -75,6 +75,6 @@ Nie zawsze. Przy łagodnych sygnałach można zostawić spokojny ruch, lecz bez 
 
 Może zmienić objętość, intensywność i terminy startów. Nie zastępuje jednak specjalisty zdrowia psychicznego, gdy objawy wykraczają poza plan sportowy.
 
-### Jak oceniać powrót?
+### Czy napój z bławatka pomaga w powrocie?
 
-Sprawdzaj sen, apetyt, nastrój, codzienną energię i reakcję następnego dnia. Wynik sportowy jest dopiero kolejną informacją, nie jedynym kryterium.
+Nie zakładaj działania leczniczego ani wpływu na gotowość do treningu. O powrocie decydują sen, apetyt, nastrój, codzienna energia i reakcja na stopniowane obciążenie.
