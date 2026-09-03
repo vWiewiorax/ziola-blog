@@ -26,7 +26,7 @@ export default function PostListItem({ post }: { post: PostMeta }) {
           href={`/blog/${post.slug}`}
           className="mt-3 inline-block text-[16px] text-brand hover:underline"
         >
-          Czytaj dalej »
+          Czytaj dalej
         </Link>
       </div>
     </article>

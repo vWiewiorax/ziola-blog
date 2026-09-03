@@ -40,7 +40,17 @@ export default function SearchBox({ variant = "light" }: { variant?: "light" | "
         aria-hidden
         className={`absolute top-1/2 -translate-y-1/2 ${dark ? "left-0 text-neutral-300" : "left-3 text-neutral-500"}`}
       >
-        🔍
+        <svg
+          aria-hidden="true"
+          fill="none"
+          height="16"
+          viewBox="0 0 16 16"
+          width="16"
+          xmlns="http://www.w3.org/2000/svg"
+        >
+          <circle cx="6.75" cy="6.75" r="4.75" stroke="currentColor" strokeWidth="1.5" />
+          <path d="m10.25 10.25 4 4" stroke="currentColor" strokeLinecap="round" strokeWidth="1.5" />
+        </svg>
       </span>
     </form>
   );

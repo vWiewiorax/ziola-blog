@@ -19,7 +19,7 @@ export default function PageBanner({
           </Link>
           {breadcrumb?.map((item) => (
             <span key={item.label}>
-              {" » "}
+              {" / "}
               {item.href ? (
                 <Link href={item.href} className="text-brand hover:underline">
                   {item.label}
