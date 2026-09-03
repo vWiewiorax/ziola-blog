@@ -38,7 +38,7 @@ export default async function HomePage() {
               href={`/blog/${featured.slug}`}
               className="mt-3 inline-block text-[16px] text-brand hover:underline"
             >
-              Czytaj dalej »
+              Czytaj dalej
             </Link>
           </section>
         ) : (

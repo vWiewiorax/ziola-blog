@@ -113,7 +113,7 @@ export default function PostEditor() {
       <div className="flex items-center justify-between">
         <h1 className="text-2xl">{id ? "Edytuj artykuł" : "Nowy artykuł"}</h1>
         <Link href="/admin" className="text-sm text-brand hover:underline">
-          « Wróć do listy
+          Wróć do listy
         </Link>
       </div>
 

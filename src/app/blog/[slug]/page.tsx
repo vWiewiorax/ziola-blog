@@ -122,7 +122,7 @@ export default async function PostPage({ params }: Params) {
               {related.map((item) => (
                 <li key={item.slug}>
                   <Link href={`/blog/${item.slug}`} className="text-brand hover:underline">
-                    {item.title} »
+                    {item.title}
                   </Link>
                 </li>
               ))}
