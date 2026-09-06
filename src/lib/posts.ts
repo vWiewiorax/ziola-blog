@@ -39,12 +39,15 @@ async function getFirestorePosts(): Promise<Post[]> {
 }
 
 /**
- * Artykuły pochodzą z Firestore. Gdy Firebase nie jest skonfigurowany
- * (np. lokalny podgląd bez .env.local), używane są pliki Markdown z content/posts.
+ * Artykuły to suma plików Markdown z content/posts i wpisów z Firestore (panel admina).
+ * Przy tym samym slugu wpis z Firestore ma pierwszeństwo przed plikiem.
  */
 export async function getAllPosts(): Promise<Post[]> {
-  const posts = isFirebaseConfigured() ? await getFirestorePostsSafely() : getLocalPosts();
-  return posts.sort((a, b) => (a.date < b.date ? 1 : -1));
+  const bySlug = new Map(getLocalPosts().map((post) => [post.slug, post]));
+  if (isFirebaseConfigured()) {
+    for (const post of await getFirestorePostsSafely()) bySlug.set(post.slug, post);
+  }
+  return Array.from(bySlug.values()).sort((a, b) => (a.date < b.date ? 1 : -1));
 }
 
 const FIRESTORE_TIMEOUT_MS = 3000;
@@ -58,11 +61,10 @@ function withTimeout<T>(promise: Promise<T>, ms: number): Promise<T> {
 
 async function getFirestorePostsSafely(): Promise<Post[]> {
   try {
-    const posts = await withTimeout(getFirestorePosts(), FIRESTORE_TIMEOUT_MS);
-    return posts.length ? posts : getLocalPosts();
+    return await withTimeout(getFirestorePosts(), FIRESTORE_TIMEOUT_MS);
   } catch (error) {
     console.error("Nie udało się pobrać artykułów z Firestore:", error);
-    return getLocalPosts();
+    return [];
   }
 }
 
