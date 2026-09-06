@@ -4,8 +4,8 @@ import { collection, deleteDoc, doc, getDocs, orderBy, query } from "firebase/fi
 import Link from "next/link";
 import { useCallback, useEffect, useState } from "react";
 import AdminGuard from "@/components/admin/admin-guard";
+import AdminNav from "@/components/admin/admin-nav";
 import { revalidatePublicPages } from "@/components/admin/revalidate";
-import { useAdminSession } from "@/components/admin/use-admin-session";
 import { getDb } from "@/lib/firebase";
 import { formatDate, POSTS_COLLECTION } from "@/lib/post-utils";
 
@@ -18,7 +18,6 @@ type AdminPost = {
 };
 
 function PostsTable() {
-  const { logout } = useAdminSession();
   const [posts, setPosts] = useState<AdminPost[]>([]);
   const [loading, setLoading] = useState(true);
   const [error, setError] = useState("");
@@ -66,15 +65,13 @@ function PostsTable() {
 
   return (
     <div>
+      <AdminNav />
       <div className="flex flex-wrap items-center justify-between gap-3">
         <h1 className="text-2xl">Twoje artykuły</h1>
         <div className="flex gap-4 text-sm">
           <Link href="/admin/edytor" className="bg-brand px-4 py-2 text-white hover:bg-brand-dark">
             + Nowy artykuł
           </Link>
-          <button onClick={logout} className="text-brand hover:underline">
-            Wyloguj
-          </button>
         </div>
       </div>
 

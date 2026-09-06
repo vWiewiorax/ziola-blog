@@ -1,4 +1,5 @@
 import Link from "next/link";
+import Logo from "./logo";
 
 export default function SiteFooter() {
   return (
@@ -6,7 +7,7 @@ export default function SiteFooter() {
       <div className="mx-auto grid max-w-6xl gap-8 px-4 py-12 sm:grid-cols-3">
         <div>
           <p className="font-[family-name:var(--font-montserrat)] text-xl font-semibold text-white">
-            🌿 Herbalum
+            <Logo className="inline-block h-5 w-5 align-[-3px] text-brand" /> Herbalum
           </p>
           <p className="mt-3 text-[15px] leading-relaxed">
             Rzetelne poradniki o ziołach, naparach i naturalnych sposobach na zdrowie.

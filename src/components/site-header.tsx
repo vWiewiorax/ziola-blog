@@ -1,5 +1,6 @@
 import Link from "next/link";
 import { Suspense } from "react";
+import Logo from "./logo";
 import SearchBox from "./search-box";
 
 const topLinks = [
@@ -39,9 +40,7 @@ export default function SiteHeader() {
 
       <div className="mx-auto max-w-6xl px-4 py-6">
         <Link href="/" className="inline-flex items-center gap-3">
-          <span className="text-5xl leading-none" aria-hidden>
-            🌿
-          </span>
+          <Logo className="h-12 w-12 text-brand" />
           <span>
             <span className="block font-[family-name:var(--font-montserrat)] text-4xl font-bold leading-tight text-black">
               Herb<span className="text-brand">alum</span>

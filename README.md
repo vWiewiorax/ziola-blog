@@ -2,7 +2,7 @@
 
 Blog o ziołach i zdrowiu naturalnym: Next.js 15 (App Router), TypeScript, Tailwind CSS 4 i Firebase
 (Firestore + Authentication). Artykuły dodajesz z panelu `/admin` — dostęp ma wyłącznie konto
-właściciela.
+właściciela. Wiadomości z formularza kontaktowego są dostępne w `/admin/wiadomosci`.
 
 ## Uruchomienie lokalne
 
