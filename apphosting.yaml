@@ -36,7 +36,7 @@ env:
       - BUILD
       - RUNTIME
   - variable: NEXT_PUBLIC_ADMIN_UID
-    value: "W1VpatvhZKaG9ONkoTVNMF8F2DV2"
+    value: "BPEAxQJy1cgw7ORHR5Fizz1644G2"
     availability:
       - BUILD
       - RUNTIME

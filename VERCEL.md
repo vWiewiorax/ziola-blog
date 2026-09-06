@@ -22,7 +22,7 @@ Ustaw dla wszystkich środowisk (Production, Preview, Development):
 | `NEXT_PUBLIC_FIREBASE_STORAGE_BUCKET` | `ziolablog.firebasestorage.app` |
 | `NEXT_PUBLIC_FIREBASE_MESSAGING_SENDER_ID` | `545631318515` |
 | `NEXT_PUBLIC_FIREBASE_APP_ID` | `1:545631318515:web:26d87bc4e8a0044ce52286` |
-| `NEXT_PUBLIC_ADMIN_UID` | `W1VpatvhZKaG9ONkoTVNMF8F2DV2` |
+| `NEXT_PUBLIC_ADMIN_UID` | `BPEAxQJy1cgw7ORHR5Fizz1644G2` |
 | `NEXT_PUBLIC_SITE_URL` | `https://twoja-domena.pl` (tylko Production) |
 
 Te wartości są publiczne z założenia — dostęp do danych ogranicza `firestore.rules`. Nie dodawaj tu
