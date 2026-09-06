@@ -41,8 +41,9 @@ function PostsTable() {
         }),
       );
       setError("");
-    } catch {
-      setError("Nie udało się pobrać listy artykułów.");
+    } catch (caught) {
+      const reason = caught instanceof Error ? caught.message : String(caught);
+      setError(`Nie udało się pobrać listy artykułów: ${reason}`);
     } finally {
       setLoading(false);
     }
