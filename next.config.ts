@@ -5,13 +5,18 @@ const emulatorOrigins = process.env.NEXT_PUBLIC_FIREBASE_EMULATOR_HOST
   ? " http://127.0.0.1:* http://localhost:*"
   : "";
 
+// Tryb deweloperski Next.js (React Refresh, HMR) wymaga eval i websocketu na localhost.
+const isDev = process.env.NODE_ENV === "development";
+const devScript = isDev ? " 'unsafe-eval'" : "";
+const devConnect = isDev ? " ws://localhost:* ws://127.0.0.1:* http://localhost:* http://127.0.0.1:*" : "";
+
 const contentSecurityPolicy = [
   "default-src 'self'",
-  "script-src 'self' 'unsafe-inline' https://apis.google.com https://www.gstatic.com",
+  `script-src 'self' 'unsafe-inline'${devScript} https://apis.google.com https://www.gstatic.com`,
   "style-src 'self' 'unsafe-inline'",
   "img-src 'self' data: blob: https:",
   "font-src 'self' data:",
-  `connect-src 'self' https://*.googleapis.com https://*.firebaseio.com wss://*.firebaseio.com https://securetoken.googleapis.com https://identitytoolkit.googleapis.com${emulatorOrigins}`,
+  `connect-src 'self' https://*.googleapis.com https://*.firebaseio.com wss://*.firebaseio.com https://securetoken.googleapis.com https://identitytoolkit.googleapis.com${emulatorOrigins}${devConnect}`,
   "frame-src https://*.firebaseapp.com",
   "frame-ancestors 'none'",
   "base-uri 'self'",
