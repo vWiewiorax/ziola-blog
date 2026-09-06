@@ -6,7 +6,7 @@ service cloud.firestore {
     // UID właściciela bloga — jedyne konto z prawem zapisu.
     function isOwner() {
       return request.auth != null
-        && request.auth.uid == 'W1VpatvhZKaG9ONkoTVNMF8F2DV2';
+        && request.auth.uid == 'BPEAxQJy1cgw7ORHR5Fizz1644G2';
     }
 
     function validPost(data) {
